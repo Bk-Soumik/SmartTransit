@@ -1,0 +1,2450 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type
+chalo-AAONVLDj,WBTC,S-5,S-5,Howrah Bus Stand to Garia More Near Bata,3
+chalo-AAPPQrLP,WBTC,AC-37B,AC-37B,Airport Gate 1 to Garia More Near Bata,3
+chalo-AAfFDzNj,WBTC,AC-1,AC-1,Jadavpur 8B Stand to Howrah Bus Stand,3
+chalo-ABnTysWY,WBTC,VS-2,VS-2,Howrah Bus Stand to Airport Ac Bus Stand,3
+chalo-AFZOrMNR,WBTC,AC-50L,AC-50L,Garia Depot to Belur Math,3
+chalo-AGWeOOWA,WBTC,E-47,E-47,Howrah Bus Stand to Nahatar More Bus Stop,3
+chalo-AJasilxU,WBTC,E-4,E-4,Howrah Bus Stand to Parnasree,3
+chalo-ALXHQClX,WBTC,NS-3,NS-3,Howrah Bus Stand to Barasat,3
+chalo-ASaBrejG,WBTC,C-39,C-39,Nabanna Bus Terminus to Raja Bazar Tram Depot,3
+chalo-AVRTmWhN,WBTC,VS-1,VS-1,Airport Taxi Stand Gate No 1 to Esplanade Tram Depot,3
+chalo-AZmLseoO,WBTC,BE11B,BE11B,Karunamoyee Bus Stand to Esplanade,3
+chalo-AcuWiUXF,WBTC,S-48A,S-48A,Behala Chowrasta to BBD Bagh Tram Depot,3
+chalo-AnMqiemG,WBTC,NS-2R,NS-2R,Barrackpore Railway Station to Howrah Station,3
+chalo-ApVzwcfC,WBTC,S-31,S-31,Behala Chow Rastha to Jadavpur 8B Stand,3
+chalo-AtMZDzRi,WBTC,S-22A,S-22A,Dakghar to Karunamoyee Bus Stand,3
+chalo-AxPFvOTl,WBTC,NS-3,NS-3,Barasat to Howrah Bus Stand,3
+chalo-BEdvIztu,WBTC,NS-14,NS-14,New Town Bus Stand to Howrah Station,3
+chalo-BINoAUvL,WBTC,AC-2B,AC-2B,Rathtala to Sukanto Setu,3
+chalo-BJIADdhF,WBTC,E-7,E-7,Bagnan Railway Station to Esplanade Wbtc Tram Stand,3
+chalo-BKOYJbIc,WBTC,AC-50L,AC-50L,Belur Math to Garia More Near Bata,3
+chalo-BLPVZvrC,WBTC,AC-4BT,AC-4BT,Newtown to Joka Bus Depot,3
+chalo-BMGJSTDQ,WBTC,VS-10,VS-10,Unitech Gate 2 to Kudhghat Bus Stand,3
+chalo-BOnsafGe,WBTC,V9L,V9L,Newtown to Tollygung Tram Depot,3
+chalo-BPqRcrob,WBTC,AC-54,AC-54,Howrah Bus Stand to Rathtala,3
+chalo-BPyyKMft,WBTC,AC-54,AC-54,Rathtala to Howrah Station,3
+chalo-BRfdaqHb,WBTC,AC-52L,AC-52L,Howrah Bus Stand to Prativa Nagar Bankura,3
+chalo-BYHSlZFJ,WBTC,S-6A,S-6A,Howrah Bus Stand to Garia Station,3
+chalo-BaTGAsPU,WBTC,D-12,D-12,Karunamoyee to Dankuni Housing Bus Stand,3
+chalo-BcYyGFjL,WBTC,C-20,C-20,Esplanade Bus Terminus to Santragachi Station,3
+chalo-BehhgmPY,WBTC,VS-14,VS-14,Esplanade Bus Terminus to Airport Gate 1,3
+chalo-BggsJRve,WBTC,AC-5,AC-5,Howrah Bus Stand to Garia More Near Bata,3
+chalo-BiTGZNIb,WBTC,M-18N,M-18N,Tollygung Tram Depot to Sarsuna,3
+chalo-BicwhHwB,WBTC,ROUTE3,ROUTE3,Daihata to Sealdah Railway Station,3
+chalo-BsnDMHqZ,WBTC,AC-47L,AC-47L,Kudghat to Sapoorji Complex Bus Stop,3
+chalo-BtQBjPGF,WBTC,AC-54RL,AC-54RL,Howrah Bus Stand to Rathtala,3
+chalo-BwWYjMMU,WBTC,11A,11A,Dum Dum Station Or Dum Dum Metro to Howrah Bus Stand,3
+chalo-BzjPCyTs,WBTC,7A,7A,Howrah Bus Stand to Sarsuna Bus Stand,3
+chalo-CcGnswSn,WBTC,S-17A,S-17A,Kudghat to Ariadaha Or Ramgarh Bus Stop,3
+chalo-CcUUsVzF,WBTC,S-53,S-53,Unitech Gate 2 to Kolkata Railway Station,3
+chalo-CkFFDWsK,WBTC,S-48,S-48,Airport Gate 1 to Behala Chowrasta,3
+chalo-CmypXoIa,WBTC,S-3W,S-3W,Aliah University to Joka Bus Depot,3
+chalo-CpClIvim,WBTC,ST 7,ST 7,Sapoorji Complex Bus Stop to Ultadanga Bus Terminal,3
+chalo-CrYIrrOn,WBTC,S-12E,S-12E,Hiland Willows to Howrah Bus Stand,3
+chalo-DCLMGMLr,WBTC,C-47,C-47,Santragachi Station to Garia Station,3
+chalo-DICASzWH,WBTC,NS-2,NS-2,Barrakpore to Howrah Bus Stand,3
+chalo-DNXWwgLC,WBTC,S-12D,S-12D,Thakurpukur 3A Bus Stand to Howrah Bus Stand,3
+chalo-DSgVtYHy,WBTC,E-22,E-22,Mahishbathan to Esplanade Bus Terminus,3
+chalo-DTilBsGF,WBTC,AC-6,AC-6,Garia Depot to Howrah Bus Stand,3
+chalo-DTodOoHL,WBTC,S-14,S-14,Garia Depot to Karunamoyee Circle,3
+chalo-DXcagWae,WBTC,AC-50LE,AC-50LE,Belur Math to Garia More Near Bata,3
+chalo-DkIUNMnJ,WBTC,S-32A,S-32A,Howrah Bus Stand to Dunlop Bridge,3
+chalo-DxksIdsa,WBTC,S-62,S-62,Ramnagar Bus Terminus to Baishnabghata Fire Station,3
+chalo-EAxGAlBG,WBTC,S-19,S-19,Jadavpur 8B Stand to Ultadanga Bus Terminal,3
+chalo-EDNqUPCQ,WBTC,S-7,S-7,Howrah Bus Stand to Garia More Near Bata,3
+chalo-EIIMtrrX,WBTC,AC-9A,AC-9A,Golf Green to Dakshineswar PWD Road,3
+chalo-ELUIohDx,WBTC,D-21,D-21,Nazat Bus Stand to Esplanade Bus Terminus,3
+chalo-EMPcMORp,WBTC,S-14C,S-14C,Newtown to Ariadaha,3
+chalo-EMkIizLP,WBTC,C-31,C-31,Karunamoyee to Bhattanagar bus stop,3
+chalo-EQAbkLDT,WBTC,S 58,S 58,Barrackpore Court Terminus to Karunamoyee Bus Stand,3
+chalo-EULhXjFu,WBTC,T 2,T 2,Mandirtala to Dalhousie Or United Tower,3
+chalo-EXVcpoQa,WBTC,C-46A,C-46A,Park Circus Tram Depot to Baruipur,3
+chalo-EYPrvdUH,WBTC,D-23A,D-23A,Esplanade Bus Terminus to Barasat Champadali More,3
+chalo-EawTkDft,WBTC,C-36,C-36,CTC Bus Stand Baksara to Raja Bazar Tram Depot,3
+chalo-EgvEdMmz,WBTC,S-2A,S-2A,Paikpara 2 No Stand to Patuli Police Station,3
+chalo-EliEQMKb,WBTC,ST-16,ST-16,Joinpur to Sapoorji Complex Bus Stop,3
+chalo-EtOOiICt,WBTC,T-12,T-12,Malancho Bus Stop to Howrah Station,3
+chalo-EuGluCME,WBTC,T-13,T-13,Jibantala Bus Stop to Esplanade Tram Depot,3
+chalo-EudUOdMZ,WBTC,VS-6,VS-6,Esplanade Bus Terminus to Diamond Harbour Station Road,3
+chalo-EyYVJRAX,WBTC,NS 8,NS 8,Ballygunge Station to Howrah Bus Stand,3
+chalo-FHunLnVS,WBTC,MW-7B,MW-7B,Bantala It Park to Science City,3
+chalo-FTcugvAo,WBTC,C-37,C-37,Howrah Bus Stand to Amtala Crossing Bus Stand,3
+chalo-FUCLAyES,WBTC,S-14,S-14,Karunamoyee Circle to Garia More Near Bata,3
+chalo-FUGpujXr,WBTC,S-13,S-13,Amtala to Ultadanga VIP,3
+chalo-FYZfRIxA,WBTC,NS 1,NS 1,Howrah Bus Stand to Airport Gate 1,3
+chalo-FaPVWdbU,WBTC,S-30D,S-30D,Dum Dum Park to Dum Dum Park,3
+chalo-FbWdNnCT,WBTC,3A-2,3A-2,Sarsuna to Salt Lake Depot,3
+chalo-FiXUJKBI,WBTC,E-31A,E-31A,Howrah Bus Stand to Jhikira Bus Stop,3
+chalo-FozdhEYp,WBTC,S-37,S-37,Garia More Near Bata to Barasat,3
+chalo-FqKtSMou,WBTC,EB-3,EB-3,Ecospace Business Park to Tollygunge Metro,3
+chalo-FqivqTEK,WBTC,VS-2,VS-2,Airport Ac Bus Stand to Howrah Station,3
+chalo-FrgYOsDB,WBTC,T-11,T-11,Esplanade Wbtc Tram Stand to Haroa More,3
+chalo-FscsWkAS,WBTC,NS 12,NS 12,Howrah Bus Stand to Kazipara Bus Stand,3
+chalo-FvULAUFw,WBTC,S-10AN,S-10AN,Nabanna Bus Terminus to Ballygunge Station,3
+chalo-FwBEoCjb,WBTC,S-4CN,S-4CN,Nabanna Bus Terminus to Haridebpur Bus Stand,3
+chalo-FzGWCHlk,WBTC,D-8,D-8,Baduria Bus Stand to Big Bazar Chapadali More,3
+chalo-GGMkszEJ,WBTC,E-29,E-29,FatikGachi Bus Stand to Raja Bazar Tram Depot,3
+chalo-GGSqDiVi,WBTC,M-34,M-34,2 NO RAIL GATE to Esplanade Metro,3
+chalo-GJCmtect,WBTC,C-48A,C-48A,Baruipur Hospital to Park Circus Xing,3
+chalo-GNDzXIPN,WBTC,S-24,S-24,Kamal Gazi Bypass to Howrah Station,3
+chalo-GTddteTU,WBTC,C-48A,C-48A,Park Circus 7 Point to Baruipur Hospital,3
+chalo-GVXtmuFG,WBTC,MW-7,MW-7,Bantala It Park to Airport Gate 1,3
+chalo-GWRUTvib,WBTC,AC-12D,AC-12D,Howrah Bus Stand to Joka Bus Depot,3
+chalo-GXxjsYBD,WBTC,E-26,E-26,Kalyani Bus Terminal to Barasat Champadali More,3
+chalo-GhIaHtTs,WBTC,M-15A,M-15A,14 No Bus Stand Behala to Dakshinapan Shopping Complex Dhakuria,3
+chalo-GhpcwRab,WBTC,S-5C,S-5C,Nayabad Stand to Howrah Bus Stand,3
+chalo-GmRbcIFn,WBTC,IDE-1,IDE-1,Garia More Near Bata to Barasat Champadali More,3
+chalo-GvzkwkhX,WBTC,C-45,C-45,Ghola Kadam Tala Bus Stop to Howrah Station,3
+chalo-HBfBugQz,WBTC,MX2,MX2,Canal West Bus Stand to Nabanna Bus Terminus,3
+chalo-HCFwIvNw,WBTC,S-2B,S-2B,Bag Bazar Bus Depot to Avishikta Mandirpara,3
+chalo-HIosvfnc,WBTC,E-18,E-18,Dhamakhali Ferry Ghat to Babughat Bus Stand,3
+chalo-HJMozDLB,WBTC,S-11N,S-11N,Nilganj Depot to Nabanna Bus Terminus,3
+chalo-HJuMJEIG,WBTC,S-48,S-48,Behala Chowrasta to Airport Gate 1,3
+chalo-HVkfXNUt,WBTC,C-49,C-49,Nabanna Bus Terminus to Baruipur,3
+chalo-HYbrAjnJ,WBTC,S-44,S-44,Nabanna to Eco Park,3
+chalo-HYiizSXo,WBTC,AC-53L,AC-53L,Santragachi Station to Baisnab Ghata,3
+chalo-HaBnhlnv,WBTC,AC-59L,AC-59L,Howrah Bus Stand to Karunamoyee Circle,3
+chalo-HfEwqWGu,WBTC,S-32,S-32,Howrah Bus Stand to Barrackpore Court Terminus,3
+chalo-HipbYIjW,WBTC,E32R,E32R,Howrah Bus Stand to Nilgunj Depot,3
+chalo-HkYWnPCD,WBTC,C-46B,C-46B,Mandirtala to Esplanade Bus Terminus,3
+chalo-HnnlsPro,WBTC,K-3,K-3,Kudghat to Saheb Bagan,3
+chalo-HskFCFPd,WBTC,AC-24AL,AC-24AL,Howrah Bus Stand to Kamal Gazi Bypass,3
+chalo-HwlgqFcD,WBTC,NS 5,NS 5,Howrah Bus Stand to Garia More Near Bata,3
+chalo-ILykLwOr,WBTC,M-24,M-24,Howrah Bus Stand to Shibtala Math,3
+chalo-ISKrqqDr,WBTC,GL-2,GL-2,Howrah Bus Stand to Big Bazar Chapadali More,3
+chalo-ITjvuXeD,WBTC,D-12,D-12,Dankuni Housing Bus Stand to Karunamoyee,3
+chalo-IZhdKKnC,WBTC,E-33,E-33,Antpur to Habra Bus Terminus,3
+chalo-IarChNCD,WBTC,S-15G,S-15G,Dakshineswar PWD Road to Padmapukur or Baruipur,3
+chalo-Ioqsycbo,WBTC,DS,DS,Howrah Bus Stand to Hind Cinema,3
+chalo-IvfGiUei,WBTC,EB-2A,EB-2A,Karunamoyee Circle to Tollygung Tram Depot,3
+chalo-IxnJTRwn,WBTC,C-41,C-41,Birati More to Tollygung Tram Depot,3
+chalo-IzeiehqM,WBTC,C-48,C-48,Dakshineswar to Baruipur Hospital,3
+chalo-JDbNVUef,WBTC,AC-43L,AC-43L,Golf Green to Airport Gate 3,3
+chalo-JEzvOWDg,WBTC,E-47,E-47,Nahatar More Bus Stop to Howrah Station,3
+chalo-JFwzEbAN,WBTC,D-5,D-5,Karunamoyee to Uttarpara College,3
+chalo-JGmcHrwf,WBTC,AC-31,AC-31,Jadavpur 8B Stand to Behala Chow Rastha,3
+chalo-JQHcRyJE,WBTC,AC-50AL,AC-50AL,Rajchandrapur to Garia More Near Bata,3
+chalo-JYCqscuP,WBTC,AC-40T,AC-40T,Airport Gate 1 to Howrah Maidan,3
+chalo-JYVETsTw,WBTC,S-47,S-47,Howrah Bus Stand to Eden City,3
+chalo-JmFejphx,WBTC,E-18,E-18,Babughat Bus Stand to Dhamakhali Ferry Ghat,3
+chalo-JqRtMjJQ,WBTC,S-12NA,S-12NA,Nabanna Bus Terminus to Karunamoyee Bus Stand,3
+chalo-JssGMzfZ,WBTC,EB-4,EB-4,Botanical Garden to Garia More Near Bata,3
+chalo-JvCwQINZ,WBTC,MIDI-1,MIDI-1,Raja Bazar Junction Sealdah to Howrah Maidan,3
+chalo-KCdOYxOG,WBTC,AC-2,AC-2,Howrah Bus Stand to Barasat,3
+chalo-KCtVYjKr,WBTC,S-21 (CSTC),S-21 (CSTC),Garia More Near Bata to Bag Bazar Bus Depot,3
+chalo-KEvxmHvQ,WBTC,C-8,C-8,Genexx Valley to Kazipara Bus Stand,3
+chalo-KHReOwMN,WBTC,S-37A,S-37A,Garia More Near Bata to Airport Gate 1,3
+chalo-KOQsUSpq,WBTC,S-9C,S-9C,Ecospace Business Park to Kamalgazi,3
+chalo-KPibZHCb,WBTC,S-12C,S-12C,Nayabad Stand to Paikpara Bus Stop,3
+chalo-KQVoFloL,WBTC,E-21,E-21,Shikarpur Bus Stand to Esplanade Bus Terminus,3
+chalo-KQotLBsE,WBTC,T 2,T 2,Dalhousie Or United Tower to Mandirtala,3
+chalo-KhpoTnRJ,WBTC,S-15G,S-15G,Padmapukur or Baruipur to Dakshineswar PWD Road,3
+chalo-KlAhfIJo,WBTC,AC-24L,AC-24L,Howrah Bus Stand to Baisnab Ghata,3
+chalo-KwMnsHNG,WBTC,AC-T3A,AC-T3A,Barasat Champadali More to Santragachi Bus Terminus,3
+chalo-LAqDtNmn,WBTC,D-17,D-17,Kolkata West International City to Garia Depot,3
+chalo-LFfvYDWf,WBTC,S-4D,S-4D,Parnasree to Newtown,3
+chalo-LIlAczRH,WBTC,S-47A,S-47A,Howrah Bus Stand to Behala Airport,3
+chalo-LQfLFpYM,WBTC,S-9A,S-9A,Dunlop to Ballygunge Station,3
+chalo-LUUZsqsI,WBTC,C-42,C-42,Ganganagar Bus Terminus to Howrah Station,3
+chalo-LWXVFkdQ,WBTC,C-42,C-42,Howrah Bus Stand to Ganganagar Bus Terminus,3
+chalo-LXMnojBW,WBTC,S-7C,S-7C,Howrah Bus Stand to Sasthir More,3
+chalo-LatEiKsl,WBTC,S-12 Book Fair Special,S-12 Book Fair Special,Newtown to Howrah Bus Stand,3
+chalo-LdgQgNVr,WBTC,AC-T2,AC-T2,Kalitala Rajchandrapur to Karunamoyee,3
+chalo-LemmLMIM,WBTC,AC-34,AC-34,Dakshineswar PWD Road to Howrah Bus Stand,3
+chalo-LqZIputP,WBTC,S-7C,S-7C,Sasthir More to Howrah Bus Stand,3
+chalo-LvGiPFXd,WBTC,AC-4,AC-4,Parnasree to Howrah Bus Stand,3
+chalo-LwYPnakM,WBTC,NS 9R,NS 9R,Ballygunge Station to Dunlop,3
+chalo-MHIEIuUf,WBTC,NS 13,NS 13,Belgachia Tram Deport to Esplanade  Wbtc Tram Stand,3
+chalo-MKWPitHR,WBTC,EB-1,EB-1,Santragachi Station to Rathtala,3
+chalo-MNYaLPEK,WBTC,AC-4AL,AC-4AL,Sapoorji Complex Bus Stop to Parnasree,3
+chalo-MPPqVgkX,WBTC,S-12G,S-12G,Nabanna to Newtown,3
+chalo-MYgShNkb,WBTC,M-11A,M-11A,Rathtala to Dum Dum Station Or Dum Dum Metro,3
+chalo-MZdrwOJN,WBTC,C-46,C-46,Baruipur to Park Circus Xing,3
+chalo-MiJwaEQm,WBTC,S-5C,S-5C,Howrah Bus Stand to Nayabad Stand,3
+chalo-MkGuDkKV,WBTC,C-46C,C-46C,Park Circus Tram Depot to Telephone Bhavan,3
+chalo-MlRKOPav,WBTC,NS-11,NS-11,Howrah Bus Stand to Karunamoyee Bus Stand,3
+chalo-MlfYPsIx,WBTC,AC-34L,AC-34L,Ariadaha to Howrah Bus Stand,3
+chalo-MmBctwlD,WBTC,D 6,D 6,Nabanna Bus Terminus to Ballykhal Bus Stop,3
+chalo-MtIsurxz,WBTC,C-23A,C-23A,Park Circus Tram Depot to Airport Taxi Stand Gate No 1,3
+chalo-MyYSACEd,WBTC,S-42,S-42,Thakurpukur 3A Bus Stand to Santragachi Station,3
+chalo-MymRJVEy,WBTC,E-13,E-13,Jangipara New Bus Stop to Esplanade Bus Terminus,3
+chalo-MzIOcyhS,WBTC,E-37,E-37,Hasnabad Bus Stand to Esplanade Bus Terminus,3
+chalo-NLoLspPW,WBTC,E-64,E-64,Chinsurah to Esplanade Bus Terminus,3
+chalo-NOFTvZZI,WBTC,psp-9,psp-9,Gariahat Term Depot to Raja Bazar Tram Depot,3
+chalo-NPnKQjLC,WBTC,S-4,S-4,Parnasree to Salt Lake Depot,3
+chalo-NRvIRVlX,WBTC,S-58,S-58,Karunamoyee Bus Stand to Barrackpore Court Terminus,3
+chalo-NTjLDZhK,WBTC,NS 5,NS 5,Garia More Near Bata to Howrah Bus Stand,3
+chalo-NeiDHUat,WBTC,S-32A,S-32A,Dunlop Bridge to Howrah Bus Stand,3
+chalo-NnRgtPgk,WBTC,T1,T1,Dhulagarh Crossing to Raja Bazar Tram Depot,3
+chalo-NoWYRhtL,WBTC,C11-2,C11-2,Domjur Bus Stand to Newtown,3
+chalo-NpmOAVlZ,WBTC,AC-53L,AC-53L,Baisnab Ghata to Santragachi Station,3
+chalo-NrFHiQDS,WBTC,E-52,E-52,Barasat to Amta Bus Stand,3
+chalo-NxvkupmP,WBTC,AC-41L,AC-41L,Santragachi Station to Aliah University,3
+chalo-NyNryTaZ,WBTC,ST-12,ST-12,Baruipur Barasat Bus Stop to Sapoorji,3
+chalo-NztUGaDt,WBTC,M-7B,M-7B,Shibrampur Bus Stop to Howrah Station,3
+chalo-OCZASeag,WBTC,AC-40,AC-40,Airport Gate 1 to Howrah Maidan,3
+chalo-OEMkkwbZ,WBTC,NS-2,NS-2,Howrah Bus Stand to Barrakpore,3
+chalo-OHuHETha,WBTC,ST-12,ST-12,Sapoorji to Baruipur Barasat Bus Stop,3
+chalo-OIpGZRFL,WBTC,NB 1,NB 1,Raja Bazar Junction Sealdah to Nabanna Bus Terminus,3
+chalo-OJsQQRqY,WBTC,AC-9L,AC-9L,Jadavpur 8B Stand to Karunamoyee Circle,3
+chalo-OMAysndt,WBTC,E37A,E37A,Barasat to Esplanade Bus Terminus,3
+chalo-OMisVHgp,WBTC,12-DN,12-DN,Thakurpukur 3A Bus Stand to Nabanna Bus Terminus,3
+chalo-OPNjZmkF,WBTC,E-48A,E-48A,Kachrapara to Habra Station,3
+chalo-OjDsueVe,WBTC,C-25,C-25,Bikash Bhawan to Howrah Bus Stand,3
+chalo-OlTkedZS,WBTC,S-4CN,S-4CN,Haridebpur Bus Stand to Nabanna Bus Terminus,3
+chalo-OmXYRksT,WBTC,M-7K,M-7K,Khudiram Park Stand to Sealdah Railway Station,3
+chalo-OsEgVvsY,WBTC,E-44,E-44,Radhanagar to Esplanade Tram Depot,3
+chalo-PAOmjVOE,WBTC,EB-2,EB-2,Joka Tram Depot to Ballygunge Station,3
+chalo-PHlVyCfM,WBTC,S-12,S-12,Howrah Bus Stand to Newtown,3
+chalo-PJOgIQBn,WBTC,E-31A,E-31A,Jhikira Bus Stop to Howrah Bus Stand,3
+chalo-PTSMqVxc,WBTC,NS-9,NS-9,Ballygunge Station to Dunlop,3
+chalo-PdZnzVua,WBTC,D-11,D-11,Baduria Bus Stand to Esplanade Bus Terminus,3
+chalo-PhxsfzGZ,WBTC,C-37,C-37,Amtala Crossing Bus Stand to Howrah Station,3
+chalo-PjBtqcgf,WBTC,AC-T3,AC-T3,Barasat to Santragachi Station,3
+chalo-PkBsKunz,WBTC,AC-17BL,AC-17BL,Kudghat to Sinthi More,3
+chalo-PpzWbnHb,WBTC,AC-34,AC-34,Howrah Bus Stand to Dakshineswar,3
+chalo-PqNnDFNR,WBTC,AC-4AL,AC-4AL,Parnasree to Sapoorji Complex Bus Stop,3
+chalo-PsVwwfpM,WBTC,S-3W,S-3W,Joka Bus Depot to Aliah University,3
+chalo-PsrYZGxU,WBTC,S-30,S-30,Ultadanga Bus Terminal to Ecospace Business Park,3
+chalo-PuGzrpoh,WBTC,C-44,C-44,Howrah Bus Stand to Achipur,3
+chalo-PuWtmpIO,WBTC,S-3A,S-3A,Thakurpukur 3A Bus Stand to Sealdah Railway Station,3
+chalo-PzjreFKd,WBTC,C-2A,C-2A,Tollygung Tram Depot to Ghatak Pukur 213 A Bus Stand,3
+chalo-QJNyEMCT,WBTC,D-28A,D-28A,Chakla to Big Bazar Chapadali More,3
+chalo-QLWvkWTk,WBTC,EB-1,EB-1,Newtown to Nabanna,3
+chalo-QMvtGiSj,WBTC,E-26,E-26,Barasat Champadali More to Kalyani Bus Terminal,3
+chalo-QOWjBpiU,WBTC,C11-1,C11-1,Munshirhat Bazar to Howrah Bus Stand,3
+chalo-QQCFwtmj,WBTC,C-23,C-23,Park Circus Xing to Dankuni Housing,3
+chalo-QSwDqbuj,WBTC,C-8A,C-8A,Tollygung Tram Depot to Airport Gate 1,3
+chalo-QYnEiPeZ,WBTC,S-21 (CSTC),S-21 (CSTC),Bag Bazar Bus Depot to Garia More Near Bata,3
+chalo-QmrUUcOh,WBTC,T-10,T-10,Chaital Ghat to Raja Bazar Tram Depot,3
+chalo-QtrJFhDa,WBTC,AC-17,AC-17,Haridebpur Bus Stand to Wipro,3
+chalo-RANcdvTE,WBTC,M-24,M-24,Shibtala Math to Howrah Bus Stand,3
+chalo-RAXkKZaZ,WBTC,E-47A,E-47A,Habra Railway Station to Howrah Station,3
+chalo-RDvvIegz,WBTC,D-16,D-16,Kolkata West International City to Newtown,3
+chalo-REWiTeFU,WBTC,AC-43,AC-43,Airport Gate 3 to Golf Green,3
+chalo-RGmEmfPx,WBTC,C-46C,C-46C,Telephone Bhavan to Park Circus Tram Depot,3
+chalo-ROwaawPb,WBTC,AC-35L,AC-35L,Milk Colony 3B Bus Stand to Sapoorji,3
+chalo-RYDQoEdv,WBTC,S-4,S-4,Salt Lake Depot to Parnasree,3
+chalo-RaQcRjjH,WBTC,S 59,S 59,Howrah Bus Stand to Karunamoyee Station,3
+chalo-RbAcMUMR,WBTC,D-7,D-7,Bagdah Bus Stop to Barasat,3
+chalo-RcHcHbuH,WBTC,EB-6,EB-6,Dharsa to Nabanna Bus Terminus,3
+chalo-RfvOgXbk,WBTC,V-1,V-1,Tollygunge Metro to Airport Gate 1,3
+chalo-RyVRiInx,WBTC,ORD 1,ORD 1,Howrah Bus Stand to Amtala Crossing Bus Stand,3
+chalo-SCYlWskr,WBTC,AC-37L,AC-37L,Garia More Near Bata to Barasat,3
+chalo-SIeWyuCM,WBTC,C-51,C-51,Ramakrishna Talkies Naihati to Nabanna,3
+chalo-SKeqOyOJ,WBTC,S-32R,S-32R,Howrah Station to Barrackpore Court Terminus,3
+chalo-SLSrCPOf,WBTC,S-7N,S-7N,Garia More Near Bata to Nabanna,3
+chalo-SLkciqKN,WBTC,AC-9L,AC-9L,Karunamoyee Circle to Jadavpur 8B Stand,3
+chalo-SMLgiRID,WBTC,M-7C,M-7C,Howrah Bus Stand to Sasthir More,3
+chalo-SMpIqwwE,WBTC,EB-4,EB-4,Garia More Near Bata to Botanical Garden,3
+chalo-SShtEkCn,WBTC,7A,7A,Sarsuna Bus Stand to Howrah Bus Stand,3
+chalo-SWZoPgCO,WBTC,C-33,C-33,Park Circus Xing to Makhla,3
+chalo-SZVIAcok,WBTC,T-12C,T-12C,Park Circus Xing to Ghatak Pukur 213 A Bus Stand,3
+chalo-ScCurdiN,WBTC,AC-V9L,AC-V9L,Tollygung Tram Depot to Newtown,3
+chalo-SdBGGwAh,WBTC,AC-41L,AC-41L,Aliah University to Santragachi Station,3
+chalo-SekZfxaV,WBTC,M-7E,M-7E,Bagpota to Howrah Bus Stand,3
+chalo-SkNUVGSg,WBTC,M-7E,M-7E,Howrah Bus Stand to Bagpota,3
+chalo-SlDqjzOQ,WBTC,AC-16,AC-16,Behala Chowrasta to Tollygung Tram Depot,3
+chalo-SlOuiDyt,WBTC,EB-2,EB-2,Ballygunge Station to Joka Bus Depot,3
+chalo-SnGTYGrW,WBTC,S-45,S-45,Shakuntala Park to Kolkata Railway Station,3
+chalo-SnOgdyPF,WBTC,EB-12,EB-12,Barasat to Sapoorji,3
+chalo-SsYSHzqe,WBTC,AC-37C,AC-37C,Airport Gate 1 to Garia More Near Bata,3
+chalo-SyYBmObH,WBTC,D-6A,D-6A,Ballykhal Bus Stop to Botanical Garden,3
+chalo-TFIEGCij,WBTC,AC-10L,AC-10L,Howrah Bus Stand to Nilgunj Depot,3
+chalo-THUQprTj,WBTC,NS-7,NS-7,Joka to Howrah Bus Stand,3
+chalo-TKFMmZMs,WBTC,S-8B,S-8B,Howrah Bus Stand to Jadavpur 8B Stand,3
+chalo-TMChJFKa,WBTC,S-11N,S-11N,Nabanna Bus Terminus to Nilganj Depot,3
+chalo-TMdAVYiL,WBTC,EB-24,EB-24,Howrah Bus Stand to Kamalgazi,3
+chalo-TQoQHfpL,WBTC,7-AN,7-AN,Nabanna Bus Terminus to Sarsuna Bus Stand,3
+chalo-TSxgWtsD,WBTC,AC-48L,AC-48L,Kudghat to Cognizant Bantala,3
+chalo-TTdRFOCJ,WBTC,AC-38L,AC-38L,Karunamoyee to Chiria More,3
+chalo-TUCcIEDr,WBTC,E-31,E-31,Esplanade Tram Depot to Gar Bhawanipur Bus Terminus,3
+chalo-TUtmSKtk,WBTC,AC-37A,AC-37A,Airport Gate 3 to Garia More Near Bata,3
+chalo-TeHWlkxN,WBTC,C-44,C-44,Achipur to Howrah Station,3
+chalo-TmGxebNM,WBTC,AC-37C,AC-37C,Garia Depot to Airport Gate 1,3
+chalo-TqtDHjix,WBTC,AC-V9L,AC-V9L,Newtown to Tollygung Tram Depot,3
+chalo-TtJNShzE,WBTC,S-10AN,S-10AN,Ballygunge Station to Nabanna Bus Terminus,3
+chalo-TtapwXqP,WBTC,D-19A,D-19A,Barasat Bus Stand to Iswari Gacha,3
+chalo-UCWLUyeo,WBTC,D-26,D-26,Karunamoyee to Swarupnagar Bus Stop,3
+chalo-UEDCCUnS,WBTC,ST-21,ST-21,Ultadanga Bus Terminal to Kanmari Bazar  Bus Stop,3
+chalo-UFanKpuI,WBTC,D-15,D-15,Howrah Bus Stand to Ramrajaatala Bus Stand,3
+chalo-UGaOFDdD,WBTC,AC-37B,AC-37B,Garia More Near Bata to Airport Gate 1,3
+chalo-UJwBrEYs,WBTC,S-32,S-32,Barrackpore Court Terminus to Howrah Bus Stand,3
+chalo-UKjCezCm,WBTC,D-2,D-2,Khat Pool Naihati to Habra Bus Terminus,3
+chalo-UKvgTOIp,WBTC,S-6A,S-6A,Garia Station to Howrah Bus Stand,3
+chalo-USdmoTHo,WBTC,E 12,E 12,Raja Bazar Tram Depot to Udaynarayanpur,3
+chalo-UUGmrMwA,WBTC,ST-17,ST-17,Esplanade Metro to Prasadpur Notun Bazar,3
+chalo-UZSvSWpK,WBTC,S-19,S-19,Ultadanga Bus Terminal to Jadavpur 8B Stand,3
+chalo-UfNkdMXA,WBTC,S-9,S-9,Jadavpur 8B Stand to Karunamoyee Circle,3
+chalo-UnPFVOyU,WBTC,NS-4,NS-4,Kamal Gazi Bypass to Howrah Bus Stand,3
+chalo-UpbYaMzf,WBTC,E7-1,E7-1,Esplanade Bus Terminus to Gadiwada Bus Stop,3
+chalo-UrDhFxfM,WBTC,AC-T2,AC-T2,Karunamoyee to Kalitala Rajchandrapur,3
+chalo-UtuhrgFT,WBTC,AC-12L,AC-12L,Sapoorji Complex Bus Stop to Howrah Bus Stand,3
+chalo-UuQBOjYe,WBTC,VS-12,VS-12,Santragachi Bus Stop to Newtown,3
+chalo-VLCBPvar,WBTC,D 6,D 6,Ballykhal Bus Stop to Nabanna Bus Terminus,3
+chalo-VUQOAIYY,WBTC,D-19,D-19,Karunamoyee to Iswari Gacha,3
+chalo-VWXAPVMo,WBTC,E-32A,E-32A,Esplanade Bus Terminus to Antpur,3
+chalo-VbhzLEQP,WBTC,S-12C,S-12C,Tala Park Or Paikpara to Nayabad Stand,3
+chalo-VfteHvXz,WBTC,BE-20,BE-20,Barasat to Esplanade Bus Terminus,3
+chalo-VgcrRCdT,WBTC,D-19B,D-19B,Karunamoyee to Barasat Champadali More,3
+chalo-VjeZTLEo,WBTC,M-16,M-16,Behala Chowrasta to Tollygung Tram Depot,3
+chalo-VjrpKpzE,WBTC,ST-16,ST-16,Sapoorji Complex Bus Stop to Joinpur,3
+chalo-VlGpUHZR,WBTC,C-39,C-39,Raja Bazar Tram Depot to Nabanna Bus Terminus,3
+chalo-VnNwzGdR,WBTC,E7-1,E7-1,Gadiwada Bus Stop to Esplanade Bus Terminus,3
+chalo-VoiZKNtw,WBTC,V1L,V1L,Airport Gate 3 to Kudghat,3
+chalo-VolZCGTP,WBTC,S-30A,S-30A,Ultadanga Bus Terminal to Ultadanga Bus Terminal,3
+chalo-VtSDQanY,WBTC,C-29,C-29,Ferry Ghat Cantonment Board to Barasat,3
+chalo-VwaWJlgc,WBTC,S-3D,S-3D,Kankurgachi More to Behala 14 No Bus Stop,3
+chalo-VwzIWoPp,WBTC,AC-15L,AC-15L,Howrah Bus Stand to Cognizant Bantala,3
+chalo-WDbnjiUS,WBTC,C-23,C-23,Dankuni Housing to Park Circus Xing,3
+chalo-WEDqrEBB,WBTC,T-12A,T-12A,Park Circus Xing to Chaital Ghat,3
+chalo-WEjpQrGF,WBTC,T-10,T-10,Raja Bazar Tram Depot to Chaital Ghat,3
+chalo-WIEgaeVo,WBTC,D-19B,D-19B,Barasat Champadali More to Karunamoyee,3
+chalo-WKziyNYE,WBTC,VS-14A,VS-14A,Esplanade Bus Terminus to Karunamoyee Circle,3
+chalo-WMlnDkVx,WBTC,AC-17BL,AC-17BL,Sinthi More to Kudghat,3
+chalo-WQiMambK,WBTC,D-33,D-33,Chandan Nagar to KC Das More Esplanade,3
+chalo-WUWxNISZ,WBTC,AC-59L,AC-59L,Karunamoyee Circle to Howrah Station,3
+chalo-WVbVPMWy,WBTC,NS-14,NS-14,Howrah Bus Stand to New Town Bus Stand,3
+chalo-WZNixQDs,WBTC,AC-25,AC-25,Dunlop to Salt Lake Depot,3
+chalo-WZvJYAvC,WBTC,AC-30L,AC-30L,Howrah Maidan to Jaya Cinema,3
+chalo-WicTwHTJ,WBTC,D-28A,D-28A,Big Bazar Chapadali More to Chakla,3
+chalo-WlWYMLyT,WBTC,S-34A,S-34A,Dakshineswar PWD Road to Howrah Bus Stand,3
+chalo-WlpPzMNB,WBTC,C29-1,C29-1,Barasat to Barasat State University Bus Stand,3
+chalo-WqBLBhgM,WBTC,S-10,S-10,Nabanna Bus Terminus to Airport Gate 3,3
+chalo-WrghjLzW,WBTC,AC-25AL,AC-25AL,Khardah Police Station to New Town Bus Stand,3
+chalo-WunihmYk,WBTC,C 24,C 24,Raja Bazar Tram Depot to Ghasbagan Depot,3
+chalo-XAtHPzIA,WBTC,EB-3,EB-3,Tollygunge Metro to Ecospace Business Park,3
+chalo-XCVcEJCC,WBTC,E-21,E-21,Esplanade Bus Terminus to Shikarpur Bus Stand,3
+chalo-XFlmzAoB,WBTC,M-16A,M-16A,Tollygung Tram Depot to Joka Bus Depot,3
+chalo-XHbkvFAi,WBTC,ST 6,ST 6,Salt Lake to ST 6 Stand Or Karunamoyee Tallygunge,3
+chalo-XIURIEHK,WBTC,D-21,D-21,Esplanade Bus Terminus to Nazat Bus Stand,3
+chalo-XNsPIdie,WBTC,NS-15,NS-15,Barasat to Garia More Near Bata,3
+chalo-XPVQRLQL,WBTC,C-36,C-36,Raja Bazar Tram Depot to CTC Bus Stand Baksara,3
+chalo-XQmxWDRR,WBTC,C-43,C-43,Garia More Near Bata to Habra Bus Terminus,3
+chalo-XlNFhzyp,WBTC,AC-34RL,AC-34RL,Ariadaha Bus Terminal to Howrah Bus Stand,3
+chalo-XrguuLEw,WBTC,M-14,M-14,Behala 14 No Bus Stop to Newtown,3
+chalo-XuJnpaCa,WBTC,AC-48L,AC-48L,Cognizant Bantala to Kudghat,3
+chalo-XweNsEjR,WBTC,C-48,C-48,Baruipur Hospital to Dakshineswar PWD Road,3
+chalo-XxGnrxbY,WBTC,ROUTE3,ROUTE3,Sealdah Railway Station to Daihata,3
+chalo-XzKzGLrL,WBTC,E-29,E-29,Raja Bazar Tram Depot to FatikGachi Bus Stand,3
+chalo-YBunYcIF,WBTC,AC-14L,AC-14L,Piyali Terminus Baruipur to Karunamoyee Circle,3
+chalo-YHtufDSG,WBTC,S-30,S-30,Ecospace Business Park to Ultadanga Bus Terminal,3
+chalo-YIlNVrXn,WBTC,S-39A,S-39A,Santragachi Station to Sealdah Railway Station,3
+chalo-YLcHPapq,WBTC,D-28,D-28,Esplanade Bus Terminus to Chakla,3
+chalo-YQOTbTko,WBTC,E-15,E-15,Esplanade Bus Terminus to Gadiwada Bus Stop,3
+chalo-YVKRRBgJ,WBTC,D-11A,D-11A,Barasat to Esplanade Bus Terminus,3
+chalo-YYNSlSDu,WBTC,7-AN,7-AN,Sarsuna Bus Stand to Nabanna Bus Terminus,3
+chalo-YdnxhWpN,WBTC,C-7,C-7,Howrah Bus Stand to Hari Mohan Ghosh College,3
+chalo-YeaIGuZk,WBTC,DS,DS,Hind Cinema to Howrah Station,3
+chalo-YiUZwJuI,WBTC,S-9A,S-9A,Ballygunge Station to Dunlop Or Bara Nagar Road,3
+chalo-YjMohnxZ,WBTC,NAB1,NAB1,Nabanna Bus Terminus to Howrah Station,3
+chalo-YlocGuKH,WBTC,S-37A,S-37A,Airport Gate 1 to Garia More Near Bata,3
+chalo-YpZLiLWE,WBTC,MIDI-1B,MIDI-1B,Howrah Maidan to Howrah Maidan Metro,3
+chalo-YtTnlAsR,WBTC,S-46,S-46,Karunamoyee Circle to Akra Fatak,3
+chalo-YtoFPzed,WBTC,S-34B,S-34B,WBSU University to Barrackpore Court Terminus,3
+chalo-YwWQqTGK,WBTC,S-12G,S-12G,Newtown to Nabanna,3
+chalo-ZIjsqBJM,WBTC,S-2N,S-2N,Kudhghat Bus Stand to Nabanna Bus Terminus,3
+chalo-ZKlwcuHP,WBTC,NS 10,NS 10,Howrah Bus Stand to Airport Gate 1,3
+chalo-ZLSFqvqz,WBTC,C-45,C-45,Howrah Bus Stand to Ghola Kadam Tala Bus Stop,3
+chalo-ZRaxWQvG,WBTC,MX2,MX2,Nabanna to Canal West Bus Stand,3
+chalo-ZSVbHesv,WBTC,T-12A,T-12A,Chaital Ghat to Park Circus Xing,3
+chalo-ZXNjkDKF,WBTC,C-29,C-29,Barasat to Ferry Ghat Cantonment Board,3
+chalo-ZcKgkwGR,WBTC,C-41,C-41,Tollygung Tram Depot to Birati More,3
+chalo-ZcyKsrBA,WBTC,M-34,M-34,Esplanade Metro to 2 NO RAIL GATE,3
+chalo-ZlvXwtQb,WBTC,AC-9B,AC-9B,Jadavpur 8B Stand to Ecospace Business Park,3
+chalo-ZtAWQYFi,WBTC,PSP 5,PSP 5,Airport Gate 1 to Shyambazar 5 Point Crossing,3
+chalo-ZuOfxZPy,WBTC,EB-1,EB-1,Rathtala to Santragachi Station,3
+chalo-ZvRUHcNe,WBTC,AC-47,AC-47,Sapoorji Complex Bus Stop to Kudghat,3
+chalo-ZxOqApTV,WBTC,C-50,C-50,Shyamnagar to Howrah Bus Stand,3
+chalo-aAXydrkA,WBTC,E-43 (CSTC),E-43 (CSTC),Park Circus Tram Depot to Taki Government College Or Rajbari,3
+chalo-aOXGKIii,WBTC,VS-4,VS-4,Parnasree to Airport Gate 3,3
+chalo-aQEZhRyd,WBTC,NS 12,NS 12,Kazipara Bus Stand to Howrah Bus Stand,3
+chalo-aVQDAKxS,WBTC,S-5CN,S-5CN,Nayabad Stand to Nabanna Bus Terminus,3
+chalo-aVtGxKWk,WBTC,E37A,E37A,Esplanade Bus Terminus to Barasat,3
+chalo-agfUCYLp,WBTC,S-13,S-13,Ultadanga VIP to Amtala,3
+chalo-aicEddSN,WBTC,S-23A,S-23A,Karunamoyee to Kalitala Rajchandrapur,3
+chalo-amMsEElX,WBTC,D-28B,D-28B,Esplanade to Big Bazar Chapadali More,3
+chalo-anqICykN,WBTC,C-7,C-7,Hari Mohan Ghosh College to Howrah Bus Stand,3
+chalo-aoKzDOkU,WBTC,E-43 (CSTC),E-43 (CSTC),Taki Government College Or Rajbari to Park Circus Tram Depot,3
+chalo-aquJcmTh,WBTC,S-51,S-51,Eden City to Garia More Near Bata,3
+chalo-bEWFqnBm,WBTC,C 14-1,C 14-1,Tollygung Tram Depot to Madhyam Gram Chowmatha Bus Stop,3
+chalo-bGdRQXcU,WBTC,D-11A,D-11A,Esplanade Bus Terminus to Barasat,3
+chalo-bIkFYhIm,WBTC,C-28,C-28,Howrah Bus Stand to Mistery Ghat More Or Barackpur Court,3
+chalo-bMVdWgvM,WBTC,C-46B,C-46B,Esplanade Metro to Mandirtala,3
+chalo-bMgksAim,WBTC,D-29,D-29,Esplanade Bus Terminus to Kachua,3
+chalo-bNrdKuZD,WBTC,AC-23AL,AC-23AL,Salt Lake Depot to Rajchandrapur,3
+chalo-bPNctHgW,WBTC,S-12D,S-12D,Howrah Bus Stand to Thakurpukur 3A Bus Stand,3
+chalo-bQOSyaRZ,WBTC,E-32A,E-32A,Antpur to Esplanade Bus Terminus,3
+chalo-bQiUglrS,WBTC,M-7D,M-7D,Sonamukhi Bazar to Kankurgachi More,3
+chalo-bSDNVarx,WBTC,MW-1,MW-1,Sulekha More to Unitech Gate 2,3
+chalo-bUNkqTMk,WBTC,C-8,C-8,Kazipara to Genexx Valley,3
+chalo-bYDVusrL,WBTC,T 5,T 5,91 Bus Stand Bhaangur to Raja Bazar Tram Depot,3
+chalo-baOZaPXm,WBTC,S-5N,S-5N,Garia More Near Bata to Nabanna,3
+chalo-bbUyDxvt,WBTC,AC-39,AC-39,Airport Gate 1 to Howrah Bus Stand,3
+chalo-beezgLPV,WBTC,S-12,S-12,Newtown to Howrah Bus Stand,3
+chalo-bfADQYWl,WBTC,D4-1,D4-1,Serampore Bus Stop to Belgachia More,3
+chalo-bfBeXlhu,WBTC,C-31,C-31,Bhattanagar bus stop to Karunamoyee,3
+chalo-bgFqMOAZ,WBTC,EB-12,EB-12,Sapoorji to Barasat,3
+chalo-bjzBnGfO,WBTC,AC-47,AC-47,Kudghat to Sapoorji Complex Bus Stop,3
+chalo-bkunRCgM,WBTC,S-24N,S-24N,Nabanna Bus Terminus to Baishnabghata Fire Station,3
+chalo-blpqGYvP,WBTC,AC-17,AC-17,Wipro to Haridebpur Bus Stand,3
+chalo-bmHBFusf,WBTC,9-AN,9-AN,Dunlop to Nabanna,3
+chalo-bpeKKEhw,WBTC,T-13,T-13,Esplanade Tram Depot to Jibantala Bus Stop,3
+chalo-bwRMiaLN,WBTC,S-37,S-37,Barasat to Garia Depot,3
+chalo-byamGqVG,WBTC,S-5,S-5,Garia More Near Bata to Howrah Bus Stand,3
+chalo-bzXnCVSn,WBTC,E 12,E 12,Udaynarayanpur to Raja Bazar Tram Depot,3
+chalo-cHqbQnNh,WBTC,AC-20RL,AC-20RL,Barrackpore Court Terminus to Santragachi Station,3
+chalo-cJDaOkdF,WBTC,NS-9,NS-9,Dunlop to Ballygunge Station,3
+chalo-cMbVitvo,WBTC,VS-6,VS-6,Diamond Harbour Station Road to Esplanade Bus Terminus,3
+chalo-cMgxLwoy,WBTC,E-15,E-15,Gadiwada Bus Stop to Esplanade Bus Terminus,3
+chalo-cNLUCIxF,WBTC,MW-1,MW-1,Unitech Gate 2 to Sulekha More,3
+chalo-cWZRbmHs,WBTC,BE-20,BE-20,Esplanade Bus Terminus to Barasat,3
+chalo-caLVKADK,WBTC,S-12 Book Fair Special,S-12 Book Fair Special,Howrah Bus Stand to Newtown,3
+chalo-dGVLUxLS,WBTC,NS 6,NS 6,Howrah Bus Stand to Garia More Near Bata,3
+chalo-dKYsfWAh,WBTC,S-48A,S-48A,BBD Bagh Tram Depot to Behala Chowrasta,3
+chalo-dKmBhaMK,WBTC,EB-14,EB-14,Santragachi Station to Ecospace Business Park,3
+chalo-dRTtTouX,WBTC,AC-4,AC-4,Howrah Bus Stand to Parnasree,3
+chalo-dRhTXZYq,WBTC,S-8BN,S-8BN,Jadavpur 8B Stand to Nabanna,3
+chalo-dSikhcka,WBTC,AC-52L,AC-52L,Prativa Nagar Bankura to Howrah Bus Stand,3
+chalo-dWJcseAL,WBTC,AC-25AL,AC-25AL,New Town Bus Stand to Khardah Police Station,3
+chalo-ddLuCARN,WBTC,C-8A,C-8A,Airport Gate 1 to Tollygung Tram Depot,3
+chalo-ddhNDIuL,WBTC,NS-4,NS-4,Howrah Bus Stand to Kamal Gazi Bypass,3
+chalo-deEFEHhx,WBTC,D-20,D-20,Esplanade Bus Terminus to Basirhat Balti Magic Stand,3
+chalo-dePHKrAv,WBTC,AC-36L,AC-36L,Barasat to Karunamoyee Bus Stand,3
+chalo-dgGusjRS,WBTC,T 5,T 5,Raja Bazar Tram Depot to 91 Bus Stand Bhaangur,3
+chalo-dhWtQXkd,WBTC,S-4B,S-4B,Haridebpur Bus Stand to Newtown,3
+chalo-djmcFKdL,WBTC,NS-7,NS-7,Howrah Bus Stand to Joka,3
+chalo-dlmMFlYV,WBTC,AC-25,AC-25,Dunlop to Newtown,3
+chalo-dmbnRFVK,WBTC,MIDI-1,MIDI-1,Howrah Maidan to Raja Bazar Junction Sealdah,3
+chalo-dpURlHcr,WBTC,S-58,S-58,Barrackpore Court Terminus to Karunamoyee Bus Stand,3
+chalo-dyCFflHb,WBTC,D-22A,D-22A,Habra Station to Esplanade,3
+chalo-eAYnIsyB,WBTC,NS 1,NS 1,Airport Gate 1 to Howrah Bus Stand,3
+chalo-eEEhHxVq,WBTC,AC-43L,AC-43L,Airport Gate 3 to Golf Green,3
+chalo-eEVbyaHd,WBTC,AC-30SL,AC-30SL,Sapoorji to Ultadanga Bus Terminal,3
+chalo-eHxjTnxB,WBTC,BE11B,BE11B,Esplanade to Karunamoyee Bus Stand,3
+chalo-eJSpvgse,WBTC,S-47,S-47,Eden City to Howrah Bus Stand,3
+chalo-eOyodsWz,WBTC,S-2,S-2,Kudghat to Howrah Bus Stand,3
+chalo-ePfhmSsh,WBTC,D-20,D-20,Basirhat Balti Magic Stand to Esplanade Bus Terminus,3
+chalo-eSIuQEaz,WBTC,C-46,C-46,Park Circus Xing to Baruipur,3
+chalo-eTMrtGtj,WBTC,S-7,S-7,Garia More Near Bata to Howrah Bus Stand,3
+chalo-eUbjGvkv,WBTC,C-14A,C-14A,Joka Tram Depot to Madhayamgram Kali bari,3
+chalo-eXAidmgX,WBTC,T 8,T 8,Belgachia More to Tikiapara,3
+chalo-ecEtCngD,WBTC,S-8BN,S-8BN,Nabanna to Jadavpur 8B Stand,3
+chalo-ecdZUuTa,WBTC,E-36,E-36,Santragachi Station to Habra Bus Terminus,3
+chalo-egXbvKEd,WBTC,9-AN,9-AN,Nabanna to Dunlop,3
+chalo-eiJkOlhf,WBTC,S-53,S-53,Kolkata Railway Station to Unitech Gate 2,3
+chalo-eiTESeax,WBTC,E-33,E-33,Habra Bus Terminus to Antpur,3
+chalo-enRqvImv,WBTC,S 58,S 58,Karunamoyee Bus Stand to Barrackpore Court Terminus,3
+chalo-esWTMnGq,WBTC,D-15,D-15,Ramrajaatala Bus Stand to Howrah Bus Stand,3
+chalo-exXRCUET,WBTC,AC-44L,AC-44L,Nabanna to Newtown,3
+chalo-fCvMrCwO,WBTC,C-14A,C-14A,Madhayamgram Kali bari to Joka Bus Depot,3
+chalo-fGPSdxsJ,WBTC,M-7B,M-7B,Howrah Bus Stand to Shibrampur Bus Stop,3
+chalo-fMYRWcsM,WBTC,D-7A,D-7A,Howrah Bus Stand to Bagdah Bus Stop,3
+chalo-fPhToDXA,WBTC,E-4,E-4,Parnasree to Howrah Bus Stand,3
+chalo-fRPjgTER,WBTC,D-31,D-31,Srinathpur to Esplanade Bus Terminus,3
+chalo-fUAzdDhN,WBTC,C 14-1,C 14-1,Madhyam Gram Chowmatha Bus Stop to Tollygung Tram Depot,3
+chalo-fayMpTfT,WBTC,AC-24AL,AC-24AL,Kamal Gazi Bypass to Howrah Bus Stand,3
+chalo-ffEjrjUm,WBTC,C11-2,C11-2,Newtown to Domjur Bus Stand,3
+chalo-fkwmUGxt,WBTC,AC-15L,AC-15L,Cognizant Bantala to Howrah Bus Stand,3
+chalo-fovnmFfi,WBTC,VS-4,VS-4,Airport Gate 3 to Parnasree,3
+chalo-fwqpFFLX,WBTC,D-5,D-5,Uttarpara College to Karunamoyee,3
+chalo-gBfTczGP,WBTC,NS-2R,NS-2R,Howrah Bus Stand to Barrackpore Railway Station,3
+chalo-gEHRxWNn,WBTC,AC-16,AC-16,Tollygung Tram Depot to Behala Chowrasta,3
+chalo-gIVCrvTj,WBTC,AC-2B,AC-2B,Sukanto Setu to Rathtala,3
+chalo-gNyExLXw,WBTC,D-4,D-4,Serampore Bus Stop to Karunamoyee,3
+chalo-gPtpBEzC,WBTC,VS-14A,VS-14A,Karunamoyee to Esplanade Bus Terminus,3
+chalo-gQCuPsFX,WBTC,AC-5,AC-5,Garia Depot to Howrah Bus Stand,3
+chalo-gQbKnjUI,WBTC,S-22,S-22,Karunamoyee Circle to Shakuntala Park,3
+chalo-gTySJcWP,WBTC,S-9C,S-9C,Kamalgazi to Ecospace Business Park,3
+chalo-gVoEcufZ,WBTC,C-51,C-51,Nabanna to Ramakrishna Talkies Naihati,3
+chalo-gWqTzwcU,WBTC,AC-2,AC-2,Barasat to Howrah Bus Stand,3
+chalo-gXQPWsmk,WBTC,E-6,E-6,Esplanade Tram Depot to Amta Bus Stand,3
+chalo-gaUnxYTi,WBTC,EB-14,EB-14,Ecospace Business Park to Santragachi Station,3
+chalo-gccxMAEd,WBTC,AC-30L,AC-30L,Jaya Cinema to Howrah Maidan,3
+chalo-ggBfcjQc,WBTC,S-57,S-57,Ariadaha Or Ramgarh Bus Stop to Nabanna Bus Terminus,3
+chalo-ggBvFBkF,WBTC,AC-43,AC-43,Golf Green to Airport Gate 3,3
+chalo-gjDFFjBp,WBTC,S-2B,S-2B,Avishikta Mandirpara to Bag Bazar Bus Depot,3
+chalo-glExftDX,WBTC,S-3D,S-3D,14 No Bus Stand Behala to Kankurgachi More,3
+chalo-gsBLogOm,WBTC,S-60,S-60,Chetla to Karunamoyee Circle,3
+chalo-gvcxaTJu,WBTC,S-9,S-9,Karunamoyee Circle to Jadavpur 8B Stand,3
+chalo-gwqBVdeO,WBTC,S-5N,S-5N,Nabanna to Garia More Near Bata,3
+chalo-gzDupMFg,WBTC,MW-7,MW-7,Airport Gate 1 to Bantala It Park,3
+chalo-hBnlmMte,WBTC,E-7,E-7,Esplanade Wbtc Tram Stand to Bagnan Railway Station,3
+chalo-hBynaFim,WBTC,S-34C,S-34C,WBSU University to Nager Bazar Js Rd,3
+chalo-hHFnTWWI,WBTC,C-11,C-11,Tala Park to Domjur,3
+chalo-hHTjVKbw,WBTC,E-52,E-52,Amta Bus Stand to Barasat,3
+chalo-hHzXDARb,WBTC,S-2A,S-2A,Patuli Police Station to Paikpara 2 No Stand,3
+chalo-hJmEuZvT,WBTC,E-48,E-48,Karunamoyee Bus Stand to Kachrapara,3
+chalo-hMWoJEVm,WBTC,EBX2,EBX2,Canal West Bus Stand to Nabanna,3
+chalo-hQbVxGfa,WBTC,M-15A,M-15A,Dakshinapan Shopping Complex Dhakuria to Behala 14 No Bus Stop,3
+chalo-hbNSUDcv,WBTC,AC-10L,AC-10L,Nilgunj Depot to Howrah Bus Stand,3
+chalo-hbOCpAsJ,WBTC,T-1,T-1,Raja Bazar Tram Depot to Dhulagarh Crossing,3
+chalo-hbTSUUHc,WBTC,AC-37A,AC-37A,Garia Depot to Airport Gate 3,3
+chalo-hcMgXZDe,WBTC,S-12N,S-12N,Newtown to Nabanna,3
+chalo-hdNecPYG,WBTC,ST 7,ST 7,Ultadanga Bus Terminal to Sapoorji Complex Bus Stop,3
+chalo-hgnPmfhj,WBTC,C-47,C-47,Garia Station to Santragachi Station,3
+chalo-hhVNDDtI,WBTC,S-24N,S-24N,Patuli to Nabanna Bus Terminus,3
+chalo-hvxCfgXt,WBTC,PSP 5,PSP 5,Shyam Bazar 5 Point Crossing to Airport Gate 1,3
+chalo-iCfngmmf,WBTC,VS-14,VS-14,Airport Gate 1 to Esplanade Bus Terminus,3
+chalo-iEpeJxsj,WBTC,E-37,E-37,Esplanade Bus Terminus to Hasnabad Bus Stand,3
+chalo-iIfTiFDJ,WBTC,T-1,T-1,Dhulagarh Crossing to Raja Bazar Tram Depot,3
+chalo-ijDgqsHK,WBTC,E-44,E-44,Esplanade Tram Depot to Radhanagar,3
+chalo-imkIbclN,WBTC,C-50,C-50,Howrah Bus Stand to Shyamnagar,3
+chalo-ioRfYcKF,WBTC,S-12E,S-12E,Howrah Bus Stand to Hiland Willows,3
+chalo-irAcikka,WBTC,C11-1,C11-1,Howrah Bus Stand to Munshirhat Bazar,3
+chalo-irNBbpuA,WBTC,S-4B,S-4B,Newtown to Haridebpur Bus Stand,3
+chalo-itqOxccu,WBTC,S-14C,S-14C,Ariadaha to Newtown,3
+chalo-ixNpPoMc,WBTC,S-11,S-11,KC Das More Esplanade to Nilgunj Depot,3
+chalo-ixYeGaSE,WBTC,AC-T3,AC-T3,Santragachi Station to Barasat,3
+chalo-iyDGBvfq,WBTC,AC-49L,AC-49L,Eden City to Airport Gate 1,3
+chalo-jBakjEfM,WBTC,C-2A,C-2A,Ghatak Pukur 213 A Bus Stand to Tollygung Tram Depot,3
+chalo-jBhwlJRa,WBTC,NAB1,NAB1,Howrah Station to Nabanna Bus Terminus,3
+chalo-jEHMVycS,WBTC,S-3A,S-3A,Sealdah Railway Station to Thakurpukur 3A Bus Stand,3
+chalo-jFVJnXWW,WBTC,E-1,E-1,Howrah Bus Stand to Jadavpur 8B Stand,3
+chalo-jKijymeh,WBTC,EBX2,EBX2,Nabanna to Canal West Bus Stand,3
+chalo-jKkqqIJq,WBTC,S-39A,S-39A,Sealdah Railway Station to Santragachi Station,3
+chalo-jLzzvRtx,WBTC,AC-47L,AC-47L,Sapoorji Complex Bus Stop to Kudghat,3
+chalo-jPxLpiCh,WBTC,S-7N,S-7N,Nabanna to Garia More Near Bata,3
+chalo-jTUErkfh,WBTC,C-37B,C-37B,Taratala Crossing to Joka Bus Depot,3
+chalo-jWSCdNxh,WBTC,D4-1,D4-1,Belgachia More to Serampore Bus Stop,3
+chalo-jYZgYCBJ,WBTC,S-44,S-44,Eco Park to Nabanna,3
+chalo-jZBjOVIg,WBTC,AC-24L,AC-24L,Baisnab Ghata to Howrah Bus Stand,3
+chalo-japZqwgh,WBTC,AC-34L,AC-34L,Howrah Bus Stand to Ariadaha,3
+chalo-jfReYMBA,WBTC,VS-10,VS-10,Kudhghat Bus Stand to Unitech Gate 2,3
+chalo-jlKrRvUT,WBTC,E-48A,E-48A,Habra Station to Kachrapara,3
+chalo-jpMipsOk,WBTC,AC-9B,AC-9B,Ecospace Business Park to Jadavpur 8B Stand,3
+chalo-juJMCvab,WBTC,14A,14A,Karunamoyee Circle to Bichali Ghat,3
+chalo-jwtLGNSN,WBTC,NS 10,NS 10,Airport Gate 1 to Howrah Bus Stand,3
+chalo-kBwHCQbV,WBTC,C-49,C-49,Baruipur to Nabanna Bus Terminus,3
+chalo-kHBIXypQ,WBTC,S-12N,S-12N,Nabanna to Newtown,3
+chalo-kJTInjhR,WBTC,D-7A,D-7A,Bagdah Bus Stop to Howrah Bus Stand,3
+chalo-kQkILJrl,WBTC,T1,T1,Raja Bazar Tram Depot to Dhulagarh Crossing,3
+chalo-kSPExuAE,WBTC,E-25,E-25,Esplanade Wbtc Tram Stand to Habra Bus Terminus,3
+chalo-kWTYwUkM,WBTC,EB-1A,EB-1A,Rathtala to Nabanna,3
+chalo-kZlJiKqN,WBTC,VS-1,VS-1,Esplanade Bus Terminus to Airport Taxi Stand Gate No 1,3
+chalo-kaYGJIXw,WBTC,S-32R,S-32R,Barrackpore Court Terminus to Howrah Bus Stand,3
+chalo-kgUyItWV,WBTC,V-1,V-1,Airport Gate 1 to Tollygunge Metro,3
+chalo-khKCumrq,WBTC,S-61,S-61,Taratala Junction to Achipur,3
+chalo-khePkGxg,WBTC,C-43,C-43,Habra Bus Terminus to Garia More Near Bata,3
+chalo-lFWWUEDO,WBTC,AC-30SL,AC-30SL,Ultadanga Bus Terminal to Sapoorji,3
+chalo-lKUeDNpI,WBTC,M-7D,M-7D,Kankurgachi More to Sonamukhi Bazar,3
+chalo-lKhStuSH,WBTC,3A-2,3A-2,Salt Lake Depot to Sarsuna,3
+chalo-lRFeJSBF,WBTC,AC-49L,AC-49L,Airport Gate 1 to Eden City,3
+chalo-lTDWDyFY,WBTC,NS 6,NS 6,Garia More Near Bata to Howrah Bus Stand,3
+chalo-lXlSlxly,WBTC,D-28,D-28,Chakla to Esplanade Bus Terminus,3
+chalo-lYyMILXF,WBTC,T-11,T-11,Haroa More to Esplanade Wbtc Tram Stand,3
+chalo-lbSoeZnC,WBTC,S-4C,S-4C,Howrah Bus Stand to Haridebpur Bus Stand,3
+chalo-lgcnNGqx,WBTC,S-15,S-15,Behala 14 No Bus Stop to Joka Bus Depot,3
+chalo-ljpIDXhL,WBTC,D-29,D-29,Kachua to Esplanade Bus Terminus,3
+chalo-lskxJWXC,WBTC,D-23A,D-23A,Barasat Champadali More to Esplanade Bus Terminus,3
+chalo-luvqPFYj,WBTC,AC-31,AC-31,Behala Chow Rastha to Jadavpur 8B Stand,3
+chalo-lxoijtji,WBTC,11A,11A,Howrah Bus Stand to Dum Dum Station Or Dum Dum Metro,3
+chalo-mDeUlRUT,WBTC,NS 9R,NS 9R,Dunlop to Ballygunge Station,3
+chalo-mDtJYKuK,WBTC,S-46,S-46,Akra Fatak to Karunamoyee Circle,3
+chalo-mHNWczpQ,WBTC,AC-50AL,AC-50AL,Garia Depot to Rajchandrapur,3
+chalo-mImArPom,WBTC,S-3B,S-3B,14 No Bus Stand Behala to Kankurgachi More,3
+chalo-mJoseUHQ,WBTC,C-26,C-26,Baruipur to Howrah Bus Stand,3
+chalo-mKyuRieW,WBTC,S-34C,S-34C,Nager Bazar Js Rd to WBSU University,3
+chalo-mLKCerei,WBTC,psp-9,psp-9,Raja Bazar Tram Depot to Gariahat Term Depot,3
+chalo-mQRRRjlB,WBTC,AC-49A,AC-49A,14 No Bus Stand Behala to Airport Terminal,3
+chalo-mSUHFXNv,WBTC,S-10,S-10,Airport Gate 3 to Nabanna Bus Terminus,3
+chalo-mUEApvga,WBTC,S-57,S-57,Nabanna Bus Terminus to Ariadaha Or Ramgarh Bus Stop,3
+chalo-mYWVazeZ,WBTC,M-16,M-16,Tollygung Tram Depot to Behala Chowrasta,3
+chalo-mZJDVyzE,WBTC,AC-49A,AC-49A,Airport Terminal to Behala 14 No Bus Stop,3
+chalo-mbzzIyAf,WBTC,V1L,V1L,Kudghat to Airport Gate 3,3
+chalo-mkGYjVhs,WBTC,AC-T4,AC-T4,Karunamoyee to Kazipara Bus Stand,3
+chalo-mlAOecSk,WBTC,S-11,S-11,Nilgunj Depot to KC Das More Esplanade,3
+chalo-moyGvYtU,WBTC,C-37B,C-37B,Joka Tram Depot to Taratala Junction,3
+chalo-muklVnDe,WBTC,C-11,C-11,Domjur to Tala Park,3
+chalo-mwZUVGkz,WBTC,S-2N,S-2N,Nabanna Bus Terminus to Kudhghat Bus Stand,3
+chalo-nDpjEsuY,WBTC,S-16,S-16,Karunamoyee Circle to Thakurpukur 3A Bus Stand,3
+chalo-nFsyOoCU,WBTC,S-3B,S-3B,Kankurgachi More to Behala 14 No Bus Stop,3
+chalo-nKgiEYJx,WBTC,MW-7B,MW-7B,Science City to Bantala It Park,3
+chalo-nLnGVwiP,WBTC,AC-39,AC-39,Howrah Bus Stand to Airport Gate 1,3
+chalo-nPYFTkDf,WBTC,S-5CN,S-5CN,Nabanna Bus Terminus to Nayabad Stand,3
+chalo-nSdnkVAv,WBTC,S-42,S-42,Santragachi Station to Thakurpukur 3A Bus Stand,3
+chalo-nVGcOGFh,WBTC,AC-44L,AC-44L,Newtown to Nabanna,3
+chalo-negTRfJX,WBTC,AC-20L,AC-20L,Barrackpore Court Terminus to Santragachi Station,3
+chalo-njEuOswl,WBTC,ST-21,ST-21,Kanmari Bazar  Bus Stop to Ultadanga Bus Terminal,3
+chalo-nlOASahE,WBTC,MIDI-1A,MIDI-1A,Howrah Maidan to Howrah Maidan Metro,3
+chalo-nqPYeams,WBTC,D-2,D-2,Habra Bus Terminus to Khat Pool Naihati,3
+chalo-oCUJZEEs,WBTC,D-16,D-16,Newtown to Kolkata West International City,3
+chalo-oLYJXwfP,WBTC,15A,15A,Howrah Bus Stand to Hind Cinema,3
+chalo-oMjHIBWh,WBTC,D-8,D-8,Barasat Bus Stand to Baduria Bus Stand,3
+chalo-oOVelaWA,WBTC,AC-25,AC-25,Newtown to Dunlop,3
+chalo-oPXlQLdT,WBTC,D-23,D-23,Kaijuri Bus Stop to Esplanade Bus Terminus,3
+chalo-oSNzJLCT,WBTC,C-30,C-30,Raja Bazar Tram Depot to Shankrail Railway Station,3
+chalo-oSPxsfKp,WBTC,C-33,C-33,Makhla to Park Circus Xing,3
+chalo-oTKKfftU,WBTC,E-31,E-31,Gar Bhawanipur Bus Terminus to Esplanade Tram Depot,3
+chalo-oUnmYvYf,WBTC,S-12NA,S-12NA,Karunamoyee Bus Stand to Nabanna Bus Terminus,3
+chalo-oVVZfDqe,WBTC,S-47A,S-47A,Behala Airport to Howrah Bus Stand,3
+chalo-oYgFJwDF,WBTC,AC-9A,AC-9A,Dakshineswar PWD Road to Golf Green,3
+chalo-oewtJfWT,WBTC,M-18N,M-18N,Sarsuna to Tollygung Tram Depot,3
+chalo-ofSOjUzw,WBTC,M-11A,M-11A,Dum Dum Station Or Dum Dum Metro to Rathtala,3
+chalo-ofxZGwIh,WBTC,S-61,S-61,Achipur to Taratala Crossing,3
+chalo-oiSBRAuE,WBTC,IDE-1,IDE-1,Barasat Champadali More to Garia More Near Bata,3
+chalo-ojxbWoJq,WBTC,EB-2A,EB-2A,Tollygung Tram Depot to Karunamoyee Circle,3
+chalo-onQUiVBS,WBTC,D-31,D-31,Esplanade Bus Terminus to Srinathpur,3
+chalo-onoekzHT,WBTC,E-22,E-22,Esplanade Bus Terminus to Mahishbathan,3
+chalo-ouFPtBgj,WBTC,D-19A,D-19A,Iswari Gacha to Barasat Bus Stand,3
+chalo-pBcqgaEC,WBTC,AC-T3A,AC-T3A,Santragachi Bus Terminus to Barasat Champadali More,3
+chalo-pDoIKQDI,WBTC,ST-17,ST-17,Prasadpur Notun Bazar to Esplanade Metro,3
+chalo-pGyDlamH,WBTC,S-34A,S-34A,Howrah Bus Stand to Dakshineswar PWD Road,3
+chalo-pMFFwgQF,WBTC,AC-35L,AC-35L,Sapoorji Complex Bus Stop to Milk Colony 3B Bus Stand,3
+chalo-pMMmtNKz,WBTC,AC-12D,AC-12D,Joka Tram Depot to Howrah Bus Stand,3
+chalo-pMvfvQgD,WBTC,S-14B,S-14B,Hari Mohan Ghosh College to Jadavpur 8B Stand,3
+chalo-pXUZMbYh,WBTC,AC-20L,AC-20L,Santragachi Station to Barrackpore Court Terminus,3
+chalo-pXmbExhV,WBTC,S-24,S-24,Howrah Station to Kamal Gazi Bypass,3
+chalo-pXmwcUjZ,WBTC,E-36,E-36,Habra Bus Terminus to Santragachi Station,3
+chalo-pmVKhyyn,WBTC,D-22A,D-22A,Esplanade to Habra Station,3
+chalo-pruieSZI,WBTC,D-27,D-27,Naihati Municipality to Jadavpur 8B Stand,3
+chalo-pwsVVRaU,WBTC,AC-54RL,AC-54RL,Rathtala to Howrah Bus Stand,3
+chalo-pxUPTpPb,WBTC,S-62,S-62,Patuli to Ramnagar Bus Terminus,3
+chalo-qQHcNXdH,WBTC,AC-36L,AC-36L,Karunamoyee Bus Stand to Barasat,3
+chalo-qUbONpmy,WBTC,AC-25,AC-25,Salt Lake Depot to Dunlop,3
+chalo-qbVmvTco,WBTC,S 59,S 59,Karunamoyee Station to Howrah Bus Stand,3
+chalo-qfdVkMLA,WBTC,S-55,S-55,Thakurpukur 3A Bus Stand to Padmapukur or Baruipur,3
+chalo-qobCNsfO,WBTC,S-56,S-56,Kolkata Railway Station to Garden Reach Police Station More,3
+chalo-qqFXFyhD,WBTC,C-28,C-28,Mistery Ghat More Or Barackpur Court to Howrah Bus Stand,3
+chalo-qriANkmN,WBTC,D-11,D-11,Esplanade Bus Terminus to Baduria Bus Stand,3
+chalo-quxoKcyD,WBTC,GL-2,GL-2,Big Bazar Chapadali More to Howrah Bus Stand,3
+chalo-qzeCReYj,WBTC,S-8B,S-8B,Jadavpur 8B Stand to Howrah Bus Stand,3
+chalo-rKqKUKRh,WBTC,M-7C,M-7C,Sasthir More to Howrah Bus Stand,3
+chalo-rKyieLUB,WBTC,S-10A,S-10A,Howrah Bus Stand to Ballygunge Station,3
+chalo-rLdumpDX,WBTC,D-7,D-7,Barasat to Bagdah Bus Stop,3
+chalo-rdFDjKcN,WBTC,E-64,E-64,Esplanade Bus Terminus to Chinsurah,3
+chalo-reaLMtIo,WBTC,S-45,S-45,Kolkata Railway Station to Shakuntala Park,3
+chalo-rgufdIQq,WBTC,EB-24,EB-24,Kamalgazi to Howrah Bus Stand,3
+chalo-riSMRqWh,WBTC,D-27,D-27,Jadavpur 8B Stand to Naihati Municipality,3
+chalo-rnsvWgCH,WBTC,S-15,S-15,Joka Bus Depot to Behala 14 No Bus Stop,3
+chalo-rqXBhXQb,WBTC,C-25,C-25,Ghasbagan Depot to Bikash Bhawan,3
+chalo-rwsaZESg,WBTC,E-36A,E-36A,Santragachi Station to Habra Bus Terminus,3
+chalo-rwvEdDSZ,WBTC,S-56,S-56,Garden Reach Police Station More to Kolkata Railway Station,3
+chalo-rxRpEdZY,WBTC,S-4D,S-4D,Newtown to Parnasree,3
+chalo-sHiCPrFc,WBTC,AC-23AL,AC-23AL,Rajchandrapur to Salt Lake Depot,3
+chalo-sIZceouX,WBTC,NS-11,NS-11,Karunamoyee Bus Stand to Howrah Bus Stand,3
+chalo-sMhvtLEl,WBTC,S-10A,S-10A,Ballygunge Station to Howrah Bus Stand,3
+chalo-sNbmcuQt,WBTC,E-13,E-13,Esplanade Bus Terminus to Jangipara New Bus Stop,3
+chalo-sPOXBTAR,WBTC,AC-38L,AC-38L,Chiria More to Karunamoyee,3
+chalo-sPxHFcUV,WBTC,T-12,T-12,Howrah Bus Stand to Malancho Bus Stop,3
+chalo-sQOEEaWX,WBTC,AC-20RL,AC-20RL,Santragachi Station to Barrackpore Court Terminus,3
+chalo-sQlnTvGm,WBTC,12-DN,12-DN,Nabanna Bus Terminus to Thakurpukur 3A Bus Stand,3
+chalo-sUAuzoDy,WBTC,E-48,E-48,Kachrapara to Karunamoyee Bus Stand,3
+chalo-sVTwGXwt,WBTC,S-59,S-59,Howrah Bus Stand to Karunamoyee Circle,3
+chalo-sWQrhesg,WBTC,AC-51L,AC-51L,Kudghat to Airport Gate 3,3
+chalo-sZFpSZXy,WBTC,EB-1A,EB-1A,Nabanna to Rathtala,3
+chalo-scayhuXn,WBTC,AC-T4,AC-T4,Kazipara Bus Stand to Karunamoyee,3
+chalo-sdiSVhTh,WBTC,S-59,S-59,Karunamoyee Circle to Howrah Bus Stand,3
+chalo-tAFCLAgd,WBTC,E-6,E-6,Amta Bus Stand to Esplanade Wbtc Tram Stand,3
+chalo-tBNmjbFT,WBTC,AC-12L,AC-12L,Howrah Bus Stand to Sapoorji Complex Bus Stop,3
+chalo-tBqYdZOT,WBTC,AC-4BT,AC-4BT,Joka Tram Depot to Newtown,3
+chalo-tDyZvJZk,WBTC,M-18,M-18,Tollygung Tram Depot to Behala Chow Rastha,3
+chalo-tDzRHpuE,WBTC,S-31,S-31,Jadavpur 8B Stand to Behala Chow Rastha,3
+chalo-tFbthvGM,WBTC,NS 13,NS 13,Esplanade Wbtc Tram Stand to Belgachia Tram Deport,3
+chalo-tGwhBvDp,WBTC,T-3,T-3,Ghatak Pukur 213 A Bus Stand to Raja Bazar Tram Depot,3
+chalo-tLutAKIC,WBTC,T 8,T 8,Tikiapara to Belgachia More,3
+chalo-tRDNTnqu,WBTC,E-12,E-12,Udaynarayanpur to Esplanade Bus Terminus,3
+chalo-tRUZOyFV,WBTC,S-22A,S-22A,Karunamoyee Bus Stand to Dakghar,3
+chalo-tSjPktWg,WBTC,S-51,S-51,Garia More Near Bata to Eden City,3
+chalo-tXWzRWqV,WBTC,V1,V1,Tollygunge Metro to Airport Gate 1,3
+chalo-tXiqIFwJ,WBTC,AC-14L,AC-14L,Karunamoyee Circle to Piyali Terminus Baruipur,3
+chalo-tYmqVJQM,WBTC,V1,V1,Airport Gate 1 to Tollygunge Metro,3
+chalo-tczxrjpA,WBTC,S-2,S-2,Howrah Bus Stand to Kudghat,3
+chalo-toAcywaY,WBTC,VS-12,VS-12,Newtown to Santraganchi Garage,3
+chalo-trEYKOzR,WBTC,V9L,V9L,Tollygung Tram Depot to Newtown,3
+chalo-twaqxIrf,WBTC,S-55,S-55,Padmapukur or Baruipur to Thakurpukur 3A Bus Stand,3
+chalo-tzhMpMak,WBTC,E-12,E-12,Esplanade Bus Terminus to Udaynarayanpur,3
+chalo-uJsGVNSd,WBTC,D-4,D-4,Karunamoyee to Serampore Bus Stop,3
+chalo-uLmKPYen,WBTC,E-36A,E-36A,Habra Bus Terminus to Santragachi Station,3
+chalo-uVLRPEai,WBTC,D-30A,D-30A,Chakla to Habra Station,3
+chalo-uVQzJtyX,WBTC,S-23A,S-23A,Kalitala Rajchandrapur to Karunamoyee,3
+chalo-uWHpdJOa,WBTC,T-12C,T-12C,Ghatak Pukur 213 A Bus Stand to Park Circus Xing,3
+chalo-uXGOxFnR,WBTC,C29-1,C29-1,Barasat State University Bus Stand to Barasat,3
+chalo-uYRTVKrS,WBTC,MX1,MX1,Newtown to Canal West Bus Stand,3
+chalo-ubCxkkpQ,WBTC,S-16,S-16,Thakurpukur 3A Bus Stand to Karunamoyee Circle,3
+chalo-uihSpjcT,WBTC,T-3,T-3,Raja Bazar Tram Depot to Ghatak Pukur 213 A Bus Stand,3
+chalo-unITBNAr,WBTC,C-20,C-20,Santragachi Station to Esplanade Bus Terminus,3
+chalo-urYYDjwa,WBTC,NB 1,NB 1,Nabanna Bus Terminus to Raja Bazar Junction Sealdah,3
+chalo-uvrNGKcQ,WBTC,MX1,MX1,Canal West Bus Stand to Newtown,3
+chalo-uyWqZlkK,WBTC,AC-40T,AC-40T,Howrah Maidan to Airport Gate 1,3
+chalo-uyZqZQYp,WBTC,AC-6,AC-6,Howrah Bus Stand to Garia Depot,3
+chalo-vGvmTIhg,WBTC,ST 6,ST 6,ST 6 Stand Or Karunamoyee Tallygunge to Salt Lake,3
+chalo-vMYUuvtp,WBTC,D-17,D-17,Garia Depot to Kolkata West International City,3
+chalo-vSvXoall,WBTC,M-2,M-2,Tollygunge Phari to Suddheswari kali bari,3
+chalo-vkvksvXr,WBTC,E-65,E-65,Karunamoyee Bus Stand to Chinsura,3
+chalo-vxbzXzMY,WBTC,S-4C,S-4C,Haridebpur Bus Stand to Howrah Bus Stand,3
+chalo-wCZebNoq,WBTC,S-60,S-60,Karunamoyee Circle to Chetla,3
+chalo-wOEzHqXY,WBTC,M-16A,M-16A,Joka Tram Depot to Tollygung Tram Depot,3
+chalo-wUEbXqux,WBTC,S-17A,S-17A,Ariadaha Or Ramgarh Bus Stop to Kudghat,3
+chalo-wXXLGgUv,WBTC,E-65,E-65,Chinsura to Karunamoyee Bus Stand,3
+chalo-wYCkiNcF,WBTC,EB-1,EB-1,Nabanna to Newtown,3
+chalo-wqvWmUJk,WBTC,D-33,D-33,KC Das More Esplanade to Chandan Nagar,3
+chalo-wugeZQTE,WBTC,D-30A,D-30A,Habra Station to Chakla,3
+chalo-wzZGwyMo,WBTC,D-6A,D-6A,Botanical Garden to Ballykhal Bus Stop,3
+chalo-xCMCtsZK,WBTC,D-23,D-23,Esplanade Bus Terminus to Kaijuri Bus Stop,3
+chalo-xFtsSuSp,WBTC,D-19,D-19,Iswari Gacha to Karunamoyee,3
+chalo-xGtHJiqv,WBTC,AC-40,AC-40,Howrah Maidan to Airport Gate 1,3
+chalo-xLkpELQW,WBTC,M-14,M-14,Newtown to Behala 14 No Bus Stop,3
+chalo-xeANVEid,WBTC,AC-1,AC-1,Howrah Bus Stand to Jadavpur 8B Stand,3
+chalo-xgbMelgW,WBTC,E-25,E-25,Habra Bus Terminus to Esplanade Wbtc Tram Stand,3
+chalo-xiWoHsvA,WBTC,NS-15,NS-15,Garia More Near Bata to Barasat,3
+chalo-xokpxamX,WBTC,14A,14A,Bichali Ghat to Karunamoyee Circle,3
+chalo-xrOsgCJh,WBTC,E32R,E32R,Nilgunj Depot to Howrah Station,3
+chalo-xtlGkRWb,WBTC,S-14B,S-14B,Jadavpur 8B Stand to Hari Mohan Ghosh College,3
+chalo-xvxpswqp,WBTC,C-26,C-26,Howrah Bus Stand to Baruipur,3
+chalo-xzTxbmMw,WBTC,AC-34RL,AC-34RL,Howrah Bus Stand to Ariadaha Bus Terminal,3
+chalo-yAKvLVti,WBTC,M-7K,M-7K,Sealdah Railway Station to Khudiram Park Stand,3
+chalo-yCxRGsVN,WBTC,M-18,M-18,Behala Chow Rastha to Tollygunge Metro,3
+chalo-yEVEzsLO,WBTC,NS 8,NS 8,Howrah Bus Stand to Ballygunge Station,3
+chalo-yEyxMSPu,WBTC,C-30,C-30,Shankrail Railway Station to Raja Bazar Tram Depot,3
+chalo-yOjagezL,WBTC,K-3,K-3,Saheb Bagan to Kudghat,3
+chalo-yRgRRxKE,WBTC,D-28B,D-28B,Big Bazar Chapadali More to Esplanade,3
+chalo-ydiiRaTp,WBTC,S-34B,S-34B,Barrackpore Court Terminus to WBSU University,3
+chalo-yfTzpLwt,WBTC,AC-51L,AC-51L,Airport Gate 3 to Kudghat,3
+chalo-zJJQucvr,WBTC,C-23A,C-23A,Airport Taxi Stand Gate No 1 to Park Circus Tram Depot,3
+chalo-zPtqiJZt,WBTC,AC-37L,AC-37L,Barasat to Garia More Near Bata,3
+chalo-zTItFHna,WBTC,S-22,S-22,Shakuntala Park to Karunamoyee Circle,3
+chalo-zYvyOaYj,WBTC,E-1,E-1,Jadavpur 8B Stand to Howrah Bus Stand,3
+chalo-ziUCtWnI,WBTC,E-47A,E-47A,Howrah Bus Stand to Habra Railway Station,3
+chalo-zutVcTzB,WBTC,EB-6,EB-6,Nabanna Bus Terminus to Dharsa,3
+chalo-zuwLGeZQ,WBTC,ORD 1,ORD 1,Amtala Crossing Bus Stand to Howrah Bus Stand,3
+chalo-zxABsOUH,WBTC,C 24,C 24,Ghasbagan Depot to Raja Bazar Tram Depot,3
+chalo-zzBXrMCQ,WBTC,D-26,D-26,Swarupnagar Bus Stop to Karunamoyee,3
+wbtc-0,WBTC,C-27,C-27,Chandni (up)/B.B.D. Bag (dn) to Kazibari,3
+wbtc-1,WBTC,D1,D1,Golf Club to Chakdaha (Tollygunge Depot),3
+wbtc-2,WBTC,T-AC-1,T-AC-1,Esplanade to Santragachi (Khidirpur Depot),3
+wbtc-3,WBTC,C-1-A,C-1-A,Amtola Phari to Rabindra Sadan (Khidirpur Depot),3
+wbtc-4,WBTC,NB-2,NB-2,Nabanna to B. B. D. Bag (Khidirpur Depot),3
+wbtc-5,WBTC,E-13/1,E-13/1,Rabindrasadan/Hasting to Jangipara (Rajabazar Depot),3
+wbtc-6,WBTC,E-17,E-17,Dakbangla to Digha (Barasat Depot),3
+wbtc-7,WBTC,E-16,E-16,M.G. Road / C.R. Avenue Xing to Kalyani (Belgachia Depot),3
+wbtc-8,WBTC,E-14,E-14,V. House to Furfuira (Rajabazar Depot),3
+wbtc-9,WBTC,T-10/1,T-10/1,Rajabazar to Vebia (Rajabazar Depot),3
+wbtc-10,WBTC,ORD-2,ORD-2,B. B. D. Bag to Joka (Ghasbagan Depot),3
+wbtc-11,WBTC,AC-3,AC-3,Barasat to Vivekananda Road (Barasat Depot),3
+wbtc-12,WBTC,E-19,E-19,Habra to Digha (Barasat Depot),3
+wbtc-34,WBTC,33,33,Chetla to Paikpara,3
+wbtc-35,WBTC,5-N,5-N,Garia to Nabanna,3
+wbtc-36,WBTC,6-N,6-N,Garia to Nabanna,3
+wbtc-37,WBTC,12N,12N,Thakurpukur to Nabanna,3
+wbtc-38,WBTC,AC-4A,AC-4A,Parnashri to Sapoorji,3
+wbtc-39,WBTC,AC-4B,AC-4B,Joka to New Town,3
+wbtc-40,WBTC,AC-9,AC-9,Jadavpore to Karunamoyee,3
+wbtc-41,WBTC,AC-12,AC-12,New Town (Sapoorji) to Howrah,3
+wbtc-42,WBTC,AC-14,AC-14,Baruipur New Terminus to Karunamoyee (Salt Lake),3
+wbtc-43,WBTC,AC-20,AC-20,Santragachi to Barrackpore,3
+wbtc-44,WBTC,AC-23A,AC-23A,Salt Lake Depot Gate to Rajchandrapur,3
+wbtc-45,WBTC,AC-24,AC-24,Patuli to Howrah,3
+wbtc-46,WBTC,AC-24A,AC-24A,Kamalgazi to Howrah Station,3
+wbtc-47,WBTC,AC-30,AC-30,Lake Town (Jaya Cinema) to Howrah Station,3
+wbtc-48,WBTC,AC-30S (IT Spl.),AC-30S (IT Spl.),Ultadanga to Sapoorji,3
+wbtc-49,WBTC,AC-37,AC-37,Garia to Barasat,3
+wbtc-50,WBTC,AC-38,AC-38,Dum Dum 11A Stand to Karunamoyee,3
+wbtc-51,WBTC,AC-50A,AC-50A,Garia to Rajchandra- pur,3
+wbtc-52,WBTC,AC-52,AC-52,Amtala to Howrah,3
+wbtc-53,WBTC,D1A,D1A,Barasat to Tollygunge,3
+wbtc-54,WBTC,E-32,E-32,Neilgunj to Howrah,3
+wbtc-55,WBTC,E 36 Spl,E 36 Spl,Barasat to Santragachi,3
+wbtc-56,WBTC,E43A,E43A,Howrah to Bhebia,3
+wbtc-57,WBTC,E75,E75,Barasat to Baruipur,3
+wbtc-58,WBTC,E77,E77,Esplanade to Sukanta Park,3
+wbtc-59,WBTC,S-30 (IT. Spl.),S-30 (IT. Spl.),Ultadanga to Eco Space,3
+wbtc-60,WBTC,S-63,S-63,Metiabruz S.S. Hospital to Behala 14 No. B.T.,3
+wbtc-61,WBTC,S-64,S-64,Naihati Bus Terminus to New Town Bus Terminus,3
+wbtc-62,WBTC,S-65,S-65,Sealdah to Sankrail Bharat Co-Op,3
+wbtc-63,WBTC,V-1 (L),V-1 (L),Tollygunge to Airport Terminal,3
+chalo-AIUTjhEa,PVT,Barasat-B Garden,Barasat-B Garden,Barasat to B Garden Bus Stand,3
+chalo-AQgnpDVg,PVT,237,237,Tant Kal to Babughat Bus Stand,3
+chalo-AYSuweGf,PVT,12-1,12-1,Ramnagar Bus Terminus to Raja Bazar Tram Depot,3
+chalo-AaegRYYT,PVT,SD-5,SD-5,Century Plywood Industry to KB 17 Bus Terminus,3
+chalo-AubQguzh,PVT,15,15,Ultadanga Bus Terminal to Sapoorji Complex Bus Stop,3
+chalo-BDtsgxOy,PVT,Bagnan-Dharmatala,Bagnan-Dharmatala,Bagnan Railway Station to Esplanade Bus Terminus,3
+chalo-BLYJlbkw,PVT,91C,91C,Lauhati Battala Or 91C Bus Stand to Shyam Bazar Bus Stand,3
+chalo-BPFrOOLA,PVT,SD-3,SD-3,Ghatak Pukur Bus Stand to Sonarpur Bus Stand,3
+chalo-BPmBwcew,PVT,RT-42,RT-42,Bokultala Route 59 Stand to Aliah University,3
+chalo-BRyQjNyZ,PVT,77A,77A,Esplanade Bus Terminus to Bata Bus  Stop,3
+chalo-BSfbIyTg,PVT,24A,24A,Topsia Bus Stand to Salkia Bandha Ghat,3
+chalo-BUWpFBcL,PVT,213-1,213-1,Botanical Garden and 213-1  Bus Stand to Ghatak Pukur 213 A Bus Stand,3
+chalo-BiQZvDzl,PVT,K-4,K-4,National Medical College Or Chittaranjan Hospital to Dakshineswar PWD Road,3
+chalo-BqSAeTHF,PVT,18B-1,18B-1,Bagmari Bus stand to China Mandir Stop,3
+chalo-CGgEQRot,PVT,18,18,KC Das More Esplanade to Kona Crossing,3
+chalo-CKESmLpo,PVT,253,253,Esplanade Bus Terminus to Basirhat Chowmatha,3
+chalo-CLMqsoqq,PVT,Garia-Bally Bazar,Garia-Bally Bazar,Garia Bus Station to Bally Bazar,3
+chalo-CROeCyZY,PVT,240,240,240 Bus Terminal to Golfgreen Mini Bus Stand,3
+chalo-CRguNjoo,PVT,41,41,Matapara Bus Stop to Boalia Bus Stop 41 Bus Stand,3
+chalo-CUdKdoYb,PVT,12C,12C,Pailan Bus Stop to Howrah Bus Stand,3
+chalo-CVAwmIRp,PVT,41B,41B,Howrah Gulmohar to Netaji Nagar,3
+chalo-CWzqUnax,PVT,211A,211A,Longolpota Bus Stand to Ahiritola More,3
+chalo-CXVJRooK,PVT,91,91,Shyam Bazar Bus Stand to 91 Bus Stand Bhaangur,3
+chalo-CaVIbzZf,PVT,KB-17,KB-17,KB 17 Bus Terminus to Infospace Or 30B-1 Bus Stop,3
+chalo-CmjTEldf,PVT,79D,79D,79D Bus Stand to Babughat Bus Stand,3
+chalo-CresELil,PVT,45,45,45 Bus Stand to Airport Gate 1,3
+chalo-DASPjeWc,PVT,211A-1,211A-1,Ahiritola More to Sikharpur Bus Stop,3
+chalo-DDKCuqAW,PVT,18C,18C,Sarsuna 18B Bus Stand to Anandapur,3
+chalo-DEPZumOV,PVT,214A,214A,Esplanade to Sodepur Girja,3
+chalo-DJOVyrso,PVT,B Garden-Barasat,B Garden-Barasat,B Garden Bus Stand to Barasat,3
+chalo-DKMZlICh,PVT,12A,12A,Howrah Bus Stand to Rajabagan Bus Stand,3
+chalo-DUUsByjm,PVT,KB-15,KB-15,Santragachi Bus Terminus to KB 15 Bus Stop,3
+chalo-DWMCwoNq,PVT,242,242,Mandir Bari to KC Das More Esplanade,3
+chalo-DYXeTkfH,PVT,Airport-Joypur,Airport-Joypur,Dum Dum Airport High School to Joypur Bagnan Bus Stop,3
+chalo-DaMLoBIv,PVT,55,55,Botanical Garden to Dharmtala Bus Stand Or Esplanade,3
+chalo-DfYWwDMl,PVT,RT-25,RT-25,Jaiswal Hospital to Sealdah M G Road Chhabighar,3
+chalo-DgxlXNnC,PVT,RNB,RNB,Rajarhat Chowmatha to Mandirtala,3
+chalo-DyrigMRu,PVT,91A,91A,Haroa Bus Stop to Shyambazar Bus Depot,3
+chalo-DytKVeuo,PVT,211,211,Ahiritola Bus Stop to Patharghata Bus Stand,3
+chalo-EJYKZiIk,PVT,205,205,Reliance Digital Bansdroni to Babughat Bus Stand,3
+chalo-ELiPwGiF,PVT,205A,205A,Reliance Digital Bansdroni to Babughat,3
+chalo-EReUDoRG,PVT,211A,211A,Ahiritola More to Longolpota Bus Stand,3
+chalo-EUspLfZG,PVT,Dankuni-206 Bus Stand,Dankuni-206 Bus Stand,Dankuni Housing to Salt Lake 206 Bus Stand,3
+chalo-EUtvKKlp,PVT,3C-1,3C-1,Anandapur to Nager Bazar,3
+chalo-EVUfjLYe,PVT,KBH,KBH,Kalipur More to Kashipur Bazar,3
+chalo-EbsTXmGZ,PVT,DN-47,DN-47,Barasat Moyna Check Post to Karunamoyee Bus Stand,3
+chalo-EeZnnyam,PVT,3,3,KC Das More Esplanade to Kadam Tala Bata,3
+chalo-Eovpmmbc,PVT,Howrah-Madhyamgram,Howrah-Madhyamgram,Howrah Bus Stand to Madhayamgram Kali bari,3
+chalo-ErlzJYpo,PVT,12C-1,12C-1,Howrah Bus Stand to Shibrampur Bus Stop,3
+chalo-EvzaQxoH,PVT,Tarakeswar-Karunamoyee,Tarakeswar-Karunamoyee,Tarakeswar Bus Stand to Karunamoyee Circle,3
+chalo-EwjMMFvG,PVT,RT-24,RT-24,Howrah City Police to Sankrail,3
+chalo-FDlzLKUr,PVT,44,44,Howrah Bus Stand to Jora Mandir Baguihati Or Apex General Hospital,3
+chalo-FOKiofPO,PVT,Haldia-Esplanade,Haldia-Esplanade,Haldia Bus Terminal to Esplanade Bus Terminus,3
+chalo-FPAXlnpl,PVT,DN-8-1,DN-8-1,Jagannathpur Kalibari to Tikiapara,3
+chalo-FQPJjzWY,PVT,30B,30B,Babughat Bus Stand to Gouripur,3
+chalo-FReEqtdN,PVT,230,230,Alipur Zoo to Narula Institute,3
+chalo-FUIWhGvo,PVT,217A,217A,Narayanpur Bazar to Babughat Bus Stand,3
+chalo-FYufQCUS,PVT,18A,18A,Howrah Bus Stand to Greenfield Bus Depot,3
+chalo-FizqcvIH,PVT,71,71,Raja Bazar Tram Depot to Howrah Maidan Metro,3
+chalo-FkkUfyVs,PVT,6,6,Botanical Garden to KC Das More Esplanade,3
+chalo-FkueHigi,PVT,215,215,Howrah Bus Stand to 215 Bus Stop,3
+chalo-FoJXaQAV,PVT,285,285,Serampore Bus Stand to SDF Bus Stop,3
+chalo-FphoPzYD,PVT,52,52,Esplanade Bus Terminus to Ramrajaatala Bus Stand,3
+chalo-FsDfIBWS,PVT,240-1,240-1,Bag Bazar Bus Depot to Garia Station,3
+chalo-FwRTYooo,PVT,45,45,Airport Taxi Stand Gate No 1 to Palki Bus Stop,3
+chalo-GIrTnxOx,PVT,76,76,Amta Bus Stand to Bagnan Railway Station,3
+chalo-GNOwSpIY,PVT,Amta-Airport Gate No 1,Amta-Airport Gate No 1,Amta Bus Stand to Airport Gate No 1 Bus Stand,3
+chalo-GOAjsrsU,PVT,E-43 (Howrah-Bus),E-43 (Howrah-Bus),Dihibhursut Bus Stand to Howrah Bus Stand,3
+chalo-GSUFUlAv,PVT,Airport Gate No 1-Amta,Airport Gate No 1-Amta,Airport Gate No 1 Bus Stand to Amta Bus Stand,3
+chalo-GXsmtark,PVT,1B,1B,Ramnagar Bus Terminus to Nayabad Stand,3
+chalo-GaSBfwWN,PVT,218,218,Baruipur HP Petrol Pump 218 BUS Stop to Babughat,3
+chalo-GerLSMJo,PVT,45B,45B,Garia 45B Bus Stand to Chingrihata Bus Stop,3
+chalo-GuHJMUIT,PVT,40A,40A,Babughat Bus Stand to Julpia Bus Stand,3
+chalo-GxPsdPXq,PVT,34B,34B,Esplanade Bus Terminus to Danlop Bus Stop,3
+chalo-HHAQyrnh,PVT,55A,55A,Shibpur Tram Depot to Shaheed Minar Or Mewrol,3
+chalo-HLPMTbFO,PVT,221,221,Gol Park to Nager Bazar,3
+chalo-HMyfINRQ,PVT,46B,46B,Esplanade Bus Terminus to Akankha,3
+chalo-HUBSNPFR,PVT,12B,12B,Esplanade Bus Terminus to Kamal Talkies,3
+chalo-HeirNMlq,PVT,RT-42,RT-42,Aliah University to Bokultala Route 59 Stand,3
+chalo-IDknGrrw,PVT,45A,45A,Gouripur to 45A Bus Stand Garia,3
+chalo-IEEDSbPT,PVT,12C-1B,12C-1B,Howrah Bus Stand to Pailan Bus Stop,3
+chalo-IGxbTfVF,PVT,240,240,Golfgreen Mini Bus Stand to 240 Bus Terminal,3
+chalo-IMRpWoeI,PVT,E-53,E-53,Howrah Narit Bus Depot to Howrah Bus Stand,3
+chalo-INzwCPyj,PVT,Joypur-Airport,Joypur-Airport,Joypur Bagnan Bus Stop to Dum Dum Airport High School,3
+chalo-IYwrKtRj,PVT,1B,1B,Nayabad Stand to Ramnagar Bus Terminus,3
+chalo-IglGgWKi,PVT,73,73,Esplanade Bus Terminus to Cti Bus Stop,3
+chalo-InhlCnDE,PVT,3B,3B,Milk Colony 3B Bus Stand to New Alipur,3
+chalo-IpCDIqlA,PVT,218-1,218-1,Baruipur HP Petrol Pump 218 BUS Stop to Santragachi Bus Terminus,3
+chalo-IrnNzoyZ,PVT,73,73,Cti Bus Stop to Esplanade Bus Terminus,3
+chalo-IxebMiQm,PVT,E-53,E-53,Howrah Bus Stand to Howrah Narit Bus Depot,3
+chalo-IyFlQCMQ,PVT,SD-18,SD-18,Bishnupur Sd-18 Bus Stand to Esplanade Bus Terminus,3
+chalo-JIwndRzq,PVT,Sealdah-Bagnan,Sealdah-Bagnan,Sealdah Baganan Bus Stand to Bagnan Railway Station,3
+chalo-JNKPMhgW,PVT,204-1,204-1,Keoratala Shamshan to Raja Bazar Bus Depo,3
+chalo-JVEAmBQN,PVT,57A,57A,Howrah Bus Stand to Chanditala BDO Office,3
+chalo-JjUQXXUR,PVT,37A,37A,Nayabad Stand to Howrah Bus Stand,3
+chalo-JkYImYvr,PVT,Digha-Tarakeswar Via Udaynarayanpur,Digha-Tarakeswar Via Udaynarayanpur,Old Digha Bus Stand to Tarakeswar Bus Stand,3
+chalo-JsLPIeLC,PVT,201,201,Nabadiganta 215 No Bus Terminus to Nimta Bus Stop,3
+chalo-JwjggCHd,PVT,13A,13A,Ekabbarpur Bus Stop to Raja Bazar Science College,3
+chalo-KKSufjkJ,PVT,43,43,Dakshineswar PWD to Dharmtala Bus Stand Or Esplanade,3
+chalo-KQjaiNpP,PVT,Garia-Bagbazar,Garia-Bagbazar,Garia Station to Bag Bazar Bus Depot,3
+chalo-KXMoeBhY,PVT,78-1,78-1,Babughat to Parthapur Bazar,3
+chalo-KmcesjyF,PVT,30,30,Baluhati Bus Stop to KC Das More Esplanade,3
+chalo-KmiNbCCH,PVT,13A,13A,Raja Bazar Science College to Ekabbarpur Bus Stop,3
+chalo-KocILGYW,PVT,Amta-Dharmatala,Amta-Dharmatala,Amta Bus Stand to Esplanade Bus Terminus,3
+chalo-KprDbdWs,PVT,SD-16,SD-16,Sirakol to Mukundapur,3
+chalo-KucBCEqO,PVT,70,70,11 Fatak Bus Stand to Amta Bus Stand,3
+chalo-KwQcVGly,PVT,41,41,Boalia Bus Stop 41 Bus Stand to Matapara Bus Stop,3
+chalo-LGPVMTug,PVT,Durgachak-Esplanade,Durgachak-Esplanade,Durgachak to Esplanade Bus Terminus,3
+chalo-LQRVKzkT,PVT,6-A,6-A,KC Das More Esplanade to Danesh Sheikh Lane,3
+chalo-LSMgWbNb,PVT,K-2,K-2,Kendriya Vidyalaya Dumdum to Salt Lake 206 Bus Stand,3
+chalo-LTlcvvpO,PVT,91B,91B,Pakapole Chowmatha Or Pakapole Bazar to Shyam Bazar Bus Stand,3
+chalo-LUOWHInv,PVT,51,51,Howrah Bus Stand to Pardankuni Bazar 51 Bus Stop,3
+chalo-LhQqoqOg,PVT,Barasat Champadali-Santragachi,Barasat Champadali-Santragachi,Big Bazar Chapadali More to Santragachi Station,3
+chalo-LkcrRqld,PVT,Rajabazar-Hasnabad,Rajabazar-Hasnabad,Raja Bazar Tram Depot to Hasnabad Bus Stand,3
+chalo-MRXCGDvH,PVT,44-1,44-1,Jora Mandir Baguihati Or Apex General Hospital to Howrah Station,3
+chalo-MZbXQMaE,PVT,215A,215A,Howrah Bus Stand to Nabadiganta 215 No Bus Terminus,3
+chalo-MiViqSoL,PVT,24,24,Topsia Bus Stop to Salkia Bandha Ghat,3
+chalo-NCByyOkq,PVT,12C-2,12C-2,Howrah Bus Stand to Aquatica Bus Depot,3
+chalo-NZzmNift,PVT,52,52,Ramrajaatala Bus Stand to Dharmtala Bus Stand Or Esplanade,3
+chalo-NkNbpcem,PVT,223,223,Golf Green to BT College,3
+chalo-NmVXMfJO,PVT,Garia-Ultadanga,Garia-Ultadanga,Garia More Near Bata to Muchi Bazar,3
+chalo-NsEZsBCJ,PVT,SD-8,SD-8,Nandi Bagan to Bibirhat,3
+chalo-ODzpOBqA,PVT,Barasat-Garia,Barasat-Garia,Barasat Champadali More to Garia More Near Bata,3
+chalo-OEUCRAvX,PVT,12AD,12AD,Akra Fatak to Howrah Bus Stand,3
+chalo-OFVxgnXy,PVT,30C-1,30C-1,Babughat Bus Stand to Hatiara Bus Stand,3
+chalo-OIDodrad,PVT,KB-22,KB-22,Kolkata Railway Station to Shapoorji Bus Stand,3
+chalo-OJBGWdxh,PVT,24A,24A,Salkia Bandha Ghat to Topsia Bus Stand,3
+chalo-OUhQFmuM,PVT,12C-1,12C-1,Oxy Town Bus Stop to Howrah Station,3
+chalo-OVtxkQzk,PVT,12C-1A,12C-1A,Howrah Bus Stand to Konchowki Petrol Pump,3
+chalo-OZrWGufe,PVT,234-1,234-1,Golf Green to Jatin Das Badamtala,3
+chalo-PDGfFnBt,PVT,34C,34C,Noapara Bus Stand to Esplanade Bus Terminus,3
+chalo-PGrMaDoW,PVT,30B-1,30B-1,Howrah Bus Stand to Infospace Or 30B-1 Bus Stop,3
+chalo-PHtehoQx,PVT,KB-16,KB-16,Sapoorji Complex Bus Stop to Bangur Bus Stand,3
+chalo-PNORDKOp,PVT,234-1,234-1,Jatin Das Badamtala to Golf Green,3
+chalo-POpixOqQ,PVT,32A,32A,Technopolis Bus Stand to Dakshineswar PWD Road,3
+chalo-PYKKzpPw,PVT,59,59,Howrah Bakuktala Bus Stop to Esplanade Bus Terminus,3
+chalo-PbGRbWTL,PVT,3,3,Kadam Tala Bata to KC Das More Esplanade,3
+chalo-PcYUhUIR,PVT,KBH,KBH,Kashipur Bazar to Kalipur More,3
+chalo-PcwxGefO,PVT,7,7,Gari 6 No to Kolkata Railway Station,3
+chalo-PcxyXxFd,PVT,RT-61,RT-61,Alampur to Howrah Bus Stand,3
+chalo-PiYHBsxi,PVT,55,55,Esplanade Bus Terminus to Botanical Garden,3
+chalo-PkRymxsm,PVT,43-1,43-1,Dakshineswar PWD Road to Philips Crossing Or Ajkal Patrika,3
+chalo-PmpvlASi,PVT,Digha-Tarakeswar Via Dankuni,Digha-Tarakeswar Via Dankuni,Old Digha Bus Stand to Tarakeswar Bus Stand,3
+chalo-PpVwLjNp,PVT,70,70,Amta Bus Stand to 11 Fatak Bus Stand,3
+chalo-PugKqFro,PVT,223-1,223-1,Dumdum Cantonment to Golf Green,3
+chalo-QFbZQzHV,PVT,Santragachi-Sapoorji,Santragachi-Sapoorji,Santragachi Station to Sapoorji Complex Bus Stop,3
+chalo-QMYSiaaK,PVT,K-7,K-7,Mourigram to Ruby Hospital,3
+chalo-QQXwuDwt,PVT,DN-2-1,DN-2-1,Shapoorji Bus Stand to Dakshineswar Ramkrishna Dev Road,3
+chalo-QWuajMUA,PVT,1A,1A,Ramnagar Bus Terminus to Mukundapur,3
+chalo-QaBCXscB,PVT,91A,91A,Shyambazar Bus Depot to Haroa Bus Stop,3
+chalo-QakXjtDL,PVT,13,13,Parnasree to Esi Hospital Sealdah,3
+chalo-QawSSxCN,PVT,219,219,Clive House to Howrah Station,3
+chalo-QbvLVJZF,PVT,30,30,KC Das More Esplanade to Baluhati Bus Stop,3
+chalo-QgLQgbrz,PVT,208,208,Howrah Bus Stand to Kudghat,3
+chalo-Qgaksoth,PVT,18D,18D,Howrah Bus Stand to Surya Sen Nagar Sarsuna,3
+chalo-QjYbNRDF,PVT,Tarkeshwar-Esplanade Via Dankuni,Tarkeshwar-Esplanade Via Dankuni,Tarakeswar to Esplanade Bus Terminus,3
+chalo-QrxlAQmy,PVT,1A,1A,Mukundapur to Ramnagar Bus Terminus,3
+chalo-QtqxxPwJ,PVT,K-1,K-1,Hati Sala Bus Stand to Kolkata Railway Station,3
+chalo-QuQtIpxM,PVT,SD-8,SD-8,Bibirhat to Nandi Bagan,3
+chalo-RGYChLbz,PVT,Amta-Mukundapur,Amta-Mukundapur,Amta Bus Stand to Mukundapur Crossing,3
+chalo-RQYCcYcH,PVT,56,56,Howrah Bus Stand to Ruiya Purbo Para 56 No Bus Stand,3
+chalo-RZCfKydu,PVT,73,73,Cti Bus Stop to Esplanade Bus Terminus,3
+chalo-RcWMqdQI,PVT,214,214,Babughat Bus Stand to Sajirhut,3
+chalo-RdECSsNv,PVT,44A,44A,Salt Lake to Howrah Bus Stand,3
+chalo-RfvAjxah,PVT,79B,79B,Bag Bazar Bus Depot to Barasat,3
+chalo-RgnBswxY,PVT,37,37,Dhakuria to Howrah Station,3
+chalo-RpIMXVaq,PVT,Esplanade-Tarkeshwar Via Dankuni,Esplanade-Tarkeshwar Via Dankuni,Esplanade Bus Terminus to Tarakeswar,3
+chalo-RrEvtefj,PVT,AS-3,AS-3,New Town Bus Stand to Garia 45B Bus Stand,3
+chalo-RtwkDKeN,PVT,KB-19,KB-19,New Town Bus Stand to Mandirtala,3
+chalo-RwgQhvQN,PVT,237-1,237-1,Babughat Bus Stand to Birati More,3
+chalo-SJprDZnA,PVT,85,85,Barrackpore Court Terminus to Athpur Phari,3
+chalo-SQWUGTnE,PVT,18D,18D,Surya Sen Nagar Sarsuna to Howrah Bus Stand,3
+chalo-SculqyMF,PVT,78,78,Dharmtala Bus Stand Or Esplanade to Barrackpore Court Terminus,3
+chalo-SfsCLLQY,PVT,208,208,Kudghat to Howrah Bus Stand,3
+chalo-SgyqOKwj,PVT,28,28,Howrah Bus Stand to Barfkal Beleghata,3
+chalo-SkXUWLEf,PVT,13C,13C,Old Dakghar to Layelka,3
+chalo-SlyXYAvk,PVT,215-1,215-1,Lake Town VIP Road Crossing to Howrah Station,3
+chalo-TMpLEaWR,PVT,Dharmatala-Amta,Dharmatala-Amta,Esplanade Bus Terminus to Amta Bus Stand,3
+chalo-TNffYNfT,PVT,18,18,Kona Crossing to KC Das More Esplanade,3
+chalo-TSWLBXHf,PVT,57A,57A,Chanditala BDO Office to Howrah Bus Stand,3
+chalo-TTyvwSXH,PVT,18C,18C,Anandapur to Sarsuna 18B Bus Stand,3
+chalo-TWLhIxsS,PVT,215-1,215-1,Howrah Bus Stand to Lake Town 215-1 Bus Stop,3
+chalo-TYYZBuIn,PVT,30B-1,30B-1,Infospace Or 30B-1 Bus Stop to Howrah Bus Stand,3
+chalo-TeRNzNFF,PVT,KB-21,KB-21,Bose Tala to Ganganagar Bus Terminus,3
+chalo-TnoRcgxe,PVT,217,217,Narayanpur Beraberi to Babughat Bus Stand,3
+chalo-Tobzasmf,PVT,12-1,12-1,Raja Bazar Junction Sealdah to Ramnagar Bus Terminus,3
+chalo-UFbmfuRi,PVT,213,213,Babughat to Ghatak Pukur 213 A Bus Stand,3
+chalo-UVXbnhsO,PVT,JM-2,JM-2,Kolkata Railway Station to Subhasgram Bus Stop,3
+chalo-UbhgaYto,PVT,217A,217A,Babughat Bus Stand to Narayanpur Bazar,3
+chalo-UmniUQmL,PVT,47-1,47-1,ST 6 Stand Or Karunamoyee Tallygunge to Salt Lake 12 No Tank,3
+chalo-VDgbFxOF,PVT,13A,13A,BBD Bag to Sampa Mirza Nagar Bus Stand,3
+chalo-VFbTChQR,PVT,Balipur-Esplanade,Balipur-Esplanade,Balipur to Esplanade Bus Terminus,3
+chalo-VGyAImSv,PVT,79,79,79B Bus Stop Dunlop to Panchla,3
+chalo-VNVCVnck,PVT,30C-2,30C-2,Hatiara Bus Stand to Mahish Bathan,3
+chalo-VVBMDitS,PVT,46A,46A,Esplanade Bus Terminus to Airport Gate 1,3
+chalo-VgXaxjDn,PVT,242,242,KC Das More Esplanade to 242 Bus Stand Cossipure,3
+chalo-VhMqKXLP,PVT,75,75,Kadamtala Bazar to Dharmtala Bus Stand Or Esplanade,3
+chalo-VjOfJlrD,PVT,KB-22,KB-22,Jamirgachhi Bus Stand to R G Kar Hospital,3
+chalo-VjcKLuLZ,PVT,Garia-Barasat,Garia-Barasat,Garia More Near Bata to Barasat Champadali More,3
+chalo-Vohsisos,PVT,26,26,Unsani Sasthitala Bus Stand to KC Das More Esplanade,3
+chalo-VuhIozzt,PVT,DN-2-1,DN-2-1,Dakshineswar PWD Road to Shapoorji Bus Stand,3
+chalo-WCsXkPeP,PVT,228,228,Babughat Bus Stop to Mahamayatala,3
+chalo-WFxGcDtl,PVT,202,202,Nager Bazar to VIP Ambedkar Bridge Or E M Bypass,3
+chalo-WHdoRqwM,PVT,RNB,RNB,Mandirtala to Rajarhat Chowmatha,3
+chalo-WMdmzRmC,PVT,41,41,Howrah Gulmohar to Indian Oil Petrol Pump Gachtala,3
+chalo-WSxFvrmY,PVT,213A,213A,Ghatak Pukur 213 A Bus Stand to Raja Bazar Tram Depot,3
+chalo-WXddmhcU,PVT,39,39,Bhattanagar Bus Stand Or Golabari Bus Stand to Raj Bhawan Esplanade,3
+chalo-WYErdqzq,PVT,Kamalpur-Barasat,Kamalpur-Barasat,Kamalpur Bus Stop to Barasat,3
+chalo-WcGupzmW,PVT,78-1,78-1,Raharabazar 78/1 Bus Stop to Babughat Bus Stop,3
+chalo-WfXohQTJ,PVT,30A,30A,Esplanade Bus Terminus to Mondol Para and 30 A Bus Stand,3
+chalo-WpCTYsWS,PVT,217B,217B,Babughat Bus Stand to Bablatala 217B Bus Stand,3
+chalo-WwflwNCw,PVT,3C-2,3C-2,Anandapur to Clive House,3
+chalo-WwyBLPPo,PVT,Bagbazar-Garia,Bagbazar-Garia,Bag Bazar Bus Depot to Garia Station,3
+chalo-WxjBoQlq,PVT,KB-17,KB-17,Infospace Or 30B-1 Bus Stop to KB 17 Bus Terminus,3
+chalo-WxsyusYf,PVT,L-238,L-238,Barasat to Howrah Bus Stand,3
+chalo-XIpHroqX,PVT,77,77,Batanagar Bus Stand to Dharmtala Bus Stand Or Esplanade,3
+chalo-XJKTsSUv,PVT,Esplanade-Durgachak,Esplanade-Durgachak,Esplanade Bus Terminus to Durgachak,3
+chalo-XRRCMMLz,PVT,DN-9-1,DN-9-1,Dakshineswar PWD Road to Barasat,3
+chalo-XRyMnzhP,PVT,91B,91B,Shyam Bazar Bus Stand to Pakapole Chowmatha Or Pakapole Bazar,3
+chalo-XYuaeDEA,PVT,41B,41B,Netaji Nagar to Howrah Gulmohar,3
+chalo-XbDjgYOi,PVT,239,239,Babughat Bus Stand to Central Park Station,3
+chalo-XcMeLxDI,PVT,219-1,219-1,Kazipara to Howrah Bus Stand,3
+chalo-XgECUqiA,PVT,12AD,12AD,Howrah Bus Stand to Akra Fatak,3
+chalo-XgmOtIQT,PVT,39,39,Calcutta High Court to 39 Bus Stand Dilip Math,3
+chalo-XhJqxqOi,PVT,SD-19,SD-19,Esplanade Bus Terminus to Pathar Pratima Bazar,3
+chalo-XqeUVNCX,PVT,80B,80B,Garia Metro to Esplanade Bus Terminus,3
+chalo-XsHviTnO,PVT,237,237,Babughat Bus Stand to Tant Kal,3
+chalo-XsxaVXdx,PVT,30C,30C,Hatiara Bus Stand to Babughat Bus Stand,3
+chalo-YCyMIfVm,PVT,DN-47,DN-47,Karunamoyee Bus Stand to Barasat Moyna Check Post,3
+chalo-YEZyEjwZ,PVT,13,13,Ranihati to Raja Bazaar,3
+chalo-YVUljVbd,PVT,241A,241A,Santoshpur Railway Station to Esplanade Bus Terminus,3
+chalo-YYxWODSI,PVT,57,57,Kona Crossing to Dharmtala Bus Stand Or Esplanade,3
+chalo-YZxnljsB,PVT,KP2,KP2,Mistery Ghat More Or Barackpur Court to Mahamayatala,3
+chalo-YiarPfvT,PVT,12,12,Raja Bazar Tram Depot to Rajabagan Bus Stand,3
+chalo-YmQteJyc,PVT,73,73,Esplanade Bus Terminus to Cti Bus Stop,3
+chalo-YpBguaUA,PVT,213,213,Ghatak Pukur 213 A Bus Stand to Babughat,3
+chalo-YyVLhWUU,PVT,24A-1,24A-1,Howrah Fire service to Mukundapur,3
+chalo-ZAymggVW,PVT,42A,42A,42A Or 42B Bus Stop Bichali Ghat to Picnic Garden 42A Bus Stand,3
+chalo-ZDwwqeVh,PVT,45A,45A,45A Bus Stand Garia to Gouripur,3
+chalo-ZFrlIkUN,PVT,DN 44 Dakshinesware to bongaon,DN 44 Dakshinesware to bongaon,Dakshineswar to Bongaon Bus Stand,3
+chalo-ZQenclxs,PVT,Nagar Bazar to Dankuni,Nagar Bazar to Dankuni,China Mandir to Dankuni Housing,3
+chalo-ZUIKXuoc,PVT,RT-1A,RT-1A,Semens Kasba to Satyabala,3
+chalo-ZUOpsEsp,PVT,SD-19,SD-19,Pathar Pratima Bazar to Esplanade Bus Terminus,3
+chalo-ZXIttDQy,PVT,81,81,Fishery Gate Barrackpore to Barasat,3
+chalo-ZYGbxMpv,PVT,215A-1,215A-1,Howrah Bus Stand to Nabadiganta 215 No Bus Terminus,3
+chalo-ZiCHJize,PVT,Baruipur To Barasat,Baruipur To Barasat,Baruipur Barasat Bus Stop to Barasat,3
+chalo-ZjLkgigI,PVT,26,26,KC Das More Esplanade to Unsani Sasthitala Bus Stand,3
+chalo-aFLDYbYO,PVT,213A,213A,Raja Bazar Tram Depot to Ghatak Pukur 213 A Bus Stand,3
+chalo-aFyKmbcg,PVT,228,228,Mahamayatala to Babughat Bus Stop,3
+chalo-aJLAuoBx,PVT,2,2,Esplanade Metro to Salkiya Arabinda Bazar,3
+chalo-aNUhFDlL,PVT,93,93,Bag Bazar Bus Depot to Kharibari,3
+chalo-aNgOOOQK,PVT,75,75,Dharmtala Bus Stand Or Esplanade to Kadamtala Bazar,3
+chalo-aWIfMGlR,PVT,259,259,Akra Bus Depot to Howrah Bus Stand,3
+chalo-ahHcPsLV,PVT,211B,211B,Garagari Bus Stand to Ahiritola More,3
+chalo-ajATWkrV,PVT,30D,30D,Babughat Bus Stand to Dumdum Cantonment,3
+chalo-ajeydtMH,PVT,Santragachi-Kazipara,Santragachi-Kazipara,Santragachi Station to Kazipara,3
+chalo-akKJQtgv,PVT,21,21,Jagat Cinema Sealdah to Pora Aswatthatala Bus Stop D H Road,3
+chalo-apOGvPZV,PVT,230,230,Narula Institute to Alipur Zoo,3
+chalo-asEbbpNt,PVT,24B,24B,Howrah Bus Stand to Barfkal Beleghata,3
+chalo-bIaULlNY,PVT,71,71,Howrah Maidan Metro to Raja Bazar Tram Depot,3
+chalo-bNQuKmNM,PVT,241A,241A,Esplanade Bus Terminus to Santoshpur Railway Station,3
+chalo-bOxiSCVG,PVT,213-1,213-1,Ghatak Pukur 213 A Bus Stand to Botanical Garden and 213-1  Bus Stand,3
+chalo-bPvbbVxg,PVT,44,44,44 No Baguihati Bus Stop to Howrah Bus Stand,3
+chalo-baOjkMql,PVT,10,10,Khidirpur Tram Depot to Bally Ghat,3
+chalo-bdUiahHr,PVT,RT-80,RT-80,Howrah Station to Chunabhati Market,3
+chalo-bhIrSGIt,PVT,L-238,L-238,Howrah Bus Stand to Barasat,3
+chalo-bmCInCtz,PVT,21-1,21-1,Thakurpukur Bazar to Raja Bazar Junction Sealdah,3
+chalo-bmoIZhDF,PVT,214,214,Sajirhut to Babughat Bus Stand,3
+chalo-boFVdfbY,PVT,47B,47B,Lake Town Or Jaya Cinema Hall to Dhan Math  Bus Stop,3
+chalo-bpDGMkNM,PVT,K-2,K-2,Salt Lake 206 Bus Stand to Kendriya Vidyalaya Dumdum,3
+chalo-bvqpKUPK,PVT,20,20,Ultadanga Bus Terminal to Jalan Gate Number 1,3
+chalo-bxUDOzvx,PVT,Barrackpore-Mourigram,Barrackpore-Mourigram,Chiria More Bkp to Mourigram,3
+chalo-cAGVQuaq,PVT,218,218,Babughat Bus Stand to Baruipur HP Petrol Pump 218 BUS Stop,3
+chalo-cAHysmgm,PVT,235,235,Saltlake Karunamoyee Bus Stop to Amtala,3
+chalo-cIJRHqMu,PVT,Howrah-Barrackpore,Howrah-Barrackpore,Howrah Bus Stand to Barrackpore Lalkuthi More,3
+chalo-cPBpFBCs,PVT,RT-1A,RT-1A,Satyabala to Semens Kasba,3
+chalo-coHVzpcg,PVT,Barasat-Kamalpur,Barasat-Kamalpur,Barasat to Kamalpur Bus Stop,3
+chalo-cqDRjHGP,PVT,12C-1A,12C-1A,Konchowki Petrol Pump to Howrah Station,3
+chalo-crOYhMoh,PVT,223,223,BT College to Golf Green,3
+chalo-dBVQfNcn,PVT,Tarakeswar-Digha Via Dankuni,Tarakeswar-Digha Via Dankuni,Tarakeswar Bus Stand to Old Digha Bus Stand,3
+chalo-dHATcGNr,PVT,43,43,Dharmtala Bus Stand Or Esplanade to Dakshineswar PWD,3
+chalo-dTdpuody,PVT,13,13,Raja Bazaar to Ranihati,3
+chalo-dWTvAHmi,PVT,79B,79B,Barasat to Bag Bazar Bus Depot,3
+chalo-dkRJqwLW,PVT,212,212,Howrah Bus Stand to 212 No Bus Stand,3
+chalo-dlqtsxDU,PVT,205,205,Babughat Bus Stand to Reliance Digital Bansdroni,3
+chalo-dnJoYbuV,PVT,40A,40A,Julpia Bus Stand to Babughat Bus Stand,3
+chalo-dvuidFAt,PVT,211B,211B,Ahiritola More to Garagari Bus Stand,3
+chalo-dyGwqiLm,PVT,13,13,Esi Hospital Sealdah to Parnasree,3
+chalo-eBYIkUZT,PVT,79,79,Panchla to 79B Bus Stop Dunlop,3
+chalo-eCDkIYBN,PVT,Esplanade-Haldia,Esplanade-Haldia,Esplanade Bus Terminus to Haldia Bus Terminal,3
+chalo-eHmdsvhT,PVT,76,76,Bagnan Railway Station to Amta Bus Stand,3
+chalo-eHqCXEOC,PVT,24B,24B,Barfkal Beleghata to Howrah Bus Stand,3
+chalo-eQUHNbtG,PVT,59,59,Esplanade Mayo Road to Bokultala Route 59 Stand,3
+chalo-ekizjTRZ,PVT,DN-8-1,DN-8-1,Tikiapara to Jagannathpur Kalibari,3
+chalo-eqtTzGSO,PVT,217,217,Babughat Bus Stand to Narayanpur Beraberi,3
+chalo-erlQnSPd,PVT,6-A,6-A,Danesh Sheikh Lane to KC Das More Esplanade,3
+chalo-euGmuuuQ,PVT,214A,214A,Sodepur Girja to Esplanade,3
+chalo-fHMdocDB,PVT,13C,13C,Layelka to Old Dakghar,3
+chalo-fKFBbNvx,PVT,SD-18,SD-18,Esplanade Bus Terminus to Bishnupur Sd-18 Bus Stand,3
+chalo-fTgJYZTs,PVT,211,211,Ahiritola Bus Stop to Kharibari Bus Stand,3
+chalo-fTjyeiEF,PVT,75,75,Raypur More to Babughat Bus Stand,3
+chalo-fdhbIWGM,PVT,RT-24,RT-24,Sankrail to Howrah Bus Stand,3
+chalo-ffxiXlNu,PVT,K-4,K-4,Dakshineswar to National Medical College Or Chittaranjan Hospital,3
+chalo-fhNgmOyO,PVT,Newtown-Andul,Newtown-Andul,Eco Park Gate 4 to Andul Station Road,3
+chalo-fjzVaYbQ,PVT,Kazipara-Santragachi,Kazipara-Santragachi,Kazipara to Santragachi Station,3
+chalo-gPVrzqfo,PVT,DN-43,DN-43,Barasat Moyna Check Post to Dakshineswar,3
+chalo-gTfPEZRV,PVT,42A,42A,Picnic Garden 42A Bus Stand to 42A Or 42B Bus Stop Bichali Ghat,3
+chalo-gVvNObuA,PVT,42B,42B,Ram Nagar Bus Stop to Anandapur,3
+chalo-gWIgRWvr,PVT,39,39,39 Bus Stand Dilip Math to Calcutta High Court,3
+chalo-gWzrpxmD,PVT,Durgachak-Esplanade,Durgachak-Esplanade,Durgachak to Esplanade Bus Terminus,3
+chalo-gdKvNlpF,PVT,1,1,Mukundapur to Garden Reach Police Station More,3
+chalo-gfFajVSS,PVT,20,20,Jalan Gate Number 1 to Ultadanga Bus Terminal,3
+chalo-gmUBxjXj,PVT,18B-1,18B-1,China Mandir Stop to Bagmari Bus stand,3
+chalo-gsFoixyM,PVT,80A,80A,Mewrol Crossing to Garia More Near Bata,3
+chalo-gtatXAxV,PVT,12A,12A,Rajabagan Bus Stand to Howrah Station,3
+chalo-guEyoFvU,PVT,Karunamoyee-Tarakeswar,Karunamoyee-Tarakeswar,Karunamoyee Circle to Tarakeswar Bus Stand,3
+chalo-gxwmnnUi,PVT,Tarakeswar-Digha Via Udaynarayanpur,Tarakeswar-Digha Via Udaynarayanpur,Tarakeswar Bus Stand to Old Digha Bus Stand,3
+chalo-hPOQjTWc,PVT,234,234,Belghoria Bata Bus Stop to Golf Green,3
+chalo-hQvnxgOl,PVT,24,24,Salkia Bandha Ghat to Topsia Bus Stop,3
+chalo-hUaJnUso,PVT,Newtown-Amta,Newtown-Amta,Unitech Gate 2 to Amta Bus Stand,3
+chalo-hUcbAweo,PVT,Bagnan-Sealdah,Bagnan-Sealdah,Bagnan Railway Station to Sealdah Baganan Bus Stand,3
+chalo-hgsylrJB,PVT,Sapoorji-Santragachi,Sapoorji-Santragachi,Sapoorji Complex Bus Stop to Santragachi Station,3
+chalo-hiULktTd,PVT,20A,20A,Mourigram to Purbachal Mini Bus Stand Or 13 No Tank,3
+chalo-hmpdAhcf,PVT,260,260,Aquatica Bus Depot to Alipur Zoo,3
+chalo-htTziqHA,PVT,DN 44 Bongaon to Dakshinesware,DN 44 Bongaon to Dakshinesware,Bongaon Bus Stand to Dakshineswar PWD Road,3
+chalo-hvPfaRxH,PVT,3D,3D,Milk Colony 3B Bus Stand to Barisha Sakher Bazar,3
+chalo-iRdNWVsd,PVT,Esplanade-Balipur,Esplanade-Balipur,Esplanade Bus Terminus to Balipur,3
+chalo-iRvsVsTp,PVT,18A,18A,Greenfield Bus Depot to Howrah Bus Stand,3
+chalo-iSThwYeS,PVT,285,285,SDF Bus Stop to Serampore Bus Stand,3
+chalo-ibnJddCE,PVT,239,239,Shapoorji Bus Stand to Babughat Bus Stand,3
+chalo-ieTmDBtD,PVT,91C,91C,Shyam Bazar Bus Stand to Lauhati Battala Or 91C Bus Stand,3
+chalo-ihynxjUD,PVT,237-1,237-1,Birati More to Babughat Bus Stand,3
+chalo-ijWNvJAF,PVT,Amta-Newtown,Amta-Newtown,Amta Bus Stand to Unitech Gate 2,3
+chalo-imHvXdqY,PVT,37,37,Howrah Bus Stand to Dhakuria,3
+chalo-imUIpPfS,PVT,204-1,204-1,Raja Bazar Bus Depo to Keoratala Shamshan,3
+chalo-iwdjHxEV,PVT,Barasat-Airport via Newtown,Barasat-Airport via Newtown,Moyna Checkpost to Airport Taxi Stand Gate No 1,3
+chalo-jEerIYkH,PVT,77A,77A,Bata Bus  Stop to Esplanade Bus Terminus,3
+chalo-jEzExmyS,PVT,79D,79D,Babughat Bus Stand to 79D Bus Stand,3
+chalo-jKZMNAsa,PVT,Dankuni To Nagar Bazar,Dankuni To Nagar Bazar,Dankuni Housing to China Mandir,3
+chalo-jNJgSjPg,PVT,54,54,Ballykhal Bus Stop to Dharmtala Bus Stand Or Esplanade,3
+chalo-jQueICpk,PVT,Tarakeswar-Babughat,Tarakeswar-Babughat,Tarakeswar Bus Stand to Babughat,3
+chalo-jnbvenCK,PVT,AS-3,AS-3,Garia 45B Bus Stand to New Town Bus Stand,3
+chalo-jwXNgVNt,PVT,77,77,Dharmtala Bus Stand Or Esplanade to Batanagar Bus Stand,3
+chalo-jxBnTyGM,PVT,30B,30B,Gouripur to Babughat Bus Stand,3
+chalo-kCARcxHx,PVT,253,253,Basirhat Chowmatha to Esplanade Bus Terminus,3
+chalo-kDsOltxr,PVT,235,235,Amtala to Saltlake Karunamoyee Bus Stop,3
+chalo-kHtxSeGl,PVT,30C,30C,Babughat Bus Stand to Hatiara Bus Stand,3
+chalo-kLGIaELd,PVT,46,46,Esplanade Bus Terminus to Airport Gate 1,3
+chalo-kRYtKuSc,PVT,21-1,21-1,Sealdah Railway Station to Thakurpukur Bazar,3
+chalo-kXrtmlrI,PVT,7,7,Kolkata Railway Station to Gari 6 No,3
+chalo-kZMfIOgl,PVT,RT-25,RT-25,Sealdah M G Road Chhabighar to Jaiswal Hospital,3
+chalo-kqKWBqgS,PVT,1,1,RTCX Bus Stop Or Aurobindo Mall to KC Das More Esplanade,3
+chalo-kwfDwSod,PVT,DN-2,DN-2,Barasat to Dakshineswar PWD Road,3
+chalo-kyTKVFWt,PVT,DN-16-1,DN-16-1,Barasat to Dhamakhali Ferry Ghat,3
+chalo-kyuwwsbx,PVT,211,211,Patharghata Bus Stand to Ahiritola Bus Stop,3
+chalo-lBZbMpPE,PVT,11,11,Belur Math to Satyanaranyan Park AC Market,3
+chalo-lGZLdfET,PVT,Babughat-Tarakeswar,Babughat-Tarakeswar,Babughat to Tarakeswar Bus Stand,3
+chalo-lHhaOuSR,PVT,56,56,Ruiya Purbo Para 56 No Bus Stand to Howrah Bus Stand,3
+chalo-lKOPKpLO,PVT,55A,55A,Esplanade Bus Terminus to Shibpur Tram Depot,3
+chalo-lKWtClWc,PVT,12 Shuttle,12 Shuttle,Rajabagan Bus Stand to Esplanade Bus Terminus,3
+chalo-lNjtxhGu,PVT,51,51,Pardankuni Bazar 51 Bus Stop to Howrah Bus Stand,3
+chalo-lhbFWelB,PVT,JM-2,JM-2,Subhasgram Bus Stop to Kolkata Railway Station,3
+chalo-lnPHIZHt,PVT,SD-5,SD-5,KB 17 Bus Terminus to Century Plywood Industry,3
+chalo-lpSKzIhW,PVT,DN-9-1,DN-9-1,Barasat to Dakshineswar PWD Road,3
+chalo-mESnpNDe,PVT,18B,18B,Raja Bazar Bus Depo to Bagpota Bus Stop,3
+chalo-mQyEhZIg,PVT,44A,44A,Howrah Bus Stand to Salt Lake,3
+chalo-mYZaJEWz,PVT,260,260,Alipur Zoo to Aquatica Bus Depot,3
+chalo-mYfoAeQK,PVT,DN-2,DN-2,Dakshineswar PWD Road to Barasat,3
+chalo-mdJjaLzr,PVT,Sankrail-Amta,Sankrail-Amta,Sankrail 77 Bus Stand to Amta Bus Stand,3
+chalo-mgWnfaRX,PVT,21,21,Kadamtala to Jagat Cinema Sealdah,3
+chalo-mhqjhFPv,PVT,227,227,Bangur Bus Stand to BNR Bus Stop,3
+chalo-mjDDpASZ,PVT,215,215,215 Bus Stop to Howrah Station,3
+chalo-mlWCFHOt,PVT,8,8,KC Das More Esplanade to Shibpur Tram Depot,3
+chalo-mqVqJiUZ,PVT,44-1,44-1,Howrah Bus Stand to Jora Mandir Baguihati Or Apex General Hospital,3
+chalo-mxHNTfGu,PVT,6,6,KC Das More Esplanade to Botanical Garden,3
+chalo-mxPNowhz,PVT,222,222,Barisha Sakher Bazar to Bonhooghly,3
+chalo-nAWEHPlR,PVT,Dhulogori-Rash Behari,Dhulogori-Rash Behari,Dhulagarh Crossing to Rasbehari avenue,3
+chalo-nFUiwunP,PVT,Amta-Sankrail,Amta-Sankrail,Amta Bus Stand to Sankrail 77 Bus Stand,3
+chalo-nFpXiJkf,PVT,39,39,KC Das More Esplanade to Bhattanagar Bus Stand Or Golabari Bus Stand,3
+chalo-nKSOYnfo,PVT,20A,20A,Purbachal Mini Bus Stand Or 13 No Tank to Mourigram,3
+chalo-neYNYQFz,PVT,227,227,BNR Bus Stop to Bangur Bus Stand,3
+chalo-nftrDYzV,PVT,59,59,Bokultala Route 59 Stand to Esplanade Mayo Road,3
+chalo-nlfmxUeT,PVT,80A,80A,Garia More Near Bata to Mewrol Crossing,3
+chalo-ntzzZCVv,PVT,L-3,L-3,Howrah Bus Stand to Muchighata Bus Stop,3
+chalo-nuwhFIoy,PVT,18B,18B,Bagpota Bus Stop to Raja Bazar Bus Depo,3
+chalo-nvfKFksz,PVT,93,93,Kharibari to Bag Bazar Bus Depot,3
+chalo-oGPthTpp,PVT,3C-1,3C-1,Nager Bazar to Anandapur,3
+chalo-oHVWEpnq,PVT,45B,45B,Chingrihata Bus Stop to Garia 45B Bus Stand,3
+chalo-oJVwCpwK,PVT,K-7,K-7,Ruby Hospital Or Kasba to Mourigram,3
+chalo-oJkpllNr,PVT,3C-2,3C-2,Clive House to Anandapur Bazar,3
+chalo-oLWSZDVp,PVT,L-3,L-3,Muchighata Bus Stop to Howrah Bus Stand,3
+chalo-oNOqLRNw,PVT,40,40,Serampore Court to Birshibpur,3
+chalo-oghKvpau,PVT,39A-2,39A-2,Howrah Bus Stand to VIP Bazar,3
+chalo-oiFsdZjC,PVT,240-1,240-1,Garia Station to Bag Bazar Bus Depot,3
+chalo-otXeJMLl,PVT,37A,37A,Howrah Bus Stand to Nayabad Stand,3
+chalo-pVbseMrA,PVT,222,222,Bonhooghly to Sakher Bazar Barisha,3
+chalo-pZTfgNOz,PVT,SD-4,SD-4,Damro Diamond Park to Garfa Bus Stop,3
+chalo-pqkYgxHD,PVT,59,59,Esplanade Bus Terminus to Howrah Bakuktala Bus Stop,3
+chalo-prBZAxle,PVT,Madhyamgram-Howrah,Madhyamgram-Howrah,Madhayamgram Kali bari to Howrah Bus Stand,3
+chalo-pxbGKfJL,PVT,75,75,Babughat Bus Stand to Raypur More,3
+chalo-pzdJaokI,PVT,KB-21,KB-21,Ganganagar Bus Terminus to Bose Tala,3
+chalo-qLpnWKyc,PVT,30A,30A,Mondol Para and 30 A Bus Stand to Esplanade Bus Terminus,3
+chalo-qQicQgkK,PVT,234,234,Golf Green to Belghoria Bata Bus Stop,3
+chalo-qRRdQpaN,PVT,42B,42B,Anandapur Bazar to Garden Reach Police Station More,3
+chalo-qbYFnrqs,PVT,215A-1,215A-1,Nabadiganta 215 No Bus Terminus to Howrah Bus Stand,3
+chalo-rAWbnjGx,PVT,SD-3,SD-3,Sonarpur Bus Stand to Ghatak Pukur Bus Stand,3
+chalo-rAhgaUmr,PVT,3D,3D,Barisha Sakher Bazar to Milk Colony 3B Bus Stand,3
+chalo-rDKPJQzJ,PVT,Santragachi-Barasat Champadali,Santragachi-Barasat Champadali,Santragachi Bus Terminus to Big Bazar Chapadali More,3
+chalo-rJdRBfrS,PVT,211A-1,211A-1,Sikharpur Bus Stop to Ahiritola More,3
+chalo-rJyLNOTY,PVT,28,28,Barfkal Beleghata to Howrah Station,3
+chalo-rKTBhGeU,PVT,34C,34C,Esplanade Bus Terminus to Noapara Bus Stand,3
+chalo-rMFBpXei,PVT,91,91,91 Bus Stand Bhaangur to Shyam Bazar Bus Stand,3
+chalo-rOReMRwR,PVT,Esplanade-Kamarpukur Via 12 No,Esplanade-Kamarpukur Via 12 No,Esplanade Bus Terminus to Kamarpukur,3
+chalo-raGzFSHC,PVT,24A-1,24A-1,Mukundapur to Howrah Fire service,3
+chalo-rwvGyZwO,PVT,RT-80,RT-80,Chunabhati Market to Howrah Bus Stand,3
+chalo-sPfansCF,PVT,30D,30D,Dumdum Cantonment to Babughat Bus Stand,3
+chalo-sTzVtiEU,PVT,KB-16,KB-16,Bangur Bus Stand to Sapoorji Complex Bus Stop,3
+chalo-sfMHKZIc,PVT,30C-1,30C-1,Hatiara Bus Stand to Babughat Bus Stand,3
+chalo-skjtUkem,PVT,221,221,Nager Bazar to Gol Park,3
+chalo-sklfRqMS,PVT,DN-17,DN-17,Babughat Bus Stand to Barasat,3
+chalo-snqidDGP,PVT,DN-17,DN-17,Barasat to Babughat Bus Stand,3
+chalo-spBNJRbW,PVT,206 Bus Stand-Dankuni,206 Bus Stand-Dankuni,Salt Lake 206 Bus Stand to Sbstc Bus Depot,3
+chalo-suOsWDYh,PVT,40B,40B,Babughat Bus Stand to Thakurpukur Police Station,3
+chalo-tFqWcSRK,PVT,81,81,Barasat to Fishery Gate Barrackpore,3
+chalo-tHiTtybh,PVT,KB-19,KB-19,Mandirtala to New Town Bus Stand,3
+chalo-tIXhPFlk,PVT,17,17,Howrah Bus Stand to Chetla,3
+chalo-tJwkMMLn,PVT,17B,17B,Baghajatin Terminas to Howrah Bus Stand,3
+chalo-tLFrLxbv,PVT,210,210,Esplanade Bus Terminus to Raichak,3
+chalo-tRVjiyVf,PVT,80B,80B,Esplanade Bus Terminus to Garia Metro,3
+chalo-tSTvbCUh,PVT,17,17,Chetla to Howrah Bus Stand,3
+chalo-tUCxATnz,PVT,239,239,Central Park Station to Babughat Bus Stand,3
+chalo-tfdrlZFg,PVT,219,219,Howrah Bus Stand to Clive House,3
+chalo-toWoUxsU,PVT,Barrackpore-Howrah,Barrackpore-Howrah,Barrackpore Lalkuthi More to Howrah Bus Stand,3
+chalo-ttgmnyDO,PVT,Ultadanga-Garia,Ultadanga-Garia,Muchi Bazar to Garia More Near Bata,3
+chalo-txgJHphY,PVT,Mukundapur-Amta,Mukundapur-Amta,Mukundapur Crossing to Amta Bus Stand,3
+chalo-uFCkAFpU,PVT,1,1,KC Das More Esplanade to RTCX Bus Stop Or Aurobindo Mall,3
+chalo-uIBTEfNK,PVT,201,201,Nimta Bus Stop to Nabadiganta 215 No Bus Terminus,3
+chalo-uJyUStyS,PVT,211,211,Kharibari Bus Stand to Ahiritola Bus Stop,3
+chalo-uKoHlVZT,PVT,2,2,Salkiya Arabinda Bazar to KC Das More Esplanade,3
+chalo-uMlyYZCK,PVT,239,239,Babughat Bus Stand to Shapoorji Bus Stand,3
+chalo-uOAsNtgG,PVT,K-11,K-11,Domjur to Rabindra Sadan,3
+chalo-uRuQxEMB,PVT,Esplanade-Durgachak,Esplanade-Durgachak,Esplanade Bus Terminus to Durgachak,3
+chalo-uZvgReNg,PVT,78-1,78-1,Parthapur Bazar to Babughat,3
+chalo-uZwXwwaZ,PVT,E-43 (Howrah-Bus),E-43 (Howrah-Bus),Howrah Bus Stand to Dihibhursut Bus Stand,3
+chalo-ueZaWLMb,PVT,223-1,223-1,Golf Green to Dumdum Cantonment,3
+chalo-ufsaAKVh,PVT,212,212,212 No Bus Stand to Howrah Station,3
+chalo-umklvWPs,PVT,KB-15,KB-15,KB 15 Bus Stop to Santragachi Bus Terminus,3
+chalo-uuhfIziR,PVT,205A,205A,Babughat to Reliance Digital Bansdroni,3
+chalo-uvfGqjJx,PVT,15,15,Sapoorji Complex Bus Stop to Ultadanga Bus Terminal,3
+chalo-uxpTgDnZ,PVT,85,85,Athpur Phari to Barrackpore Court Terminus,3
+chalo-uydMPNru,PVT,Kamarpukur-Esplanade Via 12 No,Kamarpukur-Esplanade Via 12 No,Kamarpukur to Esplanade Bus Terminus,3
+chalo-vMThMjyS,PVT,46A,46A,Airport Gate 1 to Esplanade Bus Terminus,3
+chalo-vUJejDDi,PVT,K-1,K-1,Kolkata Railway Station to Hati Sala Bus Stand,3
+chalo-vUxdHpaO,PVT,K-11,K-11,Rabindra Sadan to Domjur,3
+chalo-vVnIMeXq,PVT,202,202,VIP Ambedkar Bridge Or E M Bypass to Nager Bazar,3
+chalo-vfvHXmwb,PVT,39A-2,39A-2,VIP Bazar to Howrah Bus Stand,3
+chalo-vpneXKcm,PVT,DN-16-1,DN-16-1,Dhamakhali Ferry Ghat to Barasat,3
+chalo-vrKYgxGI,PVT,Hasnabad-Rajabazar,Hasnabad-Rajabazar,Hasnabad Bus Stand to Raja Bazar Tram Depot,3
+chalo-vtfkJKjl,PVT,11,11,Satyanaranyan Park AC Market to Belur Math,3
+chalo-wCRNhFSI,PVT,217B,217B,Bablatala 217B Bus Stand to Babughat Bus Stand,3
+chalo-wDFZQzxJ,PVT,10,10,Bally Ghat to Khidirpur Tram Depot,3
+chalo-wDkjfUqo,PVT,12C-1B,12C-1B,Pailan Bus Stop to Howrah Station,3
+chalo-wETdhgcQ,PVT,Andul-Newtown,Andul-Newtown,Andul Station Road to Eco Park,3
+chalo-wHdczBBz,PVT,12C,12C,Howrah Bus Stand to Pailan Bus Stop,3
+chalo-wHhwuVlP,PVT,259,259,Howrah Bus Stand to Akra Bus Depot,3
+chalo-wNNGVRoJ,PVT,46,46,Airport Gate 1 to Esplanade Bus Terminus,3
+chalo-wTKAWVnl,PVT,Barasat To Baruipur,Barasat To Baruipur,Barasat to Baruipur Barasat Bus Stop,3
+chalo-wXMbCNpN,PVT,12B,12B,Kamal Talkies to Esplanade Bus Terminus,3
+chalo-wZYaxLRv,PVT,12C-2,12C-2,Aquatica Bus Depot to Howrah Station,3
+chalo-wZooFlRh,PVT,47-1,47-1,Salt Lake 12 No Tank to ST 6 Stand Or Karunamoyee Tallygunge,3
+chalo-waHrurUZ,PVT,RT-61,RT-61,Howrah Bus Stand to Alampur,3
+chalo-welrqRDl,PVT,219-1,219-1,Howrah Bus Stand to Kazi Para,3
+chalo-wgHlYUQS,PVT,40B,40B,Thakurpukur Police Station to Babughat,3
+chalo-wuSPrZRu,PVT,46B,46B,Akankha to Esplanade Bus Terminus,3
+chalo-xCmDhTkF,PVT,78,78,Barrackpore Court Terminus to Dharmtala Bus Stand Or Esplanade,3
+chalo-xDHRUaCe,PVT,Mourigram-Barrackpore,Mourigram-Barrackpore,Mourigram to Chiria More Bkp,3
+chalo-xRYVZcNq,PVT,218-1,218-1,Santragachi Bus Terminus to Baruipur HP Petrol Pump 218 BUS Stop,3
+chalo-xSfNDblr,PVT,34B,34B,Danlop Bus Stop to Esplanade Bus Terminus,3
+chalo-xeMIFlAu,PVT,12 Shuttle,12 Shuttle,Esplanade Bus Terminus to Rajabagan Bus Stand,3
+chalo-xjDjjotC,PVT,32A,32A,Dakshineswar PWD Road to Technopolis Bus Stand,3
+chalo-xsECcQof,PVT,3B,3B,New Alipur to Milk Colony 3B Bus Stand,3
+chalo-xyPGIkBZ,PVT,DN-43,DN-43,Dakshineswar PWD Road to Barasat Moyna Check Post,3
+chalo-yCprMTlb,PVT,78-1,78-1,Babughat Bus Stand to Raharabazar 78/1 Bus Stop,3
+chalo-yDyyRLvK,PVT,40,40,Birshibpur to Serampore Court,3
+chalo-yGHJjfBf,PVT,SD-4,SD-4,Garfa Bus Stop to Damro Diamond Park,3
+chalo-yQSvJfMp,PVT,41,41,Layelka to Howrah Gulmohar,3
+chalo-yUlSbHcv,PVT,12,12,Rajabagan Bus Stand to Raja Bazar Tram Depot,3
+chalo-yYRcINVu,PVT,1,1,Garden Reach Police Station More to Mukundapur,3
+chalo-yaIpWKFI,PVT,13A,13A,Sampa Mirza Nagar Bus Stand to BBD Bag,3
+chalo-yziJTXYd,PVT,47B,47B,Dhan Math  Bus Stop to Lake Town Or Jaya Cinema Hall,3
+chalo-zScGqJLZ,PVT,SD-16,SD-16,Mukundapur to Sirakol,3
+chalo-zUMpfMsM,PVT,30C-2,30C-2,Mahish Bathan to Hatiara Bus Stand,3
+chalo-zWJptWCW,PVT,8,8,Shibpur Tram Depot to KC Das More Esplanade,3
+chalo-zgcUygfk,PVT,KP2,KP2,Mahamayatala to Mistery Ghat More Or Barackpur Court,3
+chalo-zrCbzBEi,PVT,215A,215A,Nabadiganta 215 No Bus Terminus to Howrah Bus Stand,3
+chalo-zsjVrgXP,PVT,57,57,Dharmtala Bus Stand Or Esplanade to Kona Crossing,3
+chalo-zwwTjKGl,PVT,54,54,Dharmtala Bus Stand Or Esplanade to Ballykhal Bus Stop,3
+chalo-zyEBzxOx,PVT,Dharmatala-Bagnan,Dharmatala-Bagnan,Esplanade Bus Terminus to Bagnan Railway Station,3
+chalo-zzJpOPXd,PVT,210,210,Raichak to Esplanade Bus Terminus,3
+pvt-65,PVT,23,23,Barasat Chapadali to Boalghata,3
+pvt-66,PVT,61,61,Alampur to Howrah Station,3
+pvt-67,PVT,63,63,Domjur to Howrah Station,3
+pvt-68,PVT,67,67,Bagnan to Shibgunge,3
+pvt-69,PVT,67A,67A,Bagnan to Gadiara,3
+pvt-70,PVT,67B,67B,Bagnan to 58 Gate,3
+pvt-71,PVT,68,68,Bagnan to Kamalpur,3
+pvt-72,PVT,69,69,Sankrail to Howrah Station,3
+pvt-73,PVT,72,72,Dumurjola to Park Circus,3
+pvt-74,PVT,80,80,Chunavati to Howrah Station,3
+pvt-75,PVT,81/1,81/1,Barasat Chapadali to Rajchandrapur,3
+pvt-76,PVT,83,83,Falta to Babughat,3
+pvt-77,PVT,87,87,Barasat Chapadali to Jaguli,3
+pvt-78,PVT,87A,87A,Barasat Chapadali to Naihati Station,3
+pvt-79,PVT,88,88,Barasat Chapadali to Kanchrapara,3
+pvt-80,PVT,95,95,Bongaon to Habra Station,3
+pvt-81,PVT,96C,96C,Bongaon to Beri Gopalpur,3
+pvt-161,PVT,Dakghar Howrah Station Mini,Dakghar Howrah Station Mini,Dakghar to Howrah Station,3
+pvt-162,PVT,Falta Sector 1 Bijaygunge Bazar Mini,Falta Sector 1 Bijaygunge Bazar Mini,Falta Sector 1 to Bijaygunge Bazar,3
+pvt-163,PVT,Burul Radhanagar Mini,Burul Radhanagar Mini,Burul to Radhanagar,3
+pvt-188,PVT,MM-5,MM-5,Habra Station to Barrackpore Court,3
+pvt-189,PVT,MN-3,MN-3,Barasat Chapadali to Nahata,3
+pvt-190,PVT,MN-6,MN-6,Barasat Chapadali to Beri Gopalpur,3
+pvt-191,PVT,9A,9A,Haripal Station to Bargachia,3
+pvt-192,PVT,23,23,Tarakeswar to Chinsurah Court,3
+pvt-193,PVT,26A,26A,Aushbali to Serampore,3
+pvt-194,PVT,26C,26C,Jagatballavpur to Bonhooghly,3
+pvt-195,PVT,170,170,Rajbalhat to Howrah Station,3
+pvt-196,PVT,Alampur to Shapoorji,Alampur to Shapoorji,Alampur to Shapoorji,3
+pvt-197,PVT,Amta to Airport 1no.,Amta to Airport 1no.,Amta to Airport Gate 1,3
+pvt-198,PVT,Amta to Esplanade,Amta to Esplanade,Amta to Esplanade,3
+pvt-199,PVT,Amta to Mukundapur,Amta to Mukundapur,Amta to Mukundapur,3
+pvt-200,PVT,Amta to Unitech Gate 1,Amta to Unitech Gate 1,Amta to Unitech Gate 1,3
+pvt-201,PVT,Amta to Shapoorji,Amta to Shapoorji,Amta to Shapoorji,3
+pvt-202,PVT,Andul Station to Eco Space,Andul Station to Eco Space,Andul Station to Ecospace,3
+pvt-203,PVT,Baburhat to Dankuni,Baburhat to Dankuni,Baburhat to Rajabazar,3
+pvt-204,PVT,Bagnan to Esplanade,Bagnan to Esplanade,Bagnan to Esplanade,3
+pvt-205,PVT,Bagnan to Karunamoyee,Bagnan to Karunamoyee,Bagnan to Karunamoyee,3
+pvt-206,PVT,Bagnan to Shyambazar,Bagnan to Shyambazar,Bagnan to Shyambazar,3
+pvt-207,PVT,Ballyhalt to Karunamoyee,Ballyhalt to Karunamoyee,Ballyhalt to Karunamoyee,3
+pvt-208,PVT,Barasat to Kamalpur,Barasat to Kamalpur,Barasat Chapadali to Kamalpur,3
+pvt-209,PVT,Barasat to Santragachi,Barasat to Santragachi,Barasat Chapadali to Santragachi,3
+pvt-210,PVT,Barasat to Santragachi,Barasat to Santragachi,Barasat Chapadali to Santragachi,3
+pvt-211,PVT,Barasat to Garia,Barasat to Garia,Barasat Chapadali to Garia Bus Stand,3
+pvt-212,PVT,Barasat to B Garden,Barasat to B Garden,Barasat Chapadali to B Garden,3
+pvt-213,PVT,Barasat to Uluberia,Barasat to Uluberia,Barasat Chapadali to Uluberia,3
+pvt-214,PVT,Bargachia to Sealdah Station,Bargachia to Sealdah Station,Bargachia to Sealdah,3
+pvt-215,PVT,Barrackpore to Howrah Station,Barrackpore to Howrah Station,Barrackpore Station to Howrah Station,3
+pvt-216,PVT,Barrackpore to Dhulagarh,Barrackpore to Dhulagarh,Barrackpore Station to Dhulagarh,3
+pvt-217,PVT,Barrackpore to Salap More,Barrackpore to Salap More,Barrackpore Chiria to Salap,3
+pvt-218,PVT,Basirhat to Gadiara,Basirhat to Gadiara,Basirhat to Gadiara,3
+pvt-219,PVT,Basirhat to Gadiara,Basirhat to Gadiara,Basirhat to Gadiara,3
+pvt-220,PVT,Belurmath to Garia Station,Belurmath to Garia Station,Belurmath to Garia Station,3
+pvt-221,PVT,Berachampa to Karunamoyee,Berachampa to Karunamoyee,Berachampa to Karunamoyee,3
+pvt-222,PVT,Boalia to Karunamoyee,Boalia to Karunamoyee,Boalia to Karunamoyee,3
+pvt-223,PVT,Boga to Karunamoyee,Boga to Karunamoyee,Boga to Karunamoyee,3
+pvt-224,PVT,Boga to Barasat,Boga to Barasat,Boga to Barasat Chapadali,3
+pvt-225,PVT,Chandrakona Town to Kolkata Station,Chandrakona Town to Kolkata Station,Chandrakona Town to Kolkata Station,3
+pvt-226,PVT,Dhamakhali to Esplanade,Dhamakhali to Esplanade,Dhamakhali to Esplanade,3
+pvt-227,PVT,Dhulagarh to Unitech Gate 1,Dhulagarh to Unitech Gate 1,Dhulagarh to Unitech Gate 1,3
+pvt-228,PVT,Dhulagarh to Sealdah Station,Dhulagarh to Sealdah Station,Dhulagarh to Sealdah,3
+pvt-229,PVT,Dhulagarh to Chingrighata,Dhulagarh to Chingrighata,Dhulagarh to Chingrighata,3
+pvt-230,PVT,Dhulagarh to Rashbehari,Dhulagarh to Rashbehari,Dhulagarh to Rashbehari,3
+pvt-231,PVT,Dhulagarh to Amity University,Dhulagarh to Amity University,Dhulagarh to Amity University,3
+pvt-232,PVT,Garh Bhowanipore to Ruby,Garh Bhowanipore to Ruby,Garh Bhowanipore to Ruby,3
+pvt-233,PVT,Gadiara to Newtown,Gadiara to Newtown,Gadiara to Unitech Gate 1,3
+pvt-234,PVT,Ghatakpukur to Rajchandrapur,Ghatakpukur to Rajchandrapur,Ghatakpukur to Rajchandrapur,3
+pvt-235,PVT,Hasnabad to Rajabazar,Hasnabad to Rajabazar,Hasnabad to Rajabazar,3
+pvt-236,PVT,Haldia to Karunamoyee,Haldia to Karunamoyee,Haldia to Karunamoyee,3
+pvt-237,PVT,Howrah Station to Pancharul,Howrah Station to Pancharul,Pancharul to Howrah Station,3
+pvt-238,PVT,Howrah Station to Dihibhursut,Howrah Station to Dihibhursut,Dihibhursut to Howrah Station,3
+pvt-239,PVT,Jibantala to Rajabazar,Jibantala to Rajabazar,Jibantala to Rajabazar,3
+pvt-240,PVT,Udaynarayanpur to Karunamoyee,Udaynarayanpur to Karunamoyee,Udaynarayanpur to Karunamoyee,3
+pvt-241,PVT,Ultadanga to Garia,Ultadanga to Garia,Ultadanga to Garia Bus Stand,3
+pvt-242,PVT,Ultadanga to Shapoorji,Ultadanga to Shapoorji,Ultadanga to Shapoorji,3
+pvt-243,PVT,Bagbazar to Garia Station,Bagbazar to Garia Station,Bagbazar to Garia Station,3
+pvt-244,PVT,Paikpara to Garia Station,Paikpara to Garia Station,Paikpara to Garia Station,3
+pvt-245,PVT,Dankuni Housing to Kamalgazi,Dankuni Housing to Kamalgazi,Dankuni Housing to Kamalgazi,3
+pvt-246,PVT,Dankuni Housing to Haroa Bridge,Dankuni Housing to Haroa Bridge,Dankuni Housing to Haroa Bridge,3
+pvt-247,PVT,Dankuni Housing to Nagerbazar,Dankuni Housing to Nagerbazar,Dankuni Housing to Nager Bazar,3
+pvt-248,PVT,Rajchandrapur to Saltlake 206,Rajchandrapur to Saltlake 206,Rajchandrapur to Saltlake 206,3
+pvt-249,PVT,Kadamtala to Unitech Gate 1,Kadamtala to Unitech Gate 1,Kadamtala to Unitech Gate 1,3
+pvt-250,PVT,Madhyamgram to Howrah Station,Madhyamgram to Howrah Station,Madhyamgram to Howrah Station,3
+pvt-251,PVT,Madhyamgram to Taratala,Madhyamgram to Taratala,Madhyamgram to Taratala,3
+pvt-252,PVT,Matapara to Newtown,Matapara to Newtown,Matapara to Unitech Gate 2,3
+pvt-253,PVT,Salap More to Nagerbazar,Salap More to Nagerbazar,Salap to Nager Bazar,3
+pvt-254,PVT,Shalimar Station to Newtown,Shalimar Station to Newtown,Shalimar Station to Shapoorji,3
+pvt-255,PVT,Shyampur to Newtown,Shyampur to Newtown,Newtown to Shyampur,3
+pvt-256,PVT,Shyampur to Newtown,Shyampur to Newtown,Newtown to Shyampur,3
+pvt-257,PVT,Kashipur to Ballyhalt,Kashipur to Ballyhalt,Kashipur to Ballyhalt,3
+pvt-258,PVT,Kolkata Station to Malancha,Kolkata Station to Malancha,Kolkata Station to Malancha,3
+pvt-259,PVT,Kolkata to Kalyani,Kolkata to Kalyani,Esplanade to Gayeshpur,3
+pvt-260,PVT,Kolkata to Bakkhali,Kolkata to Bakkhali,Esplanade to Bakkhali,3
+pvt-261,PVT,Kolkata to Gangadharpur,Kolkata to Gangadharpur,Esplanade to Gangadharpur,3
+pvt-262,PVT,Muchighata to Karunamoyee,Muchighata to Karunamoyee,Muchighata to Karunamoyee,3
+pvt-263,PVT,Polerhat to Shyambazar,Polerhat to Shyambazar,Polerhat to Shyambazar,3
+pvt-264,PVT,Rajarhat to Nabanna,Rajarhat to Nabanna,Rajarhat to Nabanna,3
+pvt-265,PVT,Ranihati to Karunamoyee,Ranihati to Karunamoyee,Ranihati to Karunamoyee,3
+pvt-266,PVT,DS-1,DS-1,Barasat Chapadali to Nabanna,3
+pvt-271,PVT,Behala 14 No Newtown Mini,Behala 14 No Newtown Mini,Behala 14 No to Newtown,3
+pvt-272,PVT,Shibrampur Howrah Station Mini,Shibrampur Howrah Station Mini,Shibrampur to Howrah Station,3
+pvt-273,PVT,Howrah Station Sashtir Mini,Howrah Station Sashtir Mini,Howrah Station to Sashtir,3
+pvt-274,PVT,Rajabazar Khudiram Park Mini,Rajabazar Khudiram Park Mini,Rajabazar to Khudiram Park,3
+pvt-275,PVT,Shibtala Math Howrah Station Mini,Shibtala Math Howrah Station Mini,Shibtala Math to Howrah Station,3
+pvt-276,PVT,Dumdum Cantonment Esplanade Mini,Dumdum Cantonment Esplanade Mini,Dumdum Cantonment to Esplanade,3
+pvt-277,PVT,EB-13,EB-13,Hatishala to Howrah Station,3
+pvt-278,PVT,EB-16,EB-16,Thakurpukur to Hatishala,3
+pvt-280,PVT,DS-34,DS-34,Barasat Chapadali to Barrackpore Court,3
+pvt-340,PVT,T-1A,T-1A,Dhulagarh to Sinthi,3
+pvt-355,PVT,23,23,Boalghata to Barasat Chapadali,3
+pvt-356,PVT,61,61,Howrah Station to Alampur,3
+pvt-357,PVT,63,63,Howrah Station to Domjur,3
+pvt-358,PVT,67,67,Shibgunge to Bagnan,3
+pvt-359,PVT,67A,67A,Gadiara to Bagnan,3
+pvt-360,PVT,67B,67B,58 Gate to Bagnan,3
+pvt-361,PVT,68,68,Kamalpur to Bagnan,3
+pvt-362,PVT,69,69,Howrah Station to Sankrail,3
+pvt-363,PVT,72,72,Park Circus to Dumurjola,3
+pvt-364,PVT,80,80,Howrah Station to Chunavati,3
+pvt-365,PVT,81/1,81/1,Rajchandrapur to Barasat Chapadali,3
+pvt-366,PVT,83,83,Babughat to Falta,3
+pvt-367,PVT,87,87,Jaguli to Barasat Chapadali,3
+pvt-368,PVT,87A,87A,Naihati Station to Barasat Chapadali,3
+pvt-369,PVT,88,88,Kanchrapara to Barasat Chapadali,3
+pvt-370,PVT,95,95,Habra Station to Bongaon,3
+pvt-371,PVT,96C,96C,Beri Gopalpur to Bongaon,3
+pvt-451,PVT,Howrah Station Dakghar Mini,Howrah Station Dakghar Mini,Howrah Station to Dakghar,3
+pvt-452,PVT,Bijaygunge Bazar Falta Sector 1 Mini,Bijaygunge Bazar Falta Sector 1 Mini,Bijaygunge Bazar to Falta Sector 1,3
+pvt-453,PVT,Radhanagar Burul Mini,Radhanagar Burul Mini,Radhanagar to Burul,3
+pvt-478,PVT,MM-5,MM-5,Barrackpore Court to Habra Station,3
+pvt-479,PVT,MN-3,MN-3,Nahata to Barasat Chapadali,3
+pvt-480,PVT,MN-6,MN-6,Beri Gopalpur to Barasat Chapadali,3
+pvt-481,PVT,9A,9A,Bargachia to Haripal Station,3
+pvt-482,PVT,23,23,Chinsurah Court to Tarakeswar,3
+pvt-483,PVT,26A,26A,Serampore to Aushbali,3
+pvt-484,PVT,26C,26C,Bonhooghly to Jagatballavpur,3
+pvt-485,PVT,170,170,Howrah Station to Rajbalhat,3
+pvt-486,PVT,Alampur to Shapoorji,Alampur to Shapoorji,Shapoorji to Alampur,3
+pvt-487,PVT,Amta to Airport 1no.,Amta to Airport 1no.,Airport Gate 1 to Amta,3
+pvt-488,PVT,Amta to Esplanade,Amta to Esplanade,Esplanade to Amta,3
+pvt-489,PVT,Amta to Mukundapur,Amta to Mukundapur,Mukundapur to Amta,3
+pvt-490,PVT,Amta to Unitech Gate 1,Amta to Unitech Gate 1,Unitech Gate 1 to Amta,3
+pvt-491,PVT,Amta to Shapoorji,Amta to Shapoorji,Shapoorji to Amta,3
+pvt-492,PVT,Andul Station to Eco Space,Andul Station to Eco Space,Ecospace to Andul Station,3
+pvt-493,PVT,Baburhat to Dankuni,Baburhat to Dankuni,Rajabazar to Baburhat,3
+pvt-494,PVT,Bagnan to Esplanade,Bagnan to Esplanade,Esplanade to Bagnan,3
+pvt-495,PVT,Bagnan to Karunamoyee,Bagnan to Karunamoyee,Karunamoyee to Bagnan,3
+pvt-496,PVT,Bagnan to Shyambazar,Bagnan to Shyambazar,Shyambazar to Bagnan,3
+pvt-497,PVT,Ballyhalt to Karunamoyee,Ballyhalt to Karunamoyee,Karunamoyee to Ballyhalt,3
+pvt-498,PVT,Barasat to Kamalpur,Barasat to Kamalpur,Kamalpur to Barasat Chapadali,3
+pvt-499,PVT,Barasat to Santragachi,Barasat to Santragachi,Santragachi to Barasat Chapadali,3
+pvt-500,PVT,Barasat to Santragachi,Barasat to Santragachi,Santragachi to Barasat Chapadali,3
+pvt-501,PVT,Barasat to Garia,Barasat to Garia,Garia Bus Stand to Barasat Chapadali,3
+pvt-502,PVT,Barasat to B Garden,Barasat to B Garden,B Garden to Barasat Chapadali,3
+pvt-503,PVT,Barasat to Uluberia,Barasat to Uluberia,Uluberia to Barasat Chapadali,3
+pvt-504,PVT,Bargachia to Sealdah Station,Bargachia to Sealdah Station,Sealdah to Bargachia,3
+pvt-505,PVT,Barrackpore to Howrah Station,Barrackpore to Howrah Station,Howrah Station to Barrackpore Station,3
+pvt-506,PVT,Barrackpore to Dhulagarh,Barrackpore to Dhulagarh,Dhulagarh to Barrackpore Station,3
+pvt-507,PVT,Barrackpore to Salap More,Barrackpore to Salap More,Salap to Barrackpore Chiria,3
+pvt-508,PVT,Basirhat to Gadiara,Basirhat to Gadiara,Gadiara to Basirhat,3
+pvt-509,PVT,Basirhat to Gadiara,Basirhat to Gadiara,Gadiara to Basirhat,3
+pvt-510,PVT,Belurmath to Garia Station,Belurmath to Garia Station,Garia Station to Belurmath,3
+pvt-511,PVT,Berachampa to Karunamoyee,Berachampa to Karunamoyee,Karunamoyee to Berachampa,3
+pvt-512,PVT,Boalia to Karunamoyee,Boalia to Karunamoyee,Karunamoyee to Boalia,3
+pvt-513,PVT,Boga to Karunamoyee,Boga to Karunamoyee,Karunamoyee to Boga,3
+pvt-514,PVT,Boga to Barasat,Boga to Barasat,Barasat Chapadali to Boga,3
+pvt-515,PVT,Chandrakona Town to Kolkata Station,Chandrakona Town to Kolkata Station,Kolkata Station to Chandrakona Town,3
+pvt-516,PVT,Dhamakhali to Esplanade,Dhamakhali to Esplanade,Esplanade to Dhamakhali,3
+pvt-517,PVT,Dhulagarh to Unitech Gate 1,Dhulagarh to Unitech Gate 1,Unitech Gate 1 to Dhulagarh,3
+pvt-518,PVT,Dhulagarh to Sealdah Station,Dhulagarh to Sealdah Station,Sealdah to Dhulagarh,3
+pvt-519,PVT,Dhulagarh to Chingrighata,Dhulagarh to Chingrighata,Chingrighata to Dhulagarh,3
+pvt-520,PVT,Dhulagarh to Rashbehari,Dhulagarh to Rashbehari,Rashbehari to Dhulagarh,3
+pvt-521,PVT,Dhulagarh to Amity University,Dhulagarh to Amity University,Amity University to Dhulagarh,3
+pvt-522,PVT,Garh Bhowanipore to Ruby,Garh Bhowanipore to Ruby,Ruby to Garh Bhowanipore,3
+pvt-523,PVT,Gadiara to Newtown,Gadiara to Newtown,Unitech Gate 1 to Gadiara,3
+pvt-524,PVT,Ghatakpukur to Rajchandrapur,Ghatakpukur to Rajchandrapur,Rajchandrapur to Ghatakpukur,3
+pvt-525,PVT,Hasnabad to Rajabazar,Hasnabad to Rajabazar,Rajabazar to Hasnabad,3
+pvt-526,PVT,Haldia to Karunamoyee,Haldia to Karunamoyee,Karunamoyee to Haldia,3
+pvt-527,PVT,Howrah Station to Pancharul,Howrah Station to Pancharul,Howrah Station to Pancharul,3
+pvt-528,PVT,Howrah Station to Dihibhursut,Howrah Station to Dihibhursut,Howrah Station to Dihibhursut,3
+pvt-529,PVT,Jibantala to Rajabazar,Jibantala to Rajabazar,Rajabazar to Jibantala,3
+pvt-530,PVT,Udaynarayanpur to Karunamoyee,Udaynarayanpur to Karunamoyee,Karunamoyee to Udaynarayanpur,3
+pvt-531,PVT,Ultadanga to Garia,Ultadanga to Garia,Garia Bus Stand to Ultadanga,3
+pvt-532,PVT,Ultadanga to Shapoorji,Ultadanga to Shapoorji,Shapoorji to Ultadanga,3
+pvt-533,PVT,Bagbazar to Garia Station,Bagbazar to Garia Station,Garia Station to Bagbazar,3
+pvt-534,PVT,Paikpara to Garia Station,Paikpara to Garia Station,Garia Station to Paikpara,3
+pvt-535,PVT,Dankuni Housing to Kamalgazi,Dankuni Housing to Kamalgazi,Kamalgazi to Dankuni Housing,3
+pvt-536,PVT,Dankuni Housing to Haroa Bridge,Dankuni Housing to Haroa Bridge,Haroa Bridge to Dankuni Housing,3
+pvt-537,PVT,Dankuni Housing to Nagerbazar,Dankuni Housing to Nagerbazar,Nager Bazar to Dankuni Housing,3
+pvt-538,PVT,Rajchandrapur to Saltlake 206,Rajchandrapur to Saltlake 206,Saltlake 206 to Rajchandrapur,3
+pvt-539,PVT,Kadamtala to Unitech Gate 1,Kadamtala to Unitech Gate 1,Unitech Gate 1 to Kadamtala,3
+pvt-540,PVT,Madhyamgram to Howrah Station,Madhyamgram to Howrah Station,Howrah Station to Madhyamgram,3
+pvt-541,PVT,Madhyamgram to Taratala,Madhyamgram to Taratala,Taratala to Madhyamgram,3
+pvt-542,PVT,Matapara to Newtown,Matapara to Newtown,Unitech Gate 2 to Matapara,3
+pvt-543,PVT,Salap More to Nagerbazar,Salap More to Nagerbazar,Nager Bazar to Salap,3
+pvt-544,PVT,Shalimar Station to Newtown,Shalimar Station to Newtown,Shapoorji to Shalimar Station,3
+pvt-545,PVT,Shyampur to Newtown,Shyampur to Newtown,Shyampur to Newtown,3
+pvt-546,PVT,Shyampur to Newtown,Shyampur to Newtown,Shyampur to Newtown,3
+pvt-547,PVT,Kashipur to Ballyhalt,Kashipur to Ballyhalt,Ballyhalt to Kashipur,3
+pvt-548,PVT,Kolkata Station to Malancha,Kolkata Station to Malancha,Malancha to Kolkata Station,3
+pvt-549,PVT,Kolkata to Kalyani,Kolkata to Kalyani,Gayeshpur to Esplanade,3
+pvt-550,PVT,Kolkata to Gangadharpur,Kolkata to Gangadharpur,Gangadharpur to Esplanade,3
+pvt-551,PVT,Kolkata to Bakkhali,Kolkata to Bakkhali,Bakkhali to Esplanade,3
+pvt-552,PVT,Muchighata to Karunamoyee,Muchighata to Karunamoyee,Karunamoyee to Muchighata,3
+pvt-553,PVT,Polerhat to Shyambazar,Polerhat to Shyambazar,Shyambazar to Polerhat,3
+pvt-554,PVT,Rajarhat to Nabanna,Rajarhat to Nabanna,Nabanna to Rajarhat,3
+pvt-555,PVT,Ranihati to Karunamoyee,Ranihati to Karunamoyee,Karunamoyee to Ranihati,3
+pvt-556,PVT,DS-1,DS-1,Nabanna to Barasat Chapadali,3
+pvt-561,PVT,Newtown Behala 14 No Mini,Newtown Behala 14 No Mini,Newtown to Behala 14 No,3
+pvt-562,PVT,Howrah Station Shibrampur Mini,Howrah Station Shibrampur Mini,Howrah Station to Shibrampur,3
+pvt-563,PVT,Sashtir Howrah Station Mini,Sashtir Howrah Station Mini,Sashtir to Howrah Station,3
+pvt-564,PVT,Khudiram Park Rajabazar Mini,Khudiram Park Rajabazar Mini,Khudiram Park to Rajabazar,3
+pvt-565,PVT,Howrah Station Shibtala Math Mini,Howrah Station Shibtala Math Mini,Howrah Station to Shibtala Math,3
+pvt-566,PVT,Esplanade Dumdum Cantonment Mini,Esplanade Dumdum Cantonment Mini,Esplanade to Dumdum Cantonment,3
+pvt-567,PVT,EB-13,EB-13,Howrah Station to Hatishala,3
+pvt-568,PVT,EB-16,EB-16,Hatishala to Thakurpukur,3
+pvt-570,PVT,DS-34,DS-34,Barrackpore Court to Barasat Chapadali,3
+pvt-630,PVT,T-1A,T-1A,Sinthi to Dhulagarh,3
+pvt-707,PVT,Kolkata to Dhamakhali,Kolkata to Dhamakhali,Esplanade to Dhamakhali,3
+pvt-827,PVT,Kolkata to Dhamakhali,Kolkata to Dhamakhali,Dhamakhali to Esplanade,3
+pvt-942,PVT,Taraknath Nabadwip to Asansol 0035,Taraknath Nabadwip to Asansol 0035,Nabadwip to Asansol,3
+pvt-943,PVT,Taraknath Nabadwip to Asansol 0035,Taraknath Nabadwip to Asansol 0035,Asansol to Nabadwip,3
+pvt-944,PVT,Sweety Nabadwip to Asansol 1460,Sweety Nabadwip to Asansol 1460,Nabadwip to Asansol,3
+pvt-945,PVT,Sweety Nabadwip to Asansol 1460,Sweety Nabadwip to Asansol 1460,Asansol to Nabadwip,3
+pvt-946,PVT,Sweety Nabadwip to Asansol 9888,Sweety Nabadwip to Asansol 9888,Nabadwip to Asansol,3
+pvt-947,PVT,Sweety Nabadwip to Asansol 9888,Sweety Nabadwip to Asansol 9888,Asansol to Nabadwip,3
+pvt-948,PVT,Sweety Nabadwip to Bankura 4545,Sweety Nabadwip to Bankura 4545,Nabadwip to Bankura,3
+pvt-949,PVT,Sweety Nabadwip to Bankura 4545,Sweety Nabadwip to Bankura 4545,Bankura to Nabadwip,3
+pvt-950,PVT,Sweety Nabadwip to Bankura 9311,Sweety Nabadwip to Bankura 9311,Nabadwip to Bankura,3
+pvt-951,PVT,Sweety Nabadwip to Bankura 9311,Sweety Nabadwip to Bankura 9311,Bankura to Nabadwip,3
+pvt-952,PVT,Sweety Bankura To Nabadwip 8207,Sweety Bankura To Nabadwip 8207,Bankura to Nabadwip,3
+pvt-953,PVT,Sweety Bankura To Nabadwip 8207,Sweety Bankura To Nabadwip 8207,Nabadwip to Bankura,3
+pvt-954,PVT,Dulhan Nabadwip to Bankura 1492,Dulhan Nabadwip to Bankura 1492,Bankura to Nabadwip,3
+pvt-955,PVT,Dulhan Nabadwip to Bankura 1492,Dulhan Nabadwip to Bankura 1492,Nabadwip to Bankura,3
+pvt-956,PVT,Raju Nabadwip to Tarapith 1165,Raju Nabadwip to Tarapith 1165,Nabadwip to Tarapith,3
+pvt-957,PVT,Raju Nabadwip to Tarapith 1165,Raju Nabadwip to Tarapith 1165,Tarapith to Nabadwip,3
+pvt-958,PVT,Raju Nabadwip to Sainthia 1165,Raju Nabadwip to Sainthia 1165,Nabadwip to Sainthia,3
+pvt-959,PVT,Raju Nabadwip to Sainthia 1165,Raju Nabadwip to Sainthia 1165,Sainthia to Nabadwip,3
+pvt-960,PVT,Gopinath Krishnanagar to Asansol 3307,Gopinath Krishnanagar to Asansol 3307,Krishnanagar High Road to Asansol,3
+pvt-961,PVT,Gopinath Krishnanagar to Asansol 3307,Gopinath Krishnanagar to Asansol 3307,Asansol to Krishnanagar,3
+pvt-962,PVT,Chiranjit Asansol To Krishnanagar 3535,Chiranjit Asansol To Krishnanagar 3535,Asansol to Krishnanagar,3
+pvt-963,PVT,Chiranjit Asansol To Krishnanagar 3535,Chiranjit Asansol To Krishnanagar 3535,Krishnanagar to Asansol,3
+pvt-964,PVT,Akash Bangla Asansol To Krishnanagar 5447,Akash Bangla Asansol To Krishnanagar 5447,Asansol to Krishnanagar,3
+pvt-965,PVT,Akash Bangla Asansol To Krishnanagar 5447,Akash Bangla Asansol To Krishnanagar 5447,Krishnanagar to Asansol,3
+pvt-966,PVT,Umesh Asansol To Krishnanagar 8497,Umesh Asansol To Krishnanagar 8497,Asansol to Krishnanagar,3
+pvt-967,PVT,Umesh Asansol To Krishnanagar 8497,Umesh Asansol To Krishnanagar 8497,Krishnanagar to Asansol,3
+pvt-968,PVT,National Barakar To Magra 3223,National Barakar To Magra 3223,Kulti to Magra,3
+pvt-969,PVT,National Barakar To Magra 3223,National Barakar To Magra 3223,Magra to Asansol,3
+pvt-970,PVT,Asha Barakar to Krishnanagar  3294,Asha Barakar to Krishnanagar  3294,Barakar to Krishnanagar,3
+pvt-971,PVT,Asha Barakar to Krishnanagar  3294,Asha Barakar to Krishnanagar  3294,Krishnanagar to Barakar,3
+pvt-972,PVT,Abhishek Benachity To Krishnanagar 3458,Abhishek Benachity To Krishnanagar 3458,Benachity to Krishnanagar,3
+pvt-973,PVT,Abhishek Benachity To Krishnanagar 3458,Abhishek Benachity To Krishnanagar 3458,Krishnanagar to Benachity,3
+pvt-974,PVT,Abhishek Benachity To Krishnanagar 1825,Abhishek Benachity To Krishnanagar 1825,Benachity to Krishnanagar,3
+pvt-975,PVT,Abhishek Benachity To Krishnanagar 1825,Abhishek Benachity To Krishnanagar 1825,Krishnanagar to Benachity,3
+pvt-976,PVT,Sweety Krishnanagar To Benachity  8865,Sweety Krishnanagar To Benachity  8865,Krishnanagar to Benachity,3
+pvt-977,PVT,Sweety Krishnanagar To Benachity  8865,Sweety Krishnanagar To Benachity  8865,Benachity to Krishnanagar,3
+pvt-978,PVT,Abhishek Asansol to Katwa 5249,Abhishek Asansol to Katwa 5249,Asansol to Katwa,3
+pvt-979,PVT,Abhishek Asansol to Katwa 5249,Abhishek Asansol to Katwa 5249,Katwa to Asansol,3
+pvt-980,PVT,Biswakabi Krishnanagar to Suri 0617,Biswakabi Krishnanagar to Suri 0617,Krishnanagar to Suri,3
+pvt-981,PVT,Biswakabi Krishnanagar to Suri 0617,Biswakabi Krishnanagar to Suri 0617,Suri to Krishnanagar,3
+pvt-982,PVT,Abha Morebandh To Nabadwip 7892,Abha Morebandh To Nabadwip 7892,Uttar Ramnagar to Nabadwip Railgate,3
+pvt-983,PVT,Abha Morebandh To Nabadwip 7892,Abha Morebandh To Nabadwip 7892,Nabadwip Railgate to Uttar Ramnagar,3
+pvt-984,PVT,Biswas Illambazar To Nabadwip 2201,Biswas Illambazar To Nabadwip 2201,Illambazar to Nabadwip,3
+pvt-985,PVT,Biswas Illambazar To Nabadwip 2201,Biswas Illambazar To Nabadwip 2201,Nabadwip to Illambazar,3
+pvt-986,PVT,Mainak Krishnanagar to Bolpur 9592,Mainak Krishnanagar to Bolpur 9592,Bolpur to Krishnanagar,3
+pvt-987,PVT,Jugal Smriti Bolpur to Krishnanagar 1988,Jugal Smriti Bolpur to Krishnanagar 1988,Bolpur to Krishnanagar,3
+pvt-988,PVT,Jugal Smriti Bolpur to Krishnanagar 1988,Jugal Smriti Bolpur to Krishnanagar 1988,Krishnanagar to Bolpur,3
+pvt-989,PVT,Duranta Bolpur to Hematpur More 1783,Duranta Bolpur to Hematpur More 1783,Bolpur to Hematpur,3
+pvt-990,PVT,Duranta Bolpur to Hematpur More 1783,Duranta Bolpur to Hematpur More 1783,Hematpur to Bolpur,3
+pvt-991,PVT,Nasrin Nargis Bolpur to Hematpur More 2193,Nasrin Nargis Bolpur to Hematpur More 2193,Bolpur to Hematpur,3
+pvt-992,PVT,Nasrin Nargis Bolpur to Hematpur More 2193,Nasrin Nargis Bolpur to Hematpur More 2193,Hematpur to Bolpur,3
+pvt-993,PVT,Banamala Sainthia to Krishnanagar 9035,Banamala Sainthia to Krishnanagar 9035,Sainthia to Nabadwip,3
+pvt-994,PVT,Banamala Sainthia to Krishnanagar 9035,Banamala Sainthia to Krishnanagar 9035,Krishnanagar to Sainthia,3
+pvt-995,PVT,Sundar Karimpur to Bongaon 3053,Sundar Karimpur to Bongaon 3053,Karimpur to Bongaon 1 No Railgate Petrol Pump,3
+pvt-996,PVT,Sundar Karimpur to Bongaon 3053,Sundar Karimpur to Bongaon 3053,Bongaon 1 No Railgate Petrol Pump to Karimpur,3
+pvt-997,PVT,Palki Karimpur to Bongaon 4977,Palki Karimpur to Bongaon 4977,Karimpur to Bongaon 1 No Railgate Petrol Pump,3
+pvt-998,PVT,Palki Karimpur to Bongaon 4977,Palki Karimpur to Bongaon 4977,Bongaon 1 No Railgate Petrol Pump to Karimpur,3
+pvt-999,PVT,Ranar Karimpur to Bongaon 7861,Ranar Karimpur to Bongaon 7861,Joyrampur to Ranaghat,3
+pvt-1000,PVT,Ranar Karimpur to Bongaon 7861,Ranar Karimpur to Bongaon 7861,Ranaghat to Joyrampur,3
+pvt-1001,PVT,Pratidin Ranaghat To Karimpur 9151,Pratidin Ranaghat To Karimpur 9151,Ranaghat to Karimpur,3
+pvt-1002,PVT,Pratidin Ranaghat To Karimpur 9151,Pratidin Ranaghat To Karimpur 9151,Karimpur to Ranaghat,3
+pvt-1003,PVT,Ghosh Shikarpur To Barddhaman 1324,Ghosh Shikarpur To Barddhaman 1324,Shikarpur to Barddhaman Nawabhat Bus Stand,3
+pvt-1004,PVT,Ghosh Shikarpur To Barddhaman 1324,Ghosh Shikarpur To Barddhaman 1324,Barddhaman Nawabhat Bus Stand to Shikarpur,3
+pvt-1005,PVT,Amit Barddhaman To Shikarpur 3223,Amit Barddhaman To Shikarpur 3223,Barddhaman Nawabhat Bus Stand to Shikarpur,3
+pvt-1006,PVT,Amit Barddhaman To Shikarpur 3223,Amit Barddhaman To Shikarpur 3223,Shikarpur to Barddhaman Nawabhat Bus Stand,3
+pvt-1007,PVT,Rumirik Karimpur To Barddhaman 9781,Rumirik Karimpur To Barddhaman 9781,Karimpur to Barddhaman Nawabhat Bus Stand,3
+pvt-1008,PVT,Rumirik Karimpur To Barddhaman 9781,Rumirik Karimpur To Barddhaman 9781,Barddhaman Nawabhat Bus Stand to Karimpur,3
+pvt-1009,PVT,Rimkim Barddhaman To Karimpur 5726,Rimkim Barddhaman To Karimpur 5726,Barddhaman Nawabhat Bus Stand to Karimpur,3
+pvt-1010,PVT,Rimkim Barddhaman To Karimpur 5726,Rimkim Barddhaman To Karimpur 5726,Karimpur to Barddhaman Nawabhat Bus Stand,3
+pvt-1011,PVT,Maharshi Sagarpara To Barddhaman 5220,Maharshi Sagarpara To Barddhaman 5220,Sagarpara to Barddhaman Nawabhat Bus Stand,3
+pvt-1012,PVT,Maharshi Sagarpara To Barddhaman 5220,Maharshi Sagarpara To Barddhaman 5220,Barddhaman Nawabhat Bus Stand to Sagarpara,3
+pvt-1013,PVT,Maa Sarada Barddhaman To Hoomgarh 3747,Maa Sarada Barddhaman To Hoomgarh 3747,Barddhaman Alisha Bus Stand to Hoomgarh,3
+pvt-1014,PVT,Maa Sarada Barddhaman To Hoomgarh 3747,Maa Sarada Barddhaman To Hoomgarh 3747,Hoomgarh to Barddhaman Alisha Bus Stand,3
+pvt-1015,PVT,Maa Manasa Barddhaman To Purulia 3201,Maa Manasa Barddhaman To Purulia 3201,Barddhaman Tinkonia to Purulia,3
+pvt-1016,PVT,Maa Manasa Barddhaman To Purulia 3201,Maa Manasa Barddhaman To Purulia 3201,Purulia to Barddhaman Nawabhat,3
+pvt-1017,PVT,Sitanath Purulia To Barddhaman 3154,Sitanath Purulia To Barddhaman 3154,Purulia to Barddhaman Alisha Bus Stand,3
+pvt-1018,PVT,Sitanath Purulia To Barddhaman 3154,Sitanath Purulia To Barddhaman 3154,Barddhaman Alisha Bus Stand to Purulia,3
+pvt-1019,PVT,Pather Dabi Barddhaman To Kharagpur 1170,Pather Dabi Barddhaman To Kharagpur 1170,Barddhaman Tinkonia to Kharagpur,3
+pvt-1020,PVT,Pather Dabi Barddhaman To Kharagpur 1170,Pather Dabi Barddhaman To Kharagpur 1170,Kharagpur to Barddhaman Alisha Bus Stand,3
+pvt-1021,PVT,Kuhelika Barddhaman To Kharagpur 5115,Kuhelika Barddhaman To Kharagpur 5115,Kharagpur to Barddhaman Alisha Bus Stand,3
+pvt-1022,PVT,Sahin Barddhaman To Kharagpur 3768,Sahin Barddhaman To Kharagpur 3768,Kharagpur to Barddhaman,3
+pvt-1023,PVT,Maa Bhawani Kharagpur To Barddhaman 5389,Maa Bhawani Kharagpur To Barddhaman 5389,Kharagpur to Barddhaman Alisha Bus Stand,3
+pvt-1024,PVT,Maa Bhawani Kharagpur To Barddhaman 5389,Maa Bhawani Kharagpur To Barddhaman 5389,Barddhaman Alisha Bus Stand to Kharagpur,3
+pvt-1025,PVT,Nosib Kharagpur To Barddhaman 3135,Nosib Kharagpur To Barddhaman 3135,Kharagpur to Barddhaman Alisha Bus Stand,3
+pvt-1026,PVT,Nosib Kharagpur To Barddhaman 1317,Nosib Kharagpur To Barddhaman 1317,Kharagpur to Barddhaman Alisha Bus Stand,3
+pvt-1027,PVT,Nosib Kharagpur To Barddhaman 1317,Nosib Kharagpur To Barddhaman 1317,Barddhaman Alisha Bus Stand to Kharagpur,3
+pvt-1028,PVT,Tanveer Line Kharagpur To Barddhaman 2039,Tanveer Line Kharagpur To Barddhaman 2039,Kharagpur to Barddhaman Alisha Bus Stand,3
+pvt-1029,PVT,Tanveer Line Kharagpur To Barddhaman 2039,Tanveer Line Kharagpur To Barddhaman 2039,Barddhaman Alisha Bus Stand to Kharagpur,3
+pvt-1030,PVT,Tithy Belpahari To Barddhaman 8707,Tithy Belpahari To Barddhaman 8707,Belpahari to Barddhaman Alisha Bus Stand,3
+pvt-1031,PVT,Tithy Belpahari To Barddhaman 8707,Tithy Belpahari To Barddhaman 8707,Barddhaman Alisha Bus Stand to Belpahari,3
+pvt-1032,PVT,Tithy Jhargram To Barddhaman 7337,Tithy Jhargram To Barddhaman 7337,Jhargram to Barddhaman Alisha Bus Stand,3
+pvt-1033,PVT,Tithy Jhargram To Barddhaman 7337,Tithy Jhargram To Barddhaman 7337,Barddhaman Alisha Bus Stand to Jhargram,3
+pvt-1034,PVT,Tithy Barddhaman To Garhbeta 67D 7337,Tithy Barddhaman To Garhbeta 67D 7337,Barddhaman Alisha Bus Stand to Garhbeta,3
+pvt-1035,PVT,Tithy Barddhaman To Garhbeta 67D 7337,Tithy Barddhaman To Garhbeta 67D 7337,Garhbeta to Barddhaman Alisha Bus Stand,3
+pvt-1036,PVT,Pratiksha Barddhaman To Tatanagar 7004 and 3204,Pratiksha Barddhaman To Tatanagar 7004 and 3204,Barddhaman Alisha Bus Stand to Tatanagar,3
+pvt-1037,PVT,Pratiksha Barddhaman To Tatanagar 7004 and 3204,Pratiksha Barddhaman To Tatanagar 7004 and 3204,Tatanagar to Barddhaman Alisha Bus Stand,3
+pvt-1038,PVT,Kangsabati Barddhaman to Ranchi 4949 and 4296,Kangsabati Barddhaman to Ranchi 4949 and 4296,Barddhaman Nawabhat Bus Stand to Ranchi,3
+pvt-1039,PVT,Kangsabati Barddhaman to Ranchi 4949 and 4296,Kangsabati Barddhaman to Ranchi 4949 and 4296,Ranchi to Barddhaman Nawabhat Bus Stand,3
+pvt-1040,PVT,Devi Laxmi Banduan to Barddhaman  5178,Devi Laxmi Banduan to Barddhaman  5178,Banduan to Barddhaman Nawabhat Bus Stand,3
+pvt-1041,PVT,Devi Laxmi Banduan to Barddhaman  5178,Devi Laxmi Banduan to Barddhaman  5178,Barddhaman Nawabhat Bus Stand to Banduan,3
+pvt-1042,PVT,Devi Parul Ranibandh to Barddhaman  5978,Devi Parul Ranibandh to Barddhaman  5978,Ranibandh to Barddhaman Nawabhat Bus Stand,3
+pvt-1043,PVT,Devi Parul Ranibandh to Barddhaman  5978,Devi Parul Ranibandh to Barddhaman  5978,Barddhaman Nawabhat Bus Stand to Ranibandh,3
+pvt-1044,PVT,Devi Laxmi Kutni to Barddhaman  5978,Devi Laxmi Kutni to Barddhaman  5978,Kutni to Barddhaman Nawabhat Bus Stand,3
+pvt-1045,PVT,Devi Laxmi Kutni to Barddhaman  5978,Devi Laxmi Kutni to Barddhaman  5978,Barddhaman Nawabhat Bus Stand to Kutni,3
+pvt-1046,PVT,Krishna Barddhaman To Berhampore 4400,Krishna Barddhaman To Berhampore 4400,Barddhaman Nawabhat Bus Stand to Berhampore,3
+pvt-1047,PVT,Krishna Barddhaman To Berhampore 4400,Krishna Barddhaman To Berhampore 4400,Berhampore to Barddhaman Nawabhat Bus Stand,3
+pvt-1048,PVT,Nabarupa Barddhaman To Berhampore 5296,Nabarupa Barddhaman To Berhampore 5296,Barddhaman Nawabhat Bus Stand to Berhampore,3
+pvt-1049,PVT,Nabarupa Barddhaman To Berhampore 5296,Nabarupa Barddhaman To Berhampore 5296,Berhampore to Barddhaman Nawabhat Bus Stand,3
+pvt-1050,PVT,Maharaj/Nabarupa Barddhaman To Berhampore,Maharaj/Nabarupa Barddhaman To Berhampore,Barddhaman Nawabhat Bus Stand to Berhampore,3
+pvt-1051,PVT,Maharaj/Nabarupa Barddhaman To Berhampore,Maharaj/Nabarupa Barddhaman To Berhampore,Berhampore to Barddhaman Nawabhat Bus Stand,3
+pvt-1052,PVT,Maharaj/Nabarupa Barddhaman To Berhampore,Maharaj/Nabarupa Barddhaman To Berhampore,Barddhaman Nawabhat Bus Stand to Berhampore,3
+pvt-1053,PVT,Maharaj/Nabarupa Barddhaman To Berhampore,Maharaj/Nabarupa Barddhaman To Berhampore,Berhampore to Barddhaman Nawabhat Bus Stand,3
+pvt-1054,PVT,Maharaj/Nabarupa Barddhaman To Berhampore,Maharaj/Nabarupa Barddhaman To Berhampore,Barddhaman Nawabhat Bus Stand to Berhampore,3
+pvt-1055,PVT,Maharaj/Nabarupa Barddhaman To Berhampore,Maharaj/Nabarupa Barddhaman To Berhampore,Berhampore to Barddhaman Nawabhat Bus Stand,3
+pvt-1056,PVT,Maharaj/Nabarupa Barddhaman To Berhampore,Maharaj/Nabarupa Barddhaman To Berhampore,Barddhaman Nawabhat Bus Stand to Berhampore,3
+pvt-1057,PVT,Maharaj/Nabarupa Barddhaman To Berhampore,Maharaj/Nabarupa Barddhaman To Berhampore,Berhampore to Barddhaman Nawabhat Bus Stand,3
+pvt-1058,PVT,Maharaj Barddhaman To Berhampore 4576,Maharaj Barddhaman To Berhampore 4576,Barddhaman Nawabhat Bus Stand to Berhampore,3
+pvt-1059,PVT,Maharaj Barddhaman To Berhampore 4576,Maharaj Barddhaman To Berhampore 4576,Berhampore to Barddhaman Nawabhat Bus Stand,3
+pvt-1060,PVT,New Nabarupa Barddhaman To Suri 4296,New Nabarupa Barddhaman To Suri 4296,Barddhaman Nawabhat Bus Stand to Suri,3
+pvt-1061,PVT,New Nabarupa Barddhaman To Suri 4296,New Nabarupa Barddhaman To Suri 4296,Berhampore to Barddhaman Nawabhat Bus Stand,3
+pvt-1062,PVT,Puja Barddhaman To Suri 0201,Puja Barddhaman To Suri 0201,Barddhaman Nawabhat Bus Stand to Suri,3
+pvt-1063,PVT,Puja Barddhaman To Suri 0201,Puja Barddhaman To Suri 0201,Suri to Barddhaman Nawabhat Bus Stand,3
+pvt-1064,PVT,Maharaj Barddhaman To Suri 2930,Maharaj Barddhaman To Suri 2930,Barddhaman Nawabhat Bus Stand to Suri,3
+pvt-1065,PVT,Maharaj Barddhaman To Suri 2930,Maharaj Barddhaman To Suri 2930,Suri to Barddhaman Nawabhat Bus Stand,3
+pvt-1066,PVT,Bidhata Suri To Barddhaman 0092,Bidhata Suri To Barddhaman 0092,Suri to Barddhaman Nawabhat Bus Stand,3
+pvt-1067,PVT,Bidhata Suri To Barddhaman 0092,Bidhata Suri To Barddhaman 0092,Barddhaman Nawabhat Bus Stand to Suri,3
+pvt-1068,PVT,Rubi Suri To Barddhaman 0707,Rubi Suri To Barddhaman 0707,Suri to Barddhaman Nawabhat Bus Stand,3
+pvt-1069,PVT,Rubi Suri To Barddhaman 0707,Rubi Suri To Barddhaman 0707,Barddhaman Nawabhat Bus Stand to Suri,3
+pvt-1070,PVT,Prince Lalgola To Barddhaman 3775,Prince Lalgola To Barddhaman 3775,Lalgola to Barddhaman Nawabhat Bus Stand,3
+pvt-1071,PVT,Prince Lalgola To Barddhaman 3775,Prince Lalgola To Barddhaman 3775,Barddhaman Nawabhat Bus Stand to Lalgola,3
+pvt-1072,PVT,Dada Bhai Lalgola To Barddhaman 5038,Dada Bhai Lalgola To Barddhaman 5038,Lalgola to Barddhaman Nawabhat Bus Stand,3
+pvt-1073,PVT,Dada Bhai Lalgola To Barddhaman 5038,Dada Bhai Lalgola To Barddhaman 5038,Barddhaman Nawabhat Bus Stand to Lalgola,3
+pvt-1074,PVT,Maharaj Barddhaman To Jangipur 4571,Maharaj Barddhaman To Jangipur 4571,Barddhaman Nawabhat Bus Stand to Jangipur,3
+pvt-1075,PVT,Maharaj Barddhaman To Jangipur 4571,Maharaj Barddhaman To Jangipur 4571,Jangipur to Barddhaman Nawabhat Bus Stand,3
+pvt-1076,PVT,Abhi Jangipur To Barddhaman 1435,Abhi Jangipur To Barddhaman 1435,Jangipur to Barddhaman Nawabhat Bus Stand,3
+pvt-1077,PVT,Abhi Jangipur To Barddhaman 1435,Abhi Jangipur To Barddhaman 1435,Barddhaman Nawabhat Bus Stand to Jangipur,3
+pvt-1078,PVT,Sahin Kalyani To Asansol 3258,Sahin Kalyani To Asansol 3258,Kalyani Ishwsar Gupta Setu to Asansol,3
+pvt-1079,PVT,Sahin Kalyani To Asansol 3258,Sahin Kalyani To Asansol 3258,Asansol to Kalyani Ishwsar Gupta Setu,3
+pvt-1080,PVT,Bijoykrishna Kalna to Benachity 0557,Bijoykrishna Kalna to Benachity 0557,Kalna to Bankura,3
+pvt-1081,PVT,Tara Maa Tarakeshwar To Kharagpur 1881,Tara Maa Tarakeshwar To Kharagpur 1881,Tarakeshwar to Kharagpur,3
+pvt-1082,PVT,Tara Maa Tarakeshwar To Kharagpur 1881,Tara Maa Tarakeshwar To Kharagpur 1881,Kharagpur to Tarakeshwar,3
+pvt-1083,PVT,Mahaprabhu Tarakeshwar To Kharagpur 5580,Mahaprabhu Tarakeshwar To Kharagpur 5580,Tarakeshwar to Kharagpur,3
+pvt-1084,PVT,Mahaprabhu Tarakeshwar To Kharagpur 5580,Mahaprabhu Tarakeshwar To Kharagpur 5580,Kharagpur to Tarakeshwar,3
+pvt-1085,PVT,Kailash Kharagpur To Tarakeshwar 8899,Kailash Kharagpur To Tarakeshwar 8899,Kharagpur to Tarakeshwar,3
+pvt-1086,PVT,Kailash Kharagpur To Tarakeshwar 8899,Kailash Kharagpur To Tarakeshwar 8899,Tarakeshwar to Kharagpur,3
+pvt-1087,PVT,Payel Kharagpur To Tarakeshwar 5689,Payel Kharagpur To Tarakeshwar 5689,Kharagpur to Tarakeshwar,3
+pvt-1088,PVT,Payel Kharagpur To Tarakeshwar 5689,Payel Kharagpur To Tarakeshwar 5689,Tarakeshwar to Kharagpur,3
+pvt-1089,PVT,Kailash Kharagpur To Tarakeshwar 9817,Kailash Kharagpur To Tarakeshwar 9817,Kharagpur to Tarakeshwar,3
+pvt-1090,PVT,Kailash Kharagpur To Tarakeshwar 9817,Kailash Kharagpur To Tarakeshwar 9817,Tarakeshwar to Kharagpur,3
+pvt-1091,PVT,Kailash Kharagpur To Tarakeshwar 8899,Kailash Kharagpur To Tarakeshwar 8899,Kharagpur to Tarakeshwar,3
+pvt-1092,PVT,Kailash Kharagpur To Tarakeshwar 8899,Kailash Kharagpur To Tarakeshwar 8899,Tarakeshwar to Kharagpur,3
+pvt-1093,PVT,Avijan Tarakeshwar To Medinipur 0266,Avijan Tarakeshwar To Medinipur 0266,Tarakeshwar to Medinipur,3
+pvt-1094,PVT,Avijan Tarakeshwar To Medinipur 0266,Avijan Tarakeshwar To Medinipur 0266,Medinipur to Tarakeshwar,3
+pvt-1095,PVT,Avijan Tarakeshwar To Medinipur 9200,Avijan Tarakeshwar To Medinipur 9200,Tarakeshwar to Medinipur,3
+pvt-1096,PVT,Avijan Tarakeshwar To Medinipur 9200,Avijan Tarakeshwar To Medinipur 9200,Medinipur to Tarakeshwar,3
+pvt-1097,PVT,Baba Taraknath Tarakeshwar To Medinipur 6662,Baba Taraknath Tarakeshwar To Medinipur 6662,Tarakeshwar to Medinipur,3
+pvt-1098,PVT,Baba Taraknath Tarakeshwar To Medinipur 6662,Baba Taraknath Tarakeshwar To Medinipur 6662,Medinipur to Tarakeshwar,3
+pvt-1099,PVT,Tanveer Line Arambagh To Kharagpur 6656,Tanveer Line Arambagh To Kharagpur 6656,Kharagpur to Arambagh,3
+pvt-1100,PVT,Saklin Tarakeshwar To Ramgarh 3349,Saklin Tarakeshwar To Ramgarh 3349,Tarakeshwar to Ramgarh,3
+pvt-1101,PVT,Saklin Tarakeshwar To Ramgarh 3349,Saklin Tarakeshwar To Ramgarh 3349,Ramgarh to Tarakeshwar,3
+pvt-1102,PVT,Tasin Tarakeshwar To Ramgarh 9500,Tasin Tarakeshwar To Ramgarh 9500,Tarakeshwar to Ramgarh,3
+pvt-1103,PVT,Tasin Tarakeshwar To Ramgarh 9500,Tasin Tarakeshwar To Ramgarh 9500,Ramgarh to Tarakeshwar,3
+pvt-1104,PVT,Tara Maa Tarakeshwar To Silda 2847,Tara Maa Tarakeshwar To Silda 2847,Tarakeshwar to Silda,3
+pvt-1105,PVT,Tara Maa Tarakeshwar To Silda 2847,Tara Maa Tarakeshwar To Silda 2847,Silda to Tarakeshwar,3
+pvt-1106,PVT,Tara Maa Tarakeshwar To Silda 6443,Tara Maa Tarakeshwar To Silda 6443,Tarakeshwar to Silda,3
+pvt-1107,PVT,Tara Maa Tarakeshwar To Silda 6443,Tara Maa Tarakeshwar To Silda 6443,Silda to Tarakeshwar,3
+chalo-AymzsmBH,MINI,S 175,S 175,Howrah Bus Stand to New Barrackpore,3
+chalo-BDcwDegT,MINI,S 186,S 186,Uttar Panchanna to Howrah Bus Stand,3
+chalo-BOeBYGzI,MINI,S 180,S 180,Howrah Maidan Metro to Nandan Nagar Post Office,3
+chalo-BQUNOQwO,MINI,S 112,S 112,Rathtala or Naktala to Howrah Bus Stand,3
+chalo-BXUJNeZT,MINI,S 181,S 181,Dakshineswar PWD Road to Babughat,3
+chalo-CJIVIVdF,MINI,S 175,S 175,New Barrackpore to Howrah Bus Stand,3
+chalo-CWRhgoBk,MINI,S 186,S 186,Howrah Bus Stand to Uttar Panchanna,3
+chalo-CvEljajz,MINI,S 113,S 113,Howrah Bus Stand to Harinavi More,3
+chalo-DcZpYZfp,MINI,S 135,S 135,Howrah Bus Stand to Baisnab Ghata,3
+chalo-EOTSEuPt,MINI,S 166,S 166,Howrah Station to Tangra Mini Bus Stand,3
+chalo-FNuUVIcP,MINI,KS 1,KS 1,Anandapur Bus Stand to Sarada Park Or Natunhat,3
+chalo-FhduTiDF,MINI,S 137,S 137,Dhaka Kali Bari to Nimtala Fire Station,3
+chalo-HkxboTze,MINI,S 118,S 118,Howrah Bus Stand to VIP Bazar,3
+chalo-IfpGVAqR,MINI,S 129,S 129,Howrah Bus Stand to Behala Rabindranagar Bus Stand,3
+chalo-JcCbKcHp,MINI,S 108-1,S 108-1,Kasba Rath Tala Mini Stand P Majumdar to Howrah Bus Stand,3
+chalo-KChCZLEH,MINI,S 185,S 185,Nimta 185 Bus Stand to Howrah Bus Stand,3
+chalo-KWhOSBwm,MINI,S 180,S 180,Nandan Nagar Post Office to Howrah Maidan Metro,3
+chalo-MqAcyKrJ,MINI,S 151,S 151,Airport Gate 1 to BBD Bag Dalhousie,3
+chalo-NFQpknPm,MINI,S 165,S 165,Howrah Bus Stand to Narkeldanga Main Road,3
+chalo-NxBEgSUn,MINI,S 184,S 184,BBD Bag to Birati Mini Bus Stand,3
+chalo-PLNRwOns,MINI,S107,S107,Anandapur to Howrah Bus Stand,3
+chalo-QUwSkTAl,MINI,S 166,S 166,Tangra Mini Bus Stand to Howrah Station,3
+chalo-RLgtQyDd,MINI,S 123,S 123,123 Bus Stand to Howrah Bus Stand,3
+chalo-RcCdNmTD,MINI,S 122,S 122,Purbachal Mini Bus Stand Or 13 No Tank to Sulekha More,3
+chalo-SahKDhrq,MINI,S 123,S 123,Howrah Bus Stand to 123 Bus Stand,3
+chalo-TAXySOcV,MINI,S 124,S 124,Howrah Bus Stand to Shahid Khudiram Metro,3
+chalo-TfZYNeQc,MINI,S 131,S 131,Damro Diamond Park to Ruby Hospital,3
+chalo-URQCKeHa,MINI,S107-1,S107-1,Anandapur to Howrah Bus Stand,3
+chalo-VDMwhLpQ,MINI,S 124,S 124,Shahid Khudiram Metro to Howrah Bus Stand,3
+chalo-VOdOysom,MINI,S 165,S 165,Narkeldanga Main Road to Howrah Bus Stand,3
+chalo-VOgbWTHM,MINI,S 102,S 102,Patuli Bus Stand to BBD Bag Dalhousie,3
+chalo-VPCqBHPf,MINI,S 104,S 104,Dalhousie to Jodhpur Park Or Selimpur,3
+chalo-VZSbESJP,MINI,S 102,S 102,BBD Bag Dalhousie to Patuli Bus Stand,3
+chalo-VtlSSXwP,MINI,S 128,S 128,Howrah Bus Stand to Picnic Garden Mini Bus Stop,3
+chalo-WSRmDmAj,MINI,S 117,S 117,Howrah Bus Stand to Kalitala Housing,3
+chalo-YFUcdxBh,MINI,S 171,S 171,Karunamoyee to Howrah Bus Stand,3
+chalo-YasOXjhf,MINI,S 118,S 118,VIP Bazar to Howrah Bus Stand,3
+chalo-ZOOBXMMT,MINI,S 181,S 181,Babughat to Dakshineswar PWD Road,3
+chalo-aNRQVUxy,MINI,S 111,S 111,Priya Cinema Bus Stop to Howrah Station,3
+chalo-aZYVkhYZ,MINI,KS 1,KS 1,Sarada Park Or Natunhat to Anandapur Bus Stand,3
+chalo-bCkHIHxy,MINI,S 128,S 128,Picnic Garden Mini Bus Stop to Howrah Bus Stand,3
+chalo-cEGnbmLV,MINI,S 163,S 163,Shyam Bazar 5 Point Crossing to BBD Bag Dalhousie,3
+chalo-cInerUHJ,MINI,S 151,S 151,BBD Bag Dalhousie to Airport Gate 1,3
+chalo-cYzpxLlX,MINI,S 103,S 103,KPC Hospital to BBD Bag,3
+chalo-cdRcWaPy,MINI,S 163,S 163,BBD Bag to Shyam Bazar 5 Point Crossing,3
+chalo-cgtYNbBP,MINI,S 106,S 106,Nayabad Mini Bus Stand to Dalhousie,3
+chalo-dTuIzxui,MINI,S 109,S 109,Ballygunge Station to BBD Bag,3
+chalo-dbNfTiAs,MINI,S 168,S 168,Howrah Bus Stand to Nager Bazar Js Rd,3
+chalo-eMCLutWn,MINI,S107-1,S107-1,Howrah Bus Stand to Anandapur,3
+chalo-ejhCwGGY,MINI,S 178,S 178,Raja Bazar Science College to Behala 14 No Bus Stop,3
+chalo-euvmWosT,MINI,S 108-1,S 108-1,Howrah Bus Stand to Kasba Rath Tala Mini Stand P Majumdar,3
+chalo-fltBDheq,MINI,S 137,S 137,Nimtala Fire Station to Dhaka Kali Bari,3
+chalo-gdiRpBNV,MINI,S 178,S 178,14 No Bus Stand Behala to Raja Bazar Science College,3
+chalo-gujNWfAs,MINI,S 111,S 111,Howrah Bus Stand to Priya Cinema Bus Stop,3
+chalo-hnivZowQ,MINI,S 101 Via Gol Park,S 101 Via Gol Park,Garia More Near Bata to BBD Bagh Tram Depot,3
+chalo-itobBRjT,MINI,S 129,S 129,Behala Rabindranagar Bus Stand to Howrah Bus Stand,3
+chalo-jFyWqtbr,MINI,S 168,S 168,Nager Bazar Js Rd to Howrah Bus Stand,3
+chalo-jHVQyhtm,MINI,S 109,S 109,BBD Bag to Ballygunge Station,3
+chalo-kNNDlEFA,MINI,S 117,S 117,Kalitala Housing to Howrah Bus Stand,3
+chalo-kfDWWRnE,MINI,S 166,S 166,Dhapa  Mathpukur Bus Stop to Howrah Bus Stand,3
+chalo-lqPOvnlK,MINI,S 184 1,S 184 1,Salt Lake 206 Bus Stand to Birati Mini Bus Stand,3
+chalo-lrRkWHAL,MINI,S 120,S 120,Behala Chow Rastha to Writers Buildilg,3
+chalo-mPdvlUlQ,MINI,S 113,S 113,Harinavi More to Howrah Bus Stand,3
+chalo-mYaYuPAS,MINI,S 158,S 158,Dakshineswar PWD Road to Babughat Bus Stand,3
+chalo-mcpiqGoc,MINI,S 120,S 120,Writers Buildilg to Behala Chow Rastha,3
+chalo-mgKLOFIX,MINI,S 152,S 152,Baguiati Bus Stop 152 to BBD Bag,3
+chalo-oVyHQRyL,MINI,S 21 (mini bus),S 21 (mini bus),Silpara Bus Stand to Howrah Station,3
+chalo-oZhYNJyZ,MINI,S 166,S 166,Howrah Bus Stand to Dhapa  Mathpukur Bus Stop,3
+chalo-oqOTPIsM,MINI,S107,S107,Howrah Bus Stand to Anandapur,3
+chalo-pMvMpQNW,MINI,S 105,S 105,Dhakuria Bus Stand to BBD Bagh Mini Bus Stop,3
+chalo-pwjZrkhX,MINI,S 21 (mini bus),S 21 (mini bus),Howrah Bus Stand to Silpara,3
+chalo-qCIzGdNB,MINI,S 185,S 185,Howrah Bus Stand to Nimta S-185 Mini Bus Stand/Depot,3
+chalo-rdfVNnnm,MINI,S 171,S 171,Howrah Bus Stand to Karunamoyee Circle,3
+chalo-rzAlvTHf,MINI,S 131,S 131,Ruby Hospital Or Kasba to Damro Diamond Park,3
+chalo-seGQuqUW,MINI,S 135,S 135,Baisnab Ghata to Howrah Station,3
+chalo-siBWfKTC,MINI,S 122,S 122,KPC Hospital to Purbachal Mini Bus Stand Or 13 No Tank,3
+chalo-srokUuzw,MINI,S 184 1,S 184 1,Birati Mini Bus Stand to Salt Lake 206 Bus Stand,3
+chalo-tRtSgoZG,MINI,S 103,S 103,BBD Bag to KPC Hospital,3
+chalo-tgDriuCd,MINI,S 172,S 172,Tegharia Bus Stand to Howrah Maidan Metro,3
+chalo-tkYISZHD,MINI,S 108,S 108,Howrah Bus Stand to Kasba Rathtala Minibus Stand,3
+chalo-vFWeWWyt,MINI,S 138,S 138,KPC Hospital to Airport Mini Bus Stand 138,3
+chalo-vIWmQYmC,MINI,S 172,S 172,Howrah Maidan Metro to Tegharia Bus Stand,3
+chalo-vWbHnXWD,MINI,S 152,S 152,BBD Bag to Baguiati Bus Stop 152,3
+chalo-vWimyPAy,MINI,S 104,S 104,Jodhpur Park Or Selimpur to Dalhousie,3
+chalo-wBDNCuia,MINI,S 138,S 138,Airport Mini Bus Stand 138 to KPC Hospital,3
+chalo-wmfFmpdo,MINI,S 106,S 106,Dalhousie to Nayabad Mini Bus Stand,3
+chalo-wpolgCHC,MINI,S 105,S 105,BBD Bagh Mini Bus Stop to Dhakuria Bus Stand,3
+chalo-xXSMfQzi,MINI,S 112,S 112,Howrah Bus Stand to Rathtala or Naktala,3
+chalo-xkvxLpcf,MINI,S 158,S 158,Babughat Bus Stand to Dakshineswar PWD Road,3
+chalo-ydLATfPL,MINI,S 101 Via Science City,S 101 Via Science City,Dalhousie to Garia Station,3
+chalo-ydZcZXWW,MINI,S 108,S 108,Kasba Rathtala Minibus Stand to Howrah Bus Stand,3
+chalo-zGVhDtrx,MINI,S 184,S 184,Birati Mini Bus Stand to BBD Bag Dalhousie,3
+mini-82,MINI,Garia Bus Stand BBD Bag Mini,Garia Bus Stand BBD Bag Mini,Garia Bus Stand to BBD Bag,3
+mini-83,MINI,Garia Station BBD Bag Mini,Garia Station BBD Bag Mini,Garia Station to BBD Bag,3
+mini-84,MINI,Jadavpur 8B BBD Bag Mini,Jadavpur 8B BBD Bag Mini,Jadavpur 8B to BBD Bag,3
+mini-85,MINI,Jodhpur Park BBD Bag Mini,Jodhpur Park BBD Bag Mini,Jodhpur Park to BBD Bag,3
+mini-86,MINI,Santoshpur BBD Bag Mini,Santoshpur BBD Bag Mini,Daspara to BBD Bag,3
+mini-87,MINI,Anandapur Howrah Station Mini,Anandapur Howrah Station Mini,Anandapur to Howrah Station,3
+mini-88,MINI,Anandapur Howrah Station Mini,Anandapur Howrah Station Mini,Anandapur to Howrah Station,3
+mini-89,MINI,Kasba Rathtala Howrah Station Mini,Kasba Rathtala Howrah Station Mini,Kasba Rathtala to Howrah Station,3
+mini-90,MINI,Ballygunge Station BBD Bag Mini,Ballygunge Station BBD Bag Mini,Ballygunge Station to BBD Bag,3
+mini-91,MINI,Golf Green Howrah Station Mini,Golf Green Howrah Station Mini,Golf Green to Howrah Station,3
+mini-92,MINI,Garia Station Howrah Station Mini,Garia Station Howrah Station Mini,Garia Station to Howrah Station,3
+mini-93,MINI,Harinavi Howrah Station Mini,Harinavi Howrah Station Mini,Harinavi to Howrah Station,3
+mini-94,MINI,Behala Chowrasta Howrah Station Mini,Behala Chowrasta Howrah Station Mini,Behala Chowrasta to Howrah Station,3
+mini-95,MINI,Metiabruz Howrah Station Mini,Metiabruz Howrah Station Mini,Metiabruz to Howrah Station,3
+mini-96,MINI,Garia Station Howrah Station Mini,Garia Station Howrah Station Mini,Garia Station to Howrah Station,3
+mini-97,MINI,Picnic Garden Howrah Station Mini,Picnic Garden Howrah Station Mini,Picnic Garden to Howrah Station,3
+mini-98,MINI,Batanagar Howrah Station Mini,Batanagar Howrah Station Mini,Batanagar to Howrah Station,3
+mini-99,MINI,Picnic Garden Howrah Station Mini,Picnic Garden Howrah Station Mini,Picnic Garden to Howrah Station,3
+mini-100,MINI,Picnic Garden Howrah Station Mini,Picnic Garden Howrah Station Mini,Picnic Garden to Howrah Station,3
+mini-101,MINI,Rabindra Nagar Howrah Station Mini,Rabindra Nagar Howrah Station Mini,Rabindra Nagar to Howrah Station,3
+mini-102,MINI,Joka Bridge Ruby Mini,Joka Bridge Ruby Mini,Joka Bridge to Ruby,3
+mini-103,MINI,Baisnabghata Howrah Maidan Mini,Baisnabghata Howrah Maidan Mini,Baisnabghata to Howrah Maidan,3
+mini-104,MINI,Shyambazar Babughat Mini,Shyambazar Babughat Mini,Shyambazar to Babughat,3
+mini-105,MINI,Airport Gate 1 BBD Bag Mini,Airport Gate 1 BBD Bag Mini,Airport Gate 1 to BBD Bag,3
+mini-106,MINI,Derozio College BBD Bag Mini,Derozio College BBD Bag Mini,Derozio College to BBD Bag,3
+mini-107,MINI,Baguiati BBD Bag Mini,Baguiati BBD Bag Mini,Baguiati to BBD Bag,3
+mini-108,MINI,Dakshineswar Babughat Mini,Dakshineswar Babughat Mini,Dakshineswar to Babughat,3
+mini-109,MINI,Dunlop BBD Bag Mini,Dunlop BBD Bag Mini,Dunlop to BBD Bag,3
+mini-110,MINI,Shyambazar Metiabruz Mini,Shyambazar Metiabruz Mini,Shyambazar to Metiabruz,3
+mini-111,MINI,Shyambazar BBD Bag Mini,Shyambazar BBD Bag Mini,Shyambazar to BBD Bag,3
+mini-112,MINI,Dunlop BBD Bag Mini,Dunlop BBD Bag Mini,Dunlop to BBD Bag,3
+mini-113,MINI,Phoolbagan Howrah Station Mini,Phoolbagan Howrah Station Mini,Phoolbagan to Howrah Station,3
+mini-114,MINI,Tangra Howrah Station Mini,Tangra Howrah Station Mini,Tangra to Howrah Station,3
+mini-115,MINI,Mathpukur Howrah Station Mini,Mathpukur Howrah Station Mini,Mathpukur to Howrah Station,3
+mini-116,MINI,Saltlake BBD Bag Mini,Saltlake BBD Bag Mini,Saltlake to BBD Bag,3
+mini-117,MINI,Nager Bazar Howrah Station Mini,Nager Bazar Howrah Station Mini,Nager Bazar to Howrah Station,3
+mini-118,MINI,Teghoria Howrah Maidan Mini,Teghoria Howrah Maidan Mini,Teghoria to Howrah Maidan,3
+mini-119,MINI,Saltlake Howrah Station Mini,Saltlake Howrah Station Mini,Saltlake to Howrah Station,3
+mini-120,MINI,New Barrackpore Howrah Station Mini,New Barrackpore Howrah Station Mini,New Barrackpore to Howrah Station,3
+mini-121,MINI,Shyambazar Howrah Maidan Mini,Shyambazar Howrah Maidan Mini,Shyambazar to Howrah Maidan,3
+mini-122,MINI,Behala 14 No Rajabazar Mini,Behala 14 No Rajabazar Mini,Behala 14 No to Rajabazar,3
+mini-123,MINI,Belgharia Station Howrah Maidan Mini,Belgharia Station Howrah Maidan Mini,Belgharia Station to Howrah Maidan,3
+mini-124,MINI,Birati Station BBD Bag Mini,Birati Station BBD Bag Mini,Birati Station to BBD Bag,3
+mini-125,MINI,Birati Station Saltlake 206 Mini,Birati Station Saltlake 206 Mini,Birati Station to Saltlake 206,3
+mini-126,MINI,Nimta Bazar Howrah Station Mini,Nimta Bazar Howrah Station Mini,Nimta Bazar to Howrah Station,3
+mini-127,MINI,Uttar Panchannagram Howrah Station Mini,Uttar Panchannagram Howrah Station Mini,Uttar Panchannagram to Howrah Station,3
+mini-128,MINI,Shyambazar Howrah Maidan Mini,Shyambazar Howrah Maidan Mini,Shyambazar to Howrah Maidan,3
+mini-129,MINI,Sakher Bazar Anandapur Mini,Sakher Bazar Anandapur Mini,Sakher Bazar to Anandapur,3
+mini-130,MINI,Salkia Chowrasta Esplanade Mini,Salkia Chowrasta Esplanade Mini,Salkia Chowrasta to Esplanade,3
+mini-131,MINI,Satyabala Sishu Mangal Mini,Satyabala Sishu Mangal Mini,Satyabala to Sishu Mangal,3
+mini-132,MINI,Salkia Chowrasta Esplanade Mini,Salkia Chowrasta Esplanade Mini,Salkia Chowrasta to Esplanade,3
+mini-133,MINI,Kadamtala Esplanade Mini,Kadamtala Esplanade Mini,Kadamtala to Esplanade,3
+mini-134,MINI,Kamardanga Esplanade Mini,Kamardanga Esplanade Mini,Kamardanga to Esplanade,3
+mini-135,MINI,Japani Gate Sector V Mini,Japani Gate Sector V Mini,Japani Gate to Sector V,3
+mini-136,MINI,B Garden Esplanade Mini,B Garden Esplanade Mini,B Garden to Esplanade,3
+mini-137,MINI,Danesh Shaikh Lane Esplanade Mini,Danesh Shaikh Lane Esplanade Mini,Danesh Shaikh Lane to Esplanade,3
+mini-138,MINI,Howrah Maidan Shyambazar Mini,Howrah Maidan Shyambazar Mini,Howrah Maidan to Shyambazar,3
+mini-139,MINI,Mandirtala Esplanade Mini,Mandirtala Esplanade Mini,Mandirtala to Esplanade,3
+mini-140,MINI,Ballykhal Kidderpore Mini,Ballykhal Kidderpore Mini,Ballykhal to Kidderpore,3
+mini-141,MINI,Belurmath Esplanade Mini,Belurmath Esplanade Mini,Belurmath to Esplanade,3
+mini-142,MINI,Howrah Maidan Rabindra Sadan Mini,Howrah Maidan Rabindra Sadan Mini,Howrah Maidan to Rabindra Sadan,3
+mini-143,MINI,Ranihati Ahiritola Mini,Ranihati Ahiritola Mini,Ranihati to Ahiritola,3
+mini-144,MINI,Fatikgachi Ahiritola Mini,Fatikgachi Ahiritola Mini,Fatikgachi to Ahiritola,3
+mini-145,MINI,Kona Esplanade Mini,Kona Esplanade Mini,Kona to Esplanade,3
+mini-146,MINI,Alampur Ultadanga Mini,Alampur Ultadanga Mini,Alampur to Ultadanga,3
+mini-147,MINI,Mourigram Saltlake Stadium Mini,Mourigram Saltlake Stadium Mini,Mourigram to Saltlake Stadium,3
+mini-148,MINI,Howrah Maidan Shilpara Mini,Howrah Maidan Shilpara Mini,Howrah Maidan to Shilpara,3
+mini-149,MINI,Sankrail Howrah Station Mini,Sankrail Howrah Station Mini,Sankrail to Howrah Station,3
+mini-150,MINI,Malipanchghara Sealdah Mini,Malipanchghara Sealdah Mini,Malipanchghara to Sealdah,3
+mini-151,MINI,Santragachi Esplanade Mini,Santragachi Esplanade Mini,Santragachi to Esplanade,3
+mini-152,MINI,Bankra Bazar Park Circus Mini,Bankra Bazar Park Circus Mini,Bankra Bazar to Park Circus,3
+mini-153,MINI,Howrah Maidan Park Circus Mini,Howrah Maidan Park Circus Mini,Howrah Maidan to Park Circus,3
+mini-154,MINI,Tikiapara Sector V Mini,Tikiapara Sector V Mini,Tikiapara to Sector V,3
+mini-155,MINI,Baluhati Esplanade Mini,Baluhati Esplanade Mini,Baluhati to Esplanade,3
+mini-156,MINI,Howrah Maidan Rabindra Sadan Mini,Howrah Maidan Rabindra Sadan Mini,Howrah Maidan to Rabindra Sadan,3
+mini-157,MINI,Purash Howrah Station Mini,Purash Howrah Station Mini,Purash to Howrah Station,3
+mini-158,MINI,Hantal Howrah Station Mini,Hantal Howrah Station Mini,Hantal to Howrah Station,3
+mini-159,MINI,Dasnagar Esplanade Mini,Dasnagar Esplanade Mini,Dasnagar to Esplanade,3
+mini-160,MINI,Bhattanagar Esplanade Mini,Bhattanagar Esplanade Mini,Bhattanagar to Esplanade,3
+mini-372,MINI,BBD Bag Garia Bus Stand Mini,BBD Bag Garia Bus Stand Mini,BBD Bag to Garia Bus Stand,3
+mini-373,MINI,BBD Bag Garia Station Mini,BBD Bag Garia Station Mini,BBD Bag to Garia Station,3
+mini-374,MINI,BBD Bag Jadavpur 8B Mini,BBD Bag Jadavpur 8B Mini,BBD Bag to Jadavpur 8B,3
+mini-375,MINI,BBD Bag Jodhpur Park Mini,BBD Bag Jodhpur Park Mini,BBD Bag to Jodhpur Park,3
+mini-376,MINI,Santoshpur BBD Bag Mini,Santoshpur BBD Bag Mini,BBD Bag to Daspara,3
+mini-377,MINI,Howrah Station Anandapur Mini,Howrah Station Anandapur Mini,Howrah Station to Anandapur,3
+mini-378,MINI,Howrah Station Anandapur Mini,Howrah Station Anandapur Mini,Howrah Station to Anandapur,3
+mini-379,MINI,Howrah Station Kasba Rathtala Mini,Howrah Station Kasba Rathtala Mini,Howrah Station to Kasba Rathtala,3
+mini-380,MINI,BBD Bag Ballygunge Station Mini,BBD Bag Ballygunge Station Mini,BBD Bag to Ballygunge Station,3
+mini-381,MINI,Howrah Station Golf Green Mini,Howrah Station Golf Green Mini,Howrah Station to Golf Green,3
+mini-382,MINI,Howrah Station Garia Station Mini,Howrah Station Garia Station Mini,Howrah Station to Garia Station,3
+mini-383,MINI,Howrah Station Harinavi Mini,Howrah Station Harinavi Mini,Howrah Station to Harinavi,3
+mini-384,MINI,Howrah Station Behala Chowrasta Mini,Howrah Station Behala Chowrasta Mini,Howrah Station to Behala Chowrasta,3
+mini-385,MINI,Howrah Station Metiabruz Mini,Howrah Station Metiabruz Mini,Howrah Station to Metiabruz,3
+mini-386,MINI,Howrah Station Garia Station Mini,Howrah Station Garia Station Mini,Howrah Station to Garia Station,3
+mini-387,MINI,Howrah Station Picnic Garden Mini,Howrah Station Picnic Garden Mini,Howrah Station to Picnic Garden,3
+mini-388,MINI,Howrah Station Batanagar Mini,Howrah Station Batanagar Mini,Howrah Station to Batanagar,3
+mini-389,MINI,Howrah Station Picnic Garden Mini,Howrah Station Picnic Garden Mini,Howrah Station to Picnic Garden,3
+mini-390,MINI,Howrah Station Picnic Garden Mini,Howrah Station Picnic Garden Mini,Howrah Station to Picnic Garden,3
+mini-391,MINI,Howrah Station Rabindra Nagar Mini,Howrah Station Rabindra Nagar Mini,Howrah Station to Rabindra Nagar,3
+mini-392,MINI,Ruby Joka Bridge Mini,Ruby Joka Bridge Mini,Ruby to Joka Bridge,3
+mini-393,MINI,Howrah Maidan Baisnabghata Mini,Howrah Maidan Baisnabghata Mini,Howrah Maidan to Baisnabghata,3
+mini-394,MINI,Babughat Shyambazar Mini,Babughat Shyambazar Mini,Babughat to Shyambazar,3
+mini-395,MINI,BBD Bag Airport Gate 1 Mini,BBD Bag Airport Gate 1 Mini,BBD Bag to Airport Gate 1,3
+mini-396,MINI,BBD Bag Derozio College Mini,BBD Bag Derozio College Mini,BBD Bag to Derozio College,3
+mini-397,MINI,BBD Bag Baguiati Mini,BBD Bag Baguiati Mini,BBD Bag to Baguiati,3
+mini-398,MINI,Babughat Dakshineswar Mini,Babughat Dakshineswar Mini,Babughat to Dakshineswar,3
+mini-399,MINI,BBD Bag Dunlop Mini,BBD Bag Dunlop Mini,BBD Bag to Dunlop,3
+mini-400,MINI,Metiabruz Shyambazar Mini,Metiabruz Shyambazar Mini,Metiabruz to Shyambazar,3
+mini-401,MINI,BBD Bag Shyambazar Mini,BBD Bag Shyambazar Mini,BBD Bag to Shyambazar,3
+mini-402,MINI,BBD Bag Dunlop Mini,BBD Bag Dunlop Mini,BBD Bag to Dunlop,3
+mini-403,MINI,Howrah Station Phoolbagan Mini,Howrah Station Phoolbagan Mini,Howrah Station to Phoolbagan,3
+mini-404,MINI,Howrah Station Tangra Mini,Howrah Station Tangra Mini,Howrah Station to Tangra,3
+mini-405,MINI,Howrah Station Mathpukur Mini,Howrah Station Mathpukur Mini,Howrah Station to Mathpukur,3
+mini-406,MINI,BBD Bag Saltlake Mini,BBD Bag Saltlake Mini,BBD Bag to Saltlake,3
+mini-407,MINI,Howrah Station Nager Bazar Mini,Howrah Station Nager Bazar Mini,Howrah Station to Nager Bazar,3
+mini-408,MINI,Howrah Maidan Teghoria Mini,Howrah Maidan Teghoria Mini,Howrah Maidan to Teghoria,3
+mini-409,MINI,Howrah Station Saltlake Mini,Howrah Station Saltlake Mini,Howrah Station to Saltlake,3
+mini-410,MINI,Howrah Station New Barrackpore Mini,Howrah Station New Barrackpore Mini,Howrah Station to New Barrackpore,3
+mini-411,MINI,Howrah Maidan Shyambazar Mini,Howrah Maidan Shyambazar Mini,Howrah Maidan to Shyambazar,3
+mini-412,MINI,Rajabazar Behala 14 No Mini,Rajabazar Behala 14 No Mini,Rajabazar to Behala 14 No,3
+mini-413,MINI,Howrah Maidan Belgharia Station Mini,Howrah Maidan Belgharia Station Mini,Howrah Maidan to Belgharia Station,3
+mini-414,MINI,BBD Bag Birati Station Mini,BBD Bag Birati Station Mini,BBD Bag to Birati Station,3
+mini-415,MINI,Saltlake 206 Birati Station Mini,Saltlake 206 Birati Station Mini,Saltlake 206 to Birati Station,3
+mini-416,MINI,Howrah Station Nimta Bazar Mini,Howrah Station Nimta Bazar Mini,Howrah Station to Nimta Bazar,3
+mini-417,MINI,Howrah Station Uttar Panchannagram Mini,Howrah Station Uttar Panchannagram Mini,Howrah Station to Uttar Panchannagram,3
+mini-418,MINI,Howrah Maidan Shyambazar Mini,Howrah Maidan Shyambazar Mini,Howrah Maidan to Shyambazar,3
+mini-419,MINI,Anandapur Sakher Bazar Mini,Anandapur Sakher Bazar Mini,Anandapur to Sakher Bazar,3
+mini-420,MINI,Esplanade Salkia Chowrasta Mini,Esplanade Salkia Chowrasta Mini,Esplanade to Salkia Chowrasta,3
+mini-421,MINI,Sishu Mangal Satyabala Mini,Sishu Mangal Satyabala Mini,Sishu Mangal to Satyabala,3
+mini-422,MINI,Esplanade Salkia Chowrasta Mini,Esplanade Salkia Chowrasta Mini,Esplanade to Salkia Chowrasta,3
+mini-423,MINI,Esplanade Kadamtala Mini,Esplanade Kadamtala Mini,Esplanade to Kadamtala,3
+mini-424,MINI,Esplanade Kamardanga Mini,Esplanade Kamardanga Mini,Esplanade to Kamardanga,3
+mini-425,MINI,Sector V Japani Gate Mini,Sector V Japani Gate Mini,Sector V to Japani Gate,3
+mini-426,MINI,Esplanade B Garden Mini,Esplanade B Garden Mini,Esplanade to B Garden,3
+mini-427,MINI,Esplanade Danesh Shaikh Lane Mini,Esplanade Danesh Shaikh Lane Mini,Esplanade to Danesh Shaikh Lane,3
+mini-428,MINI,Shyambazar Howrah Maidan Mini,Shyambazar Howrah Maidan Mini,Shyambazar to Howrah Maidan,3
+mini-429,MINI,Esplanade Mandirtala Mini,Esplanade Mandirtala Mini,Esplanade to Mandirtala,3
+mini-430,MINI,Kidderpore Ballykhal Mini,Kidderpore Ballykhal Mini,Kidderpore to Ballykhal,3
+mini-431,MINI,Esplanade Belurmath Mini,Esplanade Belurmath Mini,Esplanade to Belurmath,3
+mini-432,MINI,Rabindra Sadan Howrah Maidan Mini,Rabindra Sadan Howrah Maidan Mini,Rabindra Sadan to Howrah Maidan,3
+mini-433,MINI,Ahiritola Ranihati Mini,Ahiritola Ranihati Mini,Ahiritola to Ranihati,3
+mini-434,MINI,Ahiritola Fatikgachi Mini,Ahiritola Fatikgachi Mini,Ahiritola to Fatikgachi,3
+mini-435,MINI,Esplanade Kona Mini,Esplanade Kona Mini,Esplanade to Kona,3
+mini-436,MINI,Ultadanga Alampur Mini,Ultadanga Alampur Mini,Ultadanga to Alampur,3
+mini-437,MINI,Saltlake Stadium Mourigram Mini,Saltlake Stadium Mourigram Mini,Saltlake Stadium to Mourigram,3
+mini-438,MINI,Shilpara Howrah Maidan Mini,Shilpara Howrah Maidan Mini,Shilpara to Howrah Maidan,3
+mini-439,MINI,Howrah Station Sankrail Mini,Howrah Station Sankrail Mini,Howrah Station to Sankrail,3
+mini-440,MINI,Sealdah Malipanchghara Mini,Sealdah Malipanchghara Mini,Sealdah to Malipanchghara,3
+mini-441,MINI,Esplanade Santragachi Mini,Esplanade Santragachi Mini,Esplanade to Santragachi,3
+mini-442,MINI,Park Circus Bankra Bazar Mini,Park Circus Bankra Bazar Mini,Park Circus to Bankra Bazar,3
+mini-443,MINI,Park Circus Howrah Maidan Mini,Park Circus Howrah Maidan Mini,Park Circus to Howrah Maidan,3
+mini-444,MINI,Sector V Tikiapara Mini,Sector V Tikiapara Mini,Sector V to Tikiapara,3
+mini-445,MINI,Esplanade Baluhati Mini,Esplanade Baluhati Mini,Esplanade to Baluhati,3
+mini-446,MINI,Rabindra Sadan Howrah Maidan Mini,Rabindra Sadan Howrah Maidan Mini,Rabindra Sadan to Howrah Maidan,3
+mini-447,MINI,Howrah Station Purash Mini,Howrah Station Purash Mini,Howrah Station to Purash,3
+mini-448,MINI,Howrah Station Hantal Mini,Howrah Station Hantal Mini,Howrah Station to Hantal,3
+mini-449,MINI,Esplanade Dasnagar Mini,Esplanade Dasnagar Mini,Esplanade to Dasnagar,3
+mini-450,MINI,Esplanade Bhattanagar Mini,Esplanade Bhattanagar Mini,Esplanade to Bhattanagar,3
+chalo-FMtjkGSq,OTHER,Kolkata-Chandrakona,Kolkata-Chandrakona,Dunlop to Chandrakona Road Bus Stand,3
+chalo-LyRTuuxG,OTHER,Kolkata-Gorbeta,Kolkata-Gorbeta,Dunlop to Garbeta Bus Stand,3
+chalo-VbFKHJnG,OTHER,Chingrighata-Dhulagori,Chingrighata-Dhulagori,Chingrighata to Dhulagarh Crossing,3
+chalo-ZCDdGKEB,OTHER,Rash Behari-Dhulogori,Rash Behari-Dhulogori,Rasbehari Crossing to Dhulagarh Crossing,3
+chalo-mSSHvDAy,OTHER,Chandrakona-Kolkata,Chandrakona-Kolkata,Chandrakona Road Bus Stand to Dunlop,3
+chalo-oKhdGvbU,OTHER,Dhulagori-Chingrighata,Dhulagori-Chingrighata,Dhulagarh Crossing to Chingrighata,3
+chalo-oXwHBEjI,OTHER,Aliah University-Dhulagori,Aliah University-Dhulagori,Aliah University to Dhulagarh Crossing,3
+chalo-ptHkKCSR,OTHER,Dhulagori-Aliah University,Dhulagori-Aliah University,Dhulagarh Crossing to Aliah University,3
+chalo-yhfmEMqP,OTHER,Gorbeta-Kolkata,Gorbeta-Kolkata,Garbeta Bus Stand to Dunlop,3
+govt-64,GOVT,C,C,Park Street to Howrah Maidan,3
+govt-164,GOVT,SD-9,SD-9,Noorpur to Esplanade,3
+govt-165,GOVT,SD-14,SD-14,Sahararhat to Taratala,3
+govt-166,GOVT,SD-24,SD-24,Alipore Zoo to Sonakhali,3
+govt-167,GOVT,SD-26,SD-26,Burul to Babughat,3
+govt-168,GOVT,SD-27,SD-27,Dostipur to Akra Fatak,3
+govt-169,GOVT,SD-29,SD-29,Amtala to Baruipur,3
+govt-170,GOVT,SD-30,SD-30,Sahararhat to Taratala,3
+govt-171,GOVT,SD-33,SD-33,Baruipur to Jharkhali,3
+govt-172,GOVT,SD-63,SD-63,Baruipur to Gadkhali,3
+govt-173,GOVT,SD-64,SD-64,Baruipur to Chunakhali,3
+govt-174,GOVT,SD-76,SD-76,Amtala to Ruby,3
+govt-175,GOVT,SD-85,SD-85,Canning to Dhamakhali,3
+govt-176,GOVT,DN-5,DN-5,Barasat Chapadali to Naihati Station,3
+govt-177,GOVT,DN-8,DN-8,Barasat Colony to Sector V,3
+govt-178,GOVT,DN-12/1,DN-12/1,Habra Station to Nazat,3
+govt-179,GOVT,DN-13,DN-13,Basirhat to Hakimpur,3
+govt-180,GOVT,DN-18,DN-18,Shyambazar to Baduria,3
+govt-181,GOVT,DN-28,DN-28,Barasat Chapadali to Haroa Bazar,3
+govt-182,GOVT,DN-35,DN-35,Barasat Chapadali to Nabatkati,3
+govt-183,GOVT,DN-38,DN-38,Basirhat to Taranipur,3
+govt-184,GOVT,DN-44,DN-44,Bongaon to Dakshineswar,3
+govt-185,GOVT,DN-46,DN-46,Ballyhalt to Sector V,3
+govt-186,GOVT,KB-12,KB-12,Parnasree to Unitech Gate 1,3
+govt-187,GOVT,KB-24,KB-24,Hatishala to Kolkata Station,3
+govt-267,GOVT,S-5A,S-5A,Jadavpur 8B to Howrah Station,3
+govt-268,GOVT,S-9A/N,S-9A/N,Dunlop to Nabanna,3
+govt-269,GOVT,AC-10,AC-10,Nilgunge to Howrah Station,3
+govt-270,GOVT,S-19B,S-19B,Esplanade to Burul,3
+govt-279,GOVT,AC-30S,AC-30S,Ultadanga to Amity University,3
+govt-281,GOVT,S-39A/N,S-39A/N,Esplanade to Nabanna,3
+govt-282,GOVT,AC-49,AC-49,Amity University to Eden City,3
+govt-283,GOVT,AC-55,AC-55,Newtown to Barrackpore Station,3
+govt-284,GOVT,S-66,S-66,Choto Finga to Howrah Station,3
+govt-285,GOVT,S-68,S-68,Hazra to Hazra,3
+govt-286,GOVT,VS-15,VS-15,Amtala to Dakshineswar,3
+govt-287,GOVT,VS-15A,VS-15A,Amtala to Dakshineswar,3
+govt-288,GOVT,ST-21A,ST-21A,Howrah Station to Kanmari Bazar,3
+govt-289,GOVT,ST-22,ST-22,Howrah Station to Basanti,3
+govt-290,GOVT,ST-22A,ST-22A,Basanti to Howrah Station,3
+govt-291,GOVT,ST-24,ST-24,Gadkhali to Howrah Station,3
+govt-292,GOVT,ST-29,ST-29,Esplanade to Ramganga,3
+govt-293,GOVT,ST-26,ST-26,Esplanade to Usthi,3
+govt-294,GOVT,ST-27,ST-27,Esplanade to Kakdwip Bus Stand,3
+govt-295,GOVT,ST-28,ST-28,Esplanade to Patharpratima,3
+govt-296,GOVT,ST-30,ST-30,Burul to Esplanade,3
+govt-297,GOVT,ST-31,ST-31,Esplanade to Digha,3
+govt-298,GOVT,ST-32,ST-32,Esplanade to Bakkhali,3
+govt-299,GOVT,ST-39,ST-39,Nimpith to Esplanade,3
+govt-300,GOVT,C-26A,C-26A,Kamalgazi to Howrah Station,3
+govt-301,GOVT,C-38,C-38,Joka Depot to Howrah Station,3
+govt-302,GOVT,D-10,D-10,Barasat Chapadali to Amtala,3
+govt-303,GOVT,D-32,D-32,Barasat Chapadali to Samshernagar,3
+govt-304,GOVT,D-34,D-34,Barasat Chapadali to Hemnagar,3
+govt-305,GOVT,D-35,D-35,Rajabazar to Ghatakpukur,3
+govt-306,GOVT,E-17/1,E-17/1,Barasat Chapadali to Digha,3
+govt-307,GOVT,E-24,E-24,Esplanade to Palashipara,3
+govt-308,GOVT,E-28,E-28,Esplanade to Bakshi,3
+govt-309,GOVT,E-31/1,E-31/1,Howrah Station to Jhikira,3
+govt-310,GOVT,E-35,E-35,Esplanade to Jayrambati,3
+govt-311,GOVT,E-36A Shuttle,E-36A Shuttle,Habra Depot to Park Circus,3
+govt-312,GOVT,E-36A Spl,E-36A Spl,Barasat Chapadali to Santragachi,3
+govt-313,GOVT,E-38,E-38,Esplanade to Mayapur,3
+govt-314,GOVT,E-40,E-40,Esplanade to Digha,3
+govt-315,GOVT,E-40/1,E-40/1,Esplanade to Digha,3
+govt-316,GOVT,E-40B,E-40B,Joka Depot to Digha,3
+govt-317,GOVT,E-41,E-41,Habra Station to Asansol,3
+govt-318,GOVT,E-45,E-45,Joka Depot to Digha,3
+govt-319,GOVT,E-46,E-46,Karunamoyee to Digha,3
+govt-320,GOVT,E-51,E-51,Esplanade to Bisunupur,3
+govt-321,GOVT,E-51A,E-51A,Habra Station to Bishnupur,3
+govt-322,GOVT,E-54,E-54,Serampore to Digha,3
+govt-323,GOVT,E-55,E-55,Madhyamgram to Digha,3
+govt-324,GOVT,E-56,E-56,Baduria to Digha,3
+govt-325,GOVT,E-57,E-57,Esplanade to Karimpur,3
+govt-326,GOVT,E-59,E-59,Naihati Station to Digha,3
+govt-327,GOVT,E-61,E-61,Habra Depot to Bakkhali,3
+govt-328,GOVT,E-61A,E-61A,Habra Depot to Namkhana,3
+govt-329,GOVT,E-62,E-62,Esplanade to Sitalia,3
+govt-330,GOVT,E-66,E-66,Habra Depot to Rampurhat,3
+govt-331,GOVT,E-67,E-67,Habra Depot to Purulia,3
+govt-332,GOVT,E-67A,E-67A,Habra Depot to Bankura,3
+govt-333,GOVT,E-68,E-68,Habra Depot to Haldia,3
+govt-334,GOVT,E-70,E-70,Habra Depot to Jhargram,3
+govt-335,GOVT,E-70A,E-70A,Habra Depot to Midnapore Town,3
+govt-336,GOVT,E-72,E-72,Esplanade to Jangipara,3
+govt-337,GOVT,E-73,E-73,Howrah Station to Basirhat,3
+govt-338,GOVT,E-74,E-74,Esplanade to Basubati Darbar Sharif,3
+govt-339,GOVT,E-76,E-76,Habra Station to Kalyani Aiims,3
+govt-341,GOVT,ACT-5,ACT-5,Barasat Chapadali to Digha,3
+govt-342,GOVT,ACT-6,ACT-6,Esplanade to Digha,3
+govt-343,GOVT,ACT-8,ACT-8,Habra Depot to Digha,3
+govt-344,GOVT,ACT-10,ACT-10,Barasat Chapadali to Asansol,3
+govt-345,GOVT,ACT-12,ACT-12,Esplanade to Asansol,3
+govt-346,GOVT,ACT-13,ACT-13,Esplanade to Suri,3
+govt-347,GOVT,ACT-15,ACT-15,Esplanade to Bakkhali,3
+govt-348,GOVT,ACT-17,ACT-17,Esplanade to Siliguri,3
+govt-349,GOVT,BE-7,BE-7,Esplanade to Balurghat,3
+govt-350,GOVT,BE-11,BE-11,Karunamoyee to Asansol,3
+govt-351,GOVT,BE-12,BE-12,Esplanade to Purulia,3
+govt-352,GOVT,BE-19,BE-19,Esplanade to Mayapur,3
+govt-353,GOVT,ACS-3,ACS-3,Esplanade to Bakkhali,3
+govt-354,GOVT,C,C,Howrah Maidan to Park Street,3
+govt-454,GOVT,SD-9,SD-9,Esplanade to Noorpur,3
+govt-455,GOVT,SD-14,SD-14,Taratala to Sahararhat,3
+govt-456,GOVT,SD-24,SD-24,Sonakhali to Alipore Zoo,3
+govt-457,GOVT,SD-26,SD-26,Babughat to Burul,3
+govt-458,GOVT,SD-27,SD-27,Akra Fatak to Dostipur,3
+govt-459,GOVT,SD-29,SD-29,Baruipur to Amtala,3
+govt-460,GOVT,SD-30,SD-30,Taratala to Sahararhat,3
+govt-461,GOVT,SD-33,SD-33,Jharkhali to Baruipur,3
+govt-462,GOVT,SD-63,SD-63,Gadkhali to Baruipur,3
+govt-463,GOVT,SD-64,SD-64,Chunakhali to Baruipur,3
+govt-464,GOVT,SD-76,SD-76,Ruby to Amtala,3
+govt-465,GOVT,SD-85,SD-85,Dhamakhali to Canning,3
+govt-466,GOVT,DN-5,DN-5,Naihati Station to Barasat Chapadali,3
+govt-467,GOVT,DN-8,DN-8,Sector V to Barasat Colony,3
+govt-468,GOVT,DN-12/1,DN-12/1,Nazat to Habra Station,3
+govt-469,GOVT,DN-13,DN-13,Hakimpur to Basirhat,3
+govt-470,GOVT,DN-18,DN-18,Baduria to Shyambazar,3
+govt-471,GOVT,DN-28,DN-28,Haroa Bazar to Barasat Chapadali,3
+govt-472,GOVT,DN-35,DN-35,Nabatkati to Barasat Chapadali,3
+govt-473,GOVT,DN-38,DN-38,Taranipur to Basirhat,3
+govt-474,GOVT,DN-44,DN-44,Dakshineswar to Bongaon,3
+govt-475,GOVT,DN-46,DN-46,Sector V to Ballyhalt,3
+govt-476,GOVT,KB-12,KB-12,Unitech Gate 1 to Parnasree,3
+govt-477,GOVT,KB-24,KB-24,Kolkata Station to Hatishala,3
+govt-557,GOVT,S-5A,S-5A,Howrah Station to Jadavpur 8B,3
+govt-558,GOVT,S-9A/N,S-9A/N,Nabanna to Dunlop,3
+govt-559,GOVT,AC-10,AC-10,Howrah Station to Nilgunge,3
+govt-560,GOVT,S-19B,S-19B,Burul to Esplanade,3
+govt-569,GOVT,AC-30S,AC-30S,Amity University to Ultadanga,3
+govt-571,GOVT,S-39A/N,S-39A/N,Nabanna to Esplanade,3
+govt-572,GOVT,AC-49,AC-49,Eden City to Amity University,3
+govt-573,GOVT,AC-55,AC-55,Barrackpore Station to Newtown,3
+govt-574,GOVT,S-66,S-66,Howrah Station to Choto Finga,3
+govt-575,GOVT,S-68,S-68,Hazra to Hazra,3
+govt-576,GOVT,VS-15,VS-15,Dakshineswar to Amtala,3
+govt-577,GOVT,VS-15A,VS-15A,Dakshineswar to Amtala,3
+govt-578,GOVT,ST-21A,ST-21A,Kanmari Bazar to Howrah Station,3
+govt-579,GOVT,ST-22,ST-22,Basanti to Howrah Station,3
+govt-580,GOVT,ST-22A,ST-22A,Howrah Station to Basanti,3
+govt-581,GOVT,ST-24,ST-24,Howrah Station to Gadkhali,3
+govt-582,GOVT,ST-29,ST-29,Ramganga to Esplanade,3
+govt-583,GOVT,ST-26,ST-26,Usthi to Esplanade,3
+govt-584,GOVT,ST-27,ST-27,Kakdwip Bus Stand to Esplanade,3
+govt-585,GOVT,ST-28,ST-28,Patharpratima to Esplanade,3
+govt-586,GOVT,ST-30,ST-30,Esplanade to Burul,3
+govt-587,GOVT,ST-31,ST-31,Digha to Esplanade,3
+govt-588,GOVT,ST-32,ST-32,Bakkhali to Esplanade,3
+govt-589,GOVT,ST-39,ST-39,Esplanade to Nimpith,3
+govt-590,GOVT,C-26A,C-26A,Howrah Station to Kamalgazi,3
+govt-591,GOVT,C-38,C-38,Howrah Station to Joka Depot,3
+govt-592,GOVT,D-10,D-10,Amtala to Barasat Chapadali,3
+govt-593,GOVT,D-32,D-32,Samshernagar to Barasat Chapadali,3
+govt-594,GOVT,D-34,D-34,Hemnagar to Barasat Chapadali,3
+govt-595,GOVT,D-35,D-35,Ghatakpukur to Rajabazar,3
+govt-596,GOVT,E-17/1,E-17/1,Digha to Barasat Chapadali,3
+govt-597,GOVT,E-24,E-24,Palashipara to Esplanade,3
+govt-598,GOVT,E-28,E-28,Bakshi to Esplanade,3
+govt-599,GOVT,E-31/1,E-31/1,Jhikira to Howrah Station,3
+govt-600,GOVT,E-35,E-35,Jayrambati to Esplanade,3
+govt-601,GOVT,E-36A Shuttle,E-36A Shuttle,Park Circus to Habra Depot,3
+govt-602,GOVT,E-36A Spl,E-36A Spl,Santragachi to Barasat Chapadali,3
+govt-603,GOVT,E-38,E-38,Mayapur to Esplanade,3
+govt-604,GOVT,E-40,E-40,Digha to Esplanade,3
+govt-605,GOVT,E-40/1,E-40/1,Digha to Esplanade,3
+govt-606,GOVT,E-40B,E-40B,Digha to Joka Depot,3
+govt-607,GOVT,E-41,E-41,Asansol to Habra Station,3
+govt-608,GOVT,E-45,E-45,Digha to Joka Depot,3
+govt-609,GOVT,E-46,E-46,Digha to Karunamoyee,3
+govt-610,GOVT,E-51,E-51,Bisunupur to Esplanade,3
+govt-611,GOVT,E-51A,E-51A,Bishnupur to Habra Station,3
+govt-612,GOVT,E-54,E-54,Digha to Serampore,3
+govt-613,GOVT,E-55,E-55,Digha to Madhyamgram,3
+govt-614,GOVT,E-56,E-56,Digha to Baduria,3
+govt-615,GOVT,E-57,E-57,Karimpur to Esplanade,3
+govt-616,GOVT,E-59,E-59,Digha to Naihati Station,3
+govt-617,GOVT,E-61,E-61,Bakkhali to Habra Depot,3
+govt-618,GOVT,E-61A,E-61A,Namkhana to Habra Depot,3
+govt-619,GOVT,E-62,E-62,Sitalia to Esplanade,3
+govt-620,GOVT,E-66,E-66,Rampurhat to Habra Depot,3
+govt-621,GOVT,E-67,E-67,Purulia to Habra Depot,3
+govt-622,GOVT,E-67A,E-67A,Bankura to Habra Depot,3
+govt-623,GOVT,E-68,E-68,Haldia to Habra Depot,3
+govt-624,GOVT,E-70,E-70,Jhargram to Habra Depot,3
+govt-625,GOVT,E-70A,E-70A,Midnapore Town to Habra Depot,3
+govt-626,GOVT,E-72,E-72,Jangipara to Esplanade,3
+govt-627,GOVT,E-73,E-73,Basirhat to Howrah Station,3
+govt-628,GOVT,E-74,E-74,Basubati Darbar Sharif to Esplanade,3
+govt-629,GOVT,E-76,E-76,Kalyani Aiims to Habra Station,3
+govt-631,GOVT,ACT-5,ACT-5,Digha to Barasat Chapadali,3
+govt-632,GOVT,ACT-6,ACT-6,Digha to Esplanade,3
+govt-633,GOVT,ACT-8,ACT-8,Digha to Habra Depot,3
+govt-634,GOVT,ACT-10,ACT-10,Asansol to Barasat Chapadali,3
+govt-635,GOVT,ACT-12,ACT-12,Asansol to Esplanade,3
+govt-636,GOVT,ACT-13,ACT-13,Suri to Esplanade,3
+govt-637,GOVT,ACT-15,ACT-15,Bakkhali to Esplanade,3
+govt-638,GOVT,ACT-17,ACT-17,Siliguri to Esplanade,3
+govt-639,GOVT,BE-7,BE-7,Balurghat to Esplanade,3
+govt-640,GOVT,BE-11,BE-11,Asansol to Karunamoyee,3
+govt-641,GOVT,BE-12,BE-12,Purulia to Esplanade,3
+govt-642,GOVT,BE-19,BE-19,Mayapur to Esplanade,3
+govt-643,GOVT,ACS-3,ACS-3,Bakkhali to Esplanade,3
+govt-644,GOVT,Kolkata to Siliguri Rocket,Kolkata to Siliguri Rocket,Esplanade to Siliguri,3
+govt-645,GOVT,Kolkata to Siliguri AC Rocket,Kolkata to Siliguri AC Rocket,Esplanade to Siliguri,3
+govt-646,GOVT,Kolkata to Suri,Kolkata to Suri,Esplanade to Suri,3
+govt-647,GOVT,Kolkata to Omarpur,Kolkata to Omarpur,Esplanade to Omarpur,3
+govt-648,GOVT,Kolkata to Malda,Kolkata to Malda,Esplanade to Malda,3
+govt-649,GOVT,Kolkata to Malda Rocket,Kolkata to Malda Rocket,Esplanade to Malda,3
+govt-650,GOVT,Kolkata to Malda AC Rocket,Kolkata to Malda AC Rocket,Esplanade to Malda,3
+govt-651,GOVT,Kolkata to Malda AC Rocket Premium,Kolkata to Malda AC Rocket Premium,Esplanade to Malda,3
+govt-652,GOVT,Kolkata to Gazole,Kolkata to Gazole,Esplanade to Gazole,3
+govt-653,GOVT,Kolkata to Chanchal,Kolkata to Chanchal,Esplanade to Chanchal,3
+govt-654,GOVT,Kolkata to Gangarampur,Kolkata to Gangarampur,Esplanade to Gangarampur,3
+govt-655,GOVT,Kolkata to Tapan,Kolkata to Tapan,Esplanade to Tapan,3
+govt-656,GOVT,Kolkata to Kandi,Kolkata to Kandi,Esplanade to Kandi,3
+govt-657,GOVT,Kolkata to Raiganj,Kolkata to Raiganj,Esplanade to Raiganj,3
+govt-658,GOVT,Kolkata to Raiganj Rocket,Kolkata to Raiganj Rocket,Esplanade to Raiganj,3
+govt-659,GOVT,Kolkata to Balurghat,Kolkata to Balurghat,Esplanade to Balurghat,3
+govt-660,GOVT,Kolkata to Nagar,Kolkata to Nagar,Esplanade to Nagar,3
+govt-661,GOVT,Kolkata to Berhampore,Kolkata to Berhampore,Esplanade to Berhampore,3
+govt-662,GOVT,Kolkata to Saiyadpara,Kolkata to Saiyadpara,Esplanade to Saiyadpara,3
+govt-663,GOVT,Kolkata to Malbazar,Kolkata to Malbazar,Esplanade to Malbazar,3
+govt-664,GOVT,Kolkata to Joypur,Kolkata to Joypur,Esplanade to Joypur,3
+govt-665,GOVT,Kolkata to Moynaguri,Kolkata to Moynaguri,Esplanade to Moynaguri,3
+govt-666,GOVT,Kolkata to Cooch Behar,Kolkata to Cooch Behar,Esplanade to Cooch Behar,3
+govt-667,GOVT,Kolkata to Cooch Behar Rocket Service,Kolkata to Cooch Behar Rocket Service,Esplanade to Cooch Behar,3
+govt-668,GOVT,Kolkata to Alipurduar,Kolkata to Alipurduar,Esplanade to Alipurduar,3
+govt-669,GOVT,Kolkata to Dhuliyan,Kolkata to Dhuliyan,Esplanade to Dhuliyan,3
+govt-670,GOVT,Kolkata to Chakta,Kolkata to Chakta,Esplanade to Chakta,3
+govt-671,GOVT,Kolkata to Siliguri Rocket,Kolkata to Siliguri Rocket,Siliguri to Esplanade,3
+govt-672,GOVT,Kolkata to Siliguri AC Rocket,Kolkata to Siliguri AC Rocket,Siliguri to Esplanade,3
+govt-673,GOVT,Kolkata to Suri,Kolkata to Suri,Suri to Esplanade,3
+govt-674,GOVT,Kolkata to Omarpur,Kolkata to Omarpur,Omarpur to Esplanade,3
+govt-675,GOVT,Kolkata to Malda,Kolkata to Malda,Malda to Esplanade,3
+govt-676,GOVT,Kolkata to Malda Rocket,Kolkata to Malda Rocket,Malda to Esplanade,3
+govt-677,GOVT,Kolkata to Malda AC Rocket,Kolkata to Malda AC Rocket,Malda to Esplanade,3
+govt-678,GOVT,Kolkata to Malda AC Rocket Premium,Kolkata to Malda AC Rocket Premium,Malda to Esplanade,3
+govt-679,GOVT,Kolkata to Gazole,Kolkata to Gazole,Gazole to Esplanade,3
+govt-680,GOVT,Kolkata to Chanchal,Kolkata to Chanchal,Chanchal to Esplanade,3
+govt-681,GOVT,Kolkata to Gangarampur,Kolkata to Gangarampur,Gangarampur to Esplanade,3
+govt-682,GOVT,Kolkata to Tapan,Kolkata to Tapan,Tapan to Esplanade,3
+govt-683,GOVT,Kolkata to Kandi,Kolkata to Kandi,Kandi to Esplanade,3
+govt-684,GOVT,Kolkata to Raiganj,Kolkata to Raiganj,Raiganj to Esplanade,3
+govt-685,GOVT,Kolkata to Raiganj Rocket,Kolkata to Raiganj Rocket,Raiganj to Esplanade,3
+govt-686,GOVT,Kolkata to Balurghat,Kolkata to Balurghat,Balurghat to Esplanade,3
+govt-687,GOVT,Kolkata to Nagar,Kolkata to Nagar,Nagar to Esplanade,3
+govt-688,GOVT,Kolkata to Berhampore,Kolkata to Berhampore,Berhampore to Esplanade,3
+govt-689,GOVT,Kolkata to Saiyadpara,Kolkata to Saiyadpara,Saiyadpara to Esplanade,3
+govt-690,GOVT,Kolkata to Malbazar,Kolkata to Malbazar,Malbazar to Esplanade,3
+govt-691,GOVT,Kolkata to Joypur,Kolkata to Joypur,Joypur to Esplanade,3
+govt-692,GOVT,Kolkata to Moynaguri,Kolkata to Moynaguri,Moynaguri to Esplanade,3
+govt-693,GOVT,Kolkata to Cooch Behar,Kolkata to Cooch Behar,Cooch Behar to Esplanade,3
+govt-694,GOVT,Kolkata to Cooch Behar Rocket Service,Kolkata to Cooch Behar Rocket Service,Cooch Behar to Esplanade,3
+govt-695,GOVT,Kolkata to Alipurduar,Kolkata to Alipurduar,Alipurduar to Esplanade,3
+govt-696,GOVT,Kolkata to Dhuliyan,Kolkata to Dhuliyan,Dhuliyan to Esplanade,3
+govt-697,GOVT,Kolkata to Chakta,Kolkata to Chakta,Chakta to Esplanade,3
+govt-698,GOVT,Kolkata to Siliguri,Kolkata to Siliguri,Esplanade to Siliguri,3
+govt-699,GOVT,Kolkata to Bakkhali,Kolkata to Bakkhali,Esplanade to Bakkhali,3
+govt-700,GOVT,Kolkata to Digha,Kolkata to Digha,Esplanade to Digha,3
+govt-701,GOVT,Kolkata to Durgapur,Kolkata to Durgapur,Esplanade to Durgapur,3
+govt-702,GOVT,Kolkata to Durgapur AC Premium,Kolkata to Durgapur AC Premium,Esplanade to Durgapur,3
+govt-703,GOVT,Kolkata to Barddhaman,Kolkata to Barddhaman,Esplanade to Barddhaman,3
+govt-704,GOVT,Kolkata to Barddhaman AC Premium,Kolkata to Barddhaman AC Premium,Esplanade to Barddhaman,3
+govt-705,GOVT,Kolkata to Suri,Kolkata to Suri,Esplanade to Suri,3
+govt-706,GOVT,Kolkata to Purulia,Kolkata to Purulia,Esplanade to Purulia,3
+govt-708,GOVT,Kolkata to Jhargram,Kolkata to Jhargram,Esplanade to Jhargram,3
+govt-709,GOVT,Kolkata to Jhargram,Kolkata to Jhargram,Esplanade to Jhargram,3
+govt-710,GOVT,Kolkata to Belpahari,Kolkata to Belpahari,Esplanade to Belpahari,3
+govt-711,GOVT,Kolkata to Bankura,Kolkata to Bankura,Esplanade to Bankura,3
+govt-712,GOVT,Kolkata to Bandowan,Kolkata to Bandowan,Esplanade to Bandowan,3
+govt-713,GOVT,Kolkata to Bandowan,Kolkata to Bandowan,Esplanade to Bandowan,3
+govt-714,GOVT,Kolkata to Rampurhat,Kolkata to Rampurhat,Esplanade to Rampurhat,3
+govt-715,GOVT,Kolkata to Tarapith,Kolkata to Tarapith,Esplanade to Tarapith,3
+govt-716,GOVT,Kolkata to Tarapith,Kolkata to Tarapith,Esplanade to Tarapith,3
+govt-717,GOVT,Kolkata to Tarapith,Kolkata to Tarapith,Esplanade to Barshal,3
+govt-718,GOVT,Kolkata to Malda,Kolkata to Malda,Esplanade to Malda,3
+govt-719,GOVT,Kolkata to Malda,Kolkata to Malda,Esplanade to Malda,3
+govt-720,GOVT,Kolkata to Shyamsundar,Kolkata to Shyamsundar,Esplanade to Shyamsundar,3
+govt-721,GOVT,Kolkata to Gangarampur,Kolkata to Gangarampur,Esplanade to Gangarampur,3
+govt-722,GOVT,Kolkata to Labhpur,Kolkata to Labhpur,Esplanade to Labhpur,3
+govt-723,GOVT,Kolkata to Shimuliyahat,Kolkata to Shimuliyahat,Esplanade to Shimuliyahat,3
+govt-724,GOVT,Kolkata to Nandigram,Kolkata to Nandigram,Esplanade to Nandigram,3
+govt-725,GOVT,Kolkata to Maldanga,Kolkata to Maldanga,Esplanade to Maldanga,3
+govt-726,GOVT,Kolkata to Asansol,Kolkata to Asansol,Esplanade to Asansol,3
+govt-727,GOVT,Kolkata to Asansol,Kolkata to Asansol,Esplanade to Asansol,3
+govt-728,GOVT,Kolkata to Kalna,Kolkata to Kalna,Esplanade to Kalna,3
+govt-729,GOVT,Kolkata to Ukhra,Kolkata to Ukhra,Esplanade to Ukhra,3
+govt-730,GOVT,Kolkata to Harishpur,Kolkata to Harishpur,Esplanade to Harishpur,3
+govt-731,GOVT,Kolkata to Kuli,Kolkata to Kuli,Esplanade to Kuli,3
+govt-732,GOVT,Kolkata to Manbazar,Kolkata to Manbazar,Esplanade to Manbazar,3
+govt-733,GOVT,Kolkata to Kirnahar,Kolkata to Kirnahar,Esplanade to Kirnahar,3
+govt-734,GOVT,Kolkata to Tarapith,Kolkata to Tarapith,Esplanade to Tarapith,3
+govt-735,GOVT,Kolkata to Daroka,Kolkata to Daroka,Esplanade to Daroka,3
+govt-736,GOVT,Kolkata to Sonamukhi,Kolkata to Sonamukhi,Esplanade to Sonamukhi,3
+govt-737,GOVT,Kolkata to Haldia,Kolkata to Haldia,Esplanade to Haldia,3
+govt-738,GOVT,Garia to Digha,Garia to Digha,Garia to Digha,3
+govt-739,GOVT,Garia to Digha,Garia to Digha,Garia to Digha,3
+govt-740,GOVT,Garia to Digha,Garia to Digha,Garia to Digha,3
+govt-741,GOVT,Garia to Digha AC Premium,Garia to Digha AC Premium,Garia to Digha,3
+govt-742,GOVT,Garia to Jhargram,Garia to Jhargram,Garia to Jhargram,3
+govt-743,GOVT,Garia to Jhargram,Garia to Jhargram,Garia to Jhargram,3
+govt-744,GOVT,Garia to Rampurhat,Garia to Rampurhat,Garia to Rampurhat,3
+govt-745,GOVT,Baruipur to Digha,Baruipur to Digha,Baruipur to Digha,3
+govt-746,GOVT,Baruipur to Digha AC Premium,Baruipur to Digha AC Premium,Baruipur to Digha,3
+govt-747,GOVT,Kudghat to Tarapith,Kudghat to Tarapith,Tollygunge to Tarapith,3
+govt-748,GOVT,Nainan to Esplanade,Nainan to Esplanade,Nainan to Esplanade,3
+govt-749,GOVT,Nainan to Malda,Nainan to Malda,Nainan to Malda,3
+govt-750,GOVT,Digha to Lagola,Digha to Lagola,Digha to Lalgola,3
+govt-751,GOVT,Digha to Suri,Digha to Suri,Digha to Suri,3
+govt-752,GOVT,Kolkata to Kharika,Kolkata to Kharika,Esplanade to Kharika,3
+govt-753,GOVT,Haldia to Asansol,Haldia to Asansol,Haldia Township to Asansol,3
+govt-754,GOVT,Haldia to Barakar,Haldia to Barakar,Haldia to Barakar,3
+govt-755,GOVT,Haldia to Tarapith,Haldia to Tarapith,Haldia to Barshal,3
+govt-756,GOVT,Chittaranjan to Haldia,Chittaranjan to Haldia,Chittaranjan to Haldia,3
+govt-757,GOVT,Tarapith to Nainan,Tarapith to Nainan,Tarapith to Nainan,3
+govt-758,GOVT,Newtown to Digha AC Volvo,Newtown to Digha AC Volvo,Newtown to Digha,3
+govt-759,GOVT,Karunamoyee to Digha,Karunamoyee to Digha,Karunamoyee to Digha,3
+govt-760,GOVT,Karunamoyee to Bankura,Karunamoyee to Bankura,Bankura to Karunamoyee,3
+govt-761,GOVT,Karunamoyee to Barddhaman,Karunamoyee to Barddhaman,Karunamoyee to Barddhaman,3
+govt-762,GOVT,Karunamoyee to Midnapore,Karunamoyee to Midnapore,Karunamoyee to Midnapore,3
+govt-763,GOVT,Karunamoyee to Midnapore,Karunamoyee to Midnapore,Karunamoyee to Midnapore,3
+govt-764,GOVT,Karunamoyee to Haldia,Karunamoyee to Haldia,Karunamoyee to Haldia,3
+govt-765,GOVT,Karunamoyee to Jhargram,Karunamoyee to Jhargram,Karunamoyee to Jhargram,3
+govt-766,GOVT,Karunamoyee to Bandowan,Karunamoyee to Bandowan,Karunamoyee to Bandowan,3
+govt-767,GOVT,Karunamoyee to Durgapur,Karunamoyee to Durgapur,Karunamoyee to Durgapur,3
+govt-768,GOVT,Karunamoyee to Kalna,Karunamoyee to Kalna,Karunamoyee to Kalna,3
+govt-769,GOVT,Karunamoyee to Suri,Karunamoyee to Suri,Karunamoyee to Suri,3
+govt-770,GOVT,Karunamoyee to Asansol,Karunamoyee to Asansol,Karunamoyee to Asansol,3
+govt-771,GOVT,Karunamoyee to Asansol AC Premium,Karunamoyee to Asansol AC Premium,Karunamoyee to Asansol,3
+govt-772,GOVT,Karunamoyee to Haldia,Karunamoyee to Haldia,Karunamoyee to Haldia,3
+govt-773,GOVT,Karunamoyee to Haldia AC Premium,Karunamoyee to Haldia AC Premium,Karunamoyee to Haldia,3
+govt-774,GOVT,Habra to Midnapore,Habra to Midnapore,Habra to Midnapore,3
+govt-775,GOVT,Habra to Suri,Habra to Suri,Habra to Suri,3
+govt-776,GOVT,Habra to Digha,Habra to Digha,Habra to Digha,3
+govt-777,GOVT,Habra to Durgapur,Habra to Durgapur,Habra to Durgapur,3
+govt-778,GOVT,Habra to Asansol,Habra to Asansol,Habra to Asansol,3
+govt-779,GOVT,Bongaon to Asansol,Bongaon to Asansol,Bongaon to Asansol,3
+govt-780,GOVT,Barasat to Digha,Barasat to Digha,Barasat to Digha,3
+govt-781,GOVT,Barasat to Digha AC Premium,Barasat to Digha AC Premium,Barasat to Digha,3
+govt-782,GOVT,Barasat to Durgapur,Barasat to Durgapur,Barasat to Durgapur,3
+govt-783,GOVT,Barasat to Suri,Barasat to Suri,Barasat to Suri,3
+govt-784,GOVT,Kolkata to Katwa,Kolkata to Katwa,Esplanade to Dainhat,3
+govt-785,GOVT,Kolkata to Chalta,Kolkata to Chalta,Esplanade to Ketugram,3
+govt-786,GOVT,Karunamoyee to Salboni,Karunamoyee to Salboni,Karunamoyee to Godapiasal,3
+govt-787,GOVT,Kolkata to Bolpur,Kolkata to Bolpur,Esplanade to Bolpur,3
+govt-788,GOVT,Kolkata to Arambagh,Kolkata to Arambagh,Esplanade to Arambagh,3
+govt-789,GOVT,Dunlop to Digha,Dunlop to Digha,Esplanade to Digha,3
+govt-790,GOVT,Birati to Digha,Birati to Digha,Birati to Digha,3
+govt-791,GOVT,Khardah to Digha,Khardah to Digha,Khardaha to Digha,3
+govt-792,GOVT,Belgharia Badamtala to Digha,Belgharia Badamtala to Digha,Belgharia to Old Digha,3
+govt-793,GOVT,Digha to Bagula,Digha to Bagula,Digha to Aranghata,3
+govt-794,GOVT,Digha to Dumdum Station,Digha to Dumdum Station,Digha to Dumdum Station,3
+govt-795,GOVT,Digha to Durgapur,Digha to Durgapur,Digha to Durgapur,3
+govt-796,GOVT,Kolkata to Rasulpur,Kolkata to Rasulpur,Esplanade to Rasulpur,3
+govt-797,GOVT,Kolkata to Langalhata,Kolkata to Langalhata,Esplanade to Labhpur,3
+govt-798,GOVT,Kolkata to Berhampore,Kolkata to Berhampore,Esplanade to Khagraghat,3
+govt-799,GOVT,Kolkata to Arambagh,Kolkata to Arambagh,Esplanade to Arambagh,3
+govt-800,GOVT,Kolkata to Bishnupur,Kolkata to Bishnupur,Esplanade to Bishnupur,3
+govt-801,GOVT,Kolkata to Dantan,Kolkata to Dantan,Esplanade to Dantan,3
+govt-802,GOVT,Digha to Sarsuna,Digha to Sarsuna,Digha to Behala Chowrasta,3
+govt-803,GOVT,Digha to Kudgha,Digha to Kudgha,Digha to Kudghat,3
+govt-804,GOVT,Digha to Thakurpukur,Digha to Thakurpukur,Digha to Thakurpukur,3
+govt-805,GOVT,Kolkata to Balgona,Kolkata to Balgona,Esplanade to Balgona,3
+govt-806,GOVT,Jhargram to Digha,Jhargram to Digha,Jhargram to Digha,3
+govt-807,GOVT,New Barrackpore to Digha,New Barrackpore to Digha,New Barrackpore to Digha,3
+govt-808,GOVT,Digha to Nagar,Digha to Nagar,Digha to Kuli,3
+govt-809,GOVT,Kolkata to Kantakhali,Kolkata to Kantakhali,Esplanade to Kantakhali,3
+govt-810,GOVT,Kolkata to Gopiganj,Kolkata to Gopiganj,Esplanade to Gopiganj,3
+govt-811,GOVT,Kolkata to Baghmundi,Kolkata to Baghmundi,Esplanade to Baghmundi,3
+govt-812,GOVT,Digha to Kirnahar,Digha to Kirnahar,Digha to Kirnahar,3
+govt-813,GOVT,Kolkata to Dhumsai,Kolkata to Dhumsai,Esplanade to Dhumsai,3
+govt-814,GOVT,Barrackpore to Haldia,Barrackpore to Haldia,Barrackpore to Haldia,3
+govt-815,GOVT,Karunamoyee to Jhalda,Karunamoyee to Jhalda,Karunamoyee to Jhalda,3
+govt-816,GOVT,Garia to Midnapore,Garia to Midnapore,Garia to Midnapore,3
+govt-817,GOVT,Kolkata To Belpahari,Kolkata To Belpahari,Esplanade to Belpahari,3
+govt-818,GOVT,Rajbalhat to Haldia,Rajbalhat to Haldia,Rajbalhat to Haldia,3
+govt-819,GOVT,Midnapore to Omarpur,Midnapore to Omarpur,Midnapore to Omarpur,3
+govt-820,GOVT,Kolkata to Siliguri,Kolkata to Siliguri,Siliguri to Esplanade,3
+govt-821,GOVT,Kolkata to Bakkhali,Kolkata to Bakkhali,Bakkhali to Esplanade,3
+govt-822,GOVT,Kolkata to Digha,Kolkata to Digha,Digha to Esplanade,3
+govt-823,GOVT,Kolkata to Durgapur,Kolkata to Durgapur,Durgapur to Esplanade,3
+govt-824,GOVT,Kolkata to Durgapur AC Premium,Kolkata to Durgapur AC Premium,Durgapur to Esplanade,3
+govt-825,GOVT,Kolkata to Barddhaman,Kolkata to Barddhaman,Barddhaman to Esplanade,3
+govt-826,GOVT,Kolkata to Barddhaman AC Premium,Kolkata to Barddhaman AC Premium,Barddhaman to Esplanade,3
+govt-828,GOVT,Kolkata to Suri,Kolkata to Suri,Suri to Esplanade,3
+govt-829,GOVT,Kolkata to Purulia,Kolkata to Purulia,Purulia to Esplanade,3
+govt-830,GOVT,Kolkata to Jhargram,Kolkata to Jhargram,Jhargram to Esplanade,3
+govt-831,GOVT,Kolkata to Jhargram,Kolkata to Jhargram,Jhargram to Esplanade,3
+govt-832,GOVT,Kolkata to Belpahari,Kolkata to Belpahari,Belpahari to Esplanade,3
+govt-833,GOVT,Kolkata to Bankura,Kolkata to Bankura,Bankura to Esplanade,3
+govt-834,GOVT,Kolkata to Bandowan,Kolkata to Bandowan,Bandowan to Esplanade,3
+govt-835,GOVT,Kolkata to Bandowan,Kolkata to Bandowan,Bandowan to Esplanade,3
+govt-836,GOVT,Kolkata to Rampurhat,Kolkata to Rampurhat,Rampurhat to Esplanade,3
+govt-837,GOVT,Kolkata to Tarapith,Kolkata to Tarapith,Tarapith to Esplanade,3
+govt-838,GOVT,Kolkata to Tarapith,Kolkata to Tarapith,Tarapith to Esplanade,3
+govt-839,GOVT,Kolkata to Tarapith,Kolkata to Tarapith,Barshal to Esplanade,3
+govt-840,GOVT,Kolkata to Malda,Kolkata to Malda,Malda to Esplanade,3
+govt-841,GOVT,Kolkata to Malda,Kolkata to Malda,Malda to Esplanade,3
+govt-842,GOVT,Kolkata to Shyamsundar,Kolkata to Shyamsundar,Shyamsundar to Esplanade,3
+govt-843,GOVT,Kolkata to Gangarampur,Kolkata to Gangarampur,Gangarampur to Esplanade,3
+govt-844,GOVT,Kolkata to Labhpur,Kolkata to Labhpur,Labhpur to Esplanade,3
+govt-845,GOVT,Kolkata to Shimuliyahat,Kolkata to Shimuliyahat,Shimuliyahat to Esplanade,3
+govt-846,GOVT,Kolkata to Nandigram,Kolkata to Nandigram,Nandigram to Esplanade,3
+govt-847,GOVT,Kolkata to Maldanga,Kolkata to Maldanga,Maldanga to Esplanade,3
+govt-848,GOVT,Kolkata to Asansol,Kolkata to Asansol,Asansol to Esplanade,3
+govt-849,GOVT,Kolkata to Asansol AC Premium,Kolkata to Asansol AC Premium,Asansol to Esplanade,3
+govt-850,GOVT,Kolkata to Kalna,Kolkata to Kalna,Kalna to Esplanade,3
+govt-851,GOVT,Kolkata to Ukhra,Kolkata to Ukhra,Ukhra to Esplanade,3
+govt-852,GOVT,Kolkata to Harishpur,Kolkata to Harishpur,Harishpur to Esplanade,3
+govt-853,GOVT,Kolkata to Kuli,Kolkata to Kuli,Kuli to Esplanade,3
+govt-854,GOVT,Kolkata to Manbazar,Kolkata to Manbazar,Manbazar to Esplanade,3
+govt-855,GOVT,Kolkata to Kirnahar,Kolkata to Kirnahar,Kirnahar to Esplanade,3
+govt-856,GOVT,Kolkata to Tarapith,Kolkata to Tarapith,Tarapith to Esplanade,3
+govt-857,GOVT,Kolkata to Daroka,Kolkata to Daroka,Daroka to Esplanade,3
+govt-858,GOVT,Kolkata to Sonamukhi,Kolkata to Sonamukhi,Sonamukhi to Esplanade,3
+govt-859,GOVT,Kolkata to Haldia,Kolkata to Haldia,Haldia to Esplanade,3
+govt-860,GOVT,Garia to Digha,Garia to Digha,Digha to Garia,3
+govt-861,GOVT,Garia to Digha,Garia to Digha,Digha to Garia,3
+govt-862,GOVT,Garia to Digha,Garia to Digha,Digha to Garia,3
+govt-863,GOVT,Garia to Digha AC Premium,Garia to Digha AC Premium,Digha to Garia,3
+govt-864,GOVT,Garia to Jhargram,Garia to Jhargram,Jhargram to Garia,3
+govt-865,GOVT,Garia to Jhargram,Garia to Jhargram,Jhargram to Garia,3
+govt-866,GOVT,Garia to Rampurhat,Garia to Rampurhat,Rampurhat to Garia,3
+govt-867,GOVT,Baruipur to Digha,Baruipur to Digha,Digha to Baruipur,3
+govt-868,GOVT,Baruipur to Digha AC Premium,Baruipur to Digha AC Premium,Digha to Baruipur,3
+govt-869,GOVT,Kudghat to Tarapith,Kudghat to Tarapith,Tarapith to Tollygunge,3
+govt-870,GOVT,Nainan to Esplanade,Nainan to Esplanade,Esplanade to Nainan,3
+govt-871,GOVT,Nainan to Malda,Nainan to Malda,Malda to Nainan,3
+govt-872,GOVT,Digha to Lalgola,Digha to Lalgola,Lalgola to Digha,3
+govt-873,GOVT,Digha to Suri,Digha to Suri,Suri to Digha,3
+govt-874,GOVT,Kolkata to Kharika,Kolkata to Kharika,Kharika to Esplanade,3
+govt-875,GOVT,Haldia to Asansol,Haldia to Asansol,Asansol to Haldia Township,3
+govt-876,GOVT,Haldia to Barakar,Haldia to Barakar,Barakar to Haldia,3
+govt-877,GOVT,Haldia to Tarapith,Haldia to Tarapith,Barshal to Haldia,3
+govt-878,GOVT,Chittaranjan to Haldia,Chittaranjan to Haldia,Haldia to Chittaranjan,3
+govt-879,GOVT,Tarapith to Nainan,Tarapith to Nainan,Nainan to Tarapith,3
+govt-880,GOVT,Newtown to Digha AC Volvo,Newtown to Digha AC Volvo,Digha to Newtown,3
+govt-881,GOVT,Karunamoyee to Digha,Karunamoyee to Digha,Digha to Karunamoyee,3
+govt-882,GOVT,Karunamoyee to Bankura,Karunamoyee to Bankura,Karunamoyee to Bankura,3
+govt-883,GOVT,Karunamoyee to Barddhaman,Karunamoyee to Barddhaman,Barddhaman to Karunamoyee,3
+govt-884,GOVT,Karunamoyee to Midnapore,Karunamoyee to Midnapore,Midnapore to Karunamoyee,3
+govt-885,GOVT,Karunamoyee to Midnapore,Karunamoyee to Midnapore,Midnapore to Karunamoyee,3
+govt-886,GOVT,Karunamoyee to Haldia,Karunamoyee to Haldia,Haldia to Karunamoyee,3
+govt-887,GOVT,Karunamoyee to Jhargram,Karunamoyee to Jhargram,Jhargram to Karunamoyee,3
+govt-888,GOVT,Karunamoyee to Bandowan,Karunamoyee to Bandowan,Bandowan to Karunamoyee,3
+govt-889,GOVT,Karunamoyee to Durgapur,Karunamoyee to Durgapur,Durgapur to Karunamoyee,3
+govt-890,GOVT,Karunamoyee to Kalna,Karunamoyee to Kalna,Kalna to Karunamoyee,3
+govt-891,GOVT,Karunamoyee to Suri,Karunamoyee to Suri,Suri to Karunamoyee,3
+govt-892,GOVT,Karunamoyee to Asansol,Karunamoyee to Asansol,Asansol to Karunamoyee,3
+govt-893,GOVT,Karunamoyee to Asansol AC Premium,Karunamoyee to Asansol AC Premium,Asansol to Karunamoyee,3
+govt-894,GOVT,Karunamoyee to Haldia,Karunamoyee to Haldia,Haldia to Karunamoyee,3
+govt-895,GOVT,Karunamoyee to Haldia AC Premium,Karunamoyee to Haldia AC Premium,Haldia to Karunamoyee,3
+govt-896,GOVT,Habra to Midnapore,Habra to Midnapore,Midnapore to Habra,3
+govt-897,GOVT,Habra to Suri,Habra to Suri,Suri to Habra,3
+govt-898,GOVT,Habra to Digha,Habra to Digha,Digha to Habra,3
+govt-899,GOVT,Habra to Durgapur,Habra to Durgapur,Durgapur to Habra,3
+govt-900,GOVT,Habra to Asansol,Habra to Asansol,Asansol to Habra,3
+govt-901,GOVT,Bongaon to Asansol,Bongaon to Asansol,Asansol to Bongaon,3
+govt-902,GOVT,Barasat to Digha,Barasat to Digha,Digha to Barasat,3
+govt-903,GOVT,Barasat to Digha AC Premium,Barasat to Digha AC Premium,Digha to Barasat,3
+govt-904,GOVT,Barasat to Durgapur,Barasat to Durgapur,Durgapur to Barasat,3
+govt-905,GOVT,Barasat to Suri,Barasat to Suri,Suri to Barasat,3
+govt-906,GOVT,Kolkata to Katwa,Kolkata to Katwa,Dainhat to Esplanade,3
+govt-907,GOVT,Kolkata to Chalta,Kolkata to Chalta,Ketugram to Esplanade,3
+govt-908,GOVT,Karunamoyee to Salboni,Karunamoyee to Salboni,Godapiasal to Karunamoyee,3
+govt-909,GOVT,Kolkata to Bolpur,Kolkata to Bolpur,Bolpur to Esplanade,3
+govt-910,GOVT,Kolkata to Arambagh,Kolkata to Arambagh,Arambagh to Esplanade,3
+govt-911,GOVT,Dunlop to Digha,Dunlop to Digha,Digha to Esplanade,3
+govt-912,GOVT,Birati to Digha,Birati to Digha,Digha to Birati,3
+govt-913,GOVT,Khardah to Digha,Khardah to Digha,Digha to Khardaha,3
+govt-914,GOVT,Belgharia Badamtala to Digha,Belgharia Badamtala to Digha,Digha to Belgharia,3
+govt-915,GOVT,Digha to Bagula,Digha to Bagula,Aranghata to Digha,3
+govt-916,GOVT,Digha to Dumdum Station,Digha to Dumdum Station,Dumdum Station to Digha,3
+govt-917,GOVT,Digha to Durgapur,Digha to Durgapur,Durgapur to Digha,3
+govt-918,GOVT,Kolkata to Rasulpur,Kolkata to Rasulpur,Rasulpur to Esplanade,3
+govt-919,GOVT,Kolkata to Langalhata,Kolkata to Langalhata,Labhpur to Esplanade,3
+govt-920,GOVT,Kolkata to Berhampore,Kolkata to Berhampore,Khagraghat to Esplanade,3
+govt-921,GOVT,Kolkata to Arambagh,Kolkata to Arambagh,Arambagh to Esplanade,3
+govt-922,GOVT,Kolkata to Bishnupur,Kolkata to Bishnupur,Bishnupur to Esplanade,3
+govt-923,GOVT,Kolkata to Dantan,Kolkata to Dantan,Dantan to Esplanade,3
+govt-924,GOVT,Digha to Sarsuna,Digha to Sarsuna,Behala Chowrasta to Digha,3
+govt-925,GOVT,Digha to Kudghat,Digha to Kudghat,Kudghat to Digha,3
+govt-926,GOVT,Digha to Thakurpukur,Digha to Thakurpukur,Thakurpukur to Digha,3
+govt-927,GOVT,Kolkata to Balgona,Kolkata to Balgona,Balgona to Esplanade,3
+govt-928,GOVT,Jhargram to Digha,Jhargram to Digha,Digha to Jhargram,3
+govt-929,GOVT,New Barrackpore to Digha,New Barrackpore to Digha,Digha to New Barrackpore,3
+govt-930,GOVT,Digha to Nagar,Digha to Nagar,Kuli to Digha,3
+govt-931,GOVT,Kolkata to Kantakhali,Kolkata to Kantakhali,Kantakhali to Esplanade,3
+govt-932,GOVT,Kolkata to Gopiganj,Kolkata to Gopiganj,Gopiganj to Esplanade,3
+govt-933,GOVT,Kolkata to Baghmundi,Kolkata to Baghmundi,Baghmundi to Esplanade,3
+govt-934,GOVT,Digha to Kirnahar,Digha to Kirnahar,Kirnahar to Digha,3
+govt-935,GOVT,Kolkata to Dhumsai,Kolkata to Dhumsai,Dhumsai to Esplanade,3
+govt-936,GOVT,Barrackpore to Haldia,Barrackpore to Haldia,Haldia to Barrackpore,3
+govt-937,GOVT,Karunamoyee to Jhalda,Karunamoyee to Jhalda,Jhalda to Karunamoyee,3
+govt-938,GOVT,Garia to Midnapore,Garia to Midnapore,Midnapore to Garia,3
+govt-939,GOVT,Kolkata To Belpahari,Kolkata To Belpahari,Belpahari to Esplanade,3
+govt-940,GOVT,Rajbalhat to Haldia,Rajbalhat to Haldia,Haldia to Rajbalhat,3
+govt-941,GOVT,Midnapore to Omarpur,Midnapore to Omarpur,Omarpur to Midnapore,3
+ferry-l0,FERRY,Ferry Howrah–Millennium Park,Ferry Howrah–Millennium Park,Howrah – Shipping (Millennium Park),4
+ferry-l1,FERRY,Ferry Howrah–Fairlie,Ferry Howrah–Fairlie,Howrah Ghat to Fairlie Ghat,4
+ferry-l2,FERRY,Ferry Dakshineswar–Belur Math,Ferry Dakshineswar–Belur Math,Dakshineswar to Belur Math,4
+ferry-l3,FERRY,Ferry Fairlie–Ariadaha,Ferry Fairlie–Ariadaha,"Ramakrishna-Sarada-Vivekananda Circuit: Fairlie – Ariadaha via Howrah, Bagbazar, Belur, Kuti Ghat",4
+ferry-l4,FERRY,Ferry Lot 8 (Harwood Point)–Kachuberia,Ferry Lot 8 (Harwood Point)–Kachuberia,Lot No. 8 – Kachuberia (Sagar Island),4
+ferry-l5,FERRY,Ferry Raichak–Kukrahati,Ferry Raichak–Kukrahati,Roychak – Kukrahati,4
+ferry-l6,FERRY,Ferry Narayanpur–Namkhana,Ferry Narayanpur–Namkhana,Narayanpur – Namkhana LCT service,4
+ferry-l7,FERRY,Ferry Hasnabad–Par Hasnabad,Ferry Hasnabad–Par Hasnabad,Hasnabad – Par-Hasnabad LCT service,4
+ferry-l9,FERRY,Ferry Howrah–Babughat / Chandpal,Ferry Howrah–Babughat / Chandpal,Howrah – Babughat / Chandpal Ghat,4
+ferry-l10,FERRY,Ferry Howrah–Bagbazar,Ferry Howrah–Bagbazar,Howrah – Bagbazar,4
+ferry-l11,FERRY,Ferry Ahiritola–Bandhaghat,Ferry Ahiritola–Bandhaghat,Ahiritola – Bandhaghat,4
+ferry-l12,FERRY,Ferry Howrah–Armenian,Ferry Howrah–Armenian,Howrah Station / Mullick Ghat – Armenian Ghat,4
+ferry-l13,FERRY,Ferry Babughat / Chandpal–Belur Math,Ferry Babughat / Chandpal–Belur Math,Babughat / Chandpal Ghat to Belur Math,4
+ferry-l14,FERRY,Ferry Fairlie–Dakshineswar,Ferry Fairlie–Dakshineswar,Fairlie Ghat to Dakshineswar,4
+ferry-l15,FERRY,Ferry Howrah–Garden Reach,Ferry Howrah–Garden Reach,Howrah Ghat to Garden Reach Ghat,4
+ferry-l16,FERRY,Ferry Outram–Botanical Garden,Ferry Outram–Botanical Garden,Outram Ghat to Botanical Garden,4
+ferry-l17,FERRY,Ferry Bally–Bagbazar,Ferry Bally–Bagbazar,Bally Ghat to Bagbazar Launch Ghat,4
+ferry-164999568,FERRY,Ferry Sheoraphulli–Dui Paisar,Ferry Sheoraphulli–Dui Paisar,Sheoraphulli Ghaat to Dui Paisar Ghaat,4
+ferry-207589982,FERRY,Ferry Dhobi–Jugal Auddy,Ferry Dhobi–Jugal Auddy,Dhobi Ghaat to Jugal Auddy Ferry Ghaat,4
+ferry-449781829,FERRY,Ferry Rishra–Khardah,Ferry Rishra–Khardah,Rishra Ferry Ghat to Khardah ferry service,4
+rail-sealdah_south_sealdah_namkhana,SUBURBAN,Sealdah – Namkhana (SS),Sealdah – Namkhana (SS),"Suburban railway, Sealdah South section",2
+rail-sealdah_south_sonarpur_canning,SUBURBAN,Sonarpur – Canning (SS),Sonarpur – Canning (SS),"Suburban railway, Sealdah South section",2
+rail-sealdah_south_ballygunge_budge_budge,SUBURBAN,Ballygunge – Budge Budge (SS),Ballygunge – Budge Budge (SS),"Suburban railway, Sealdah South section",2
+rail-sealdah_south_baruipur_diamond_harbour,SUBURBAN,Baruipur – Diamond Harbour (SS),Baruipur – Diamond Harbour (SS),"Suburban railway, Sealdah South section",2
+rail-howrah_howrah_katwa,SUBURBAN,Howrah – Katwa (HW),Howrah – Katwa (HW),"Suburban railway, Howrah section",2
+rail-howrah_seoraphuli_goghat,SUBURBAN,Seoraphuli – Goghat (HW),Seoraphuli – Goghat (HW),"Suburban railway, Howrah section",2
+rail-howrah_bandel_barddhaman,SUBURBAN,Bandel – Barddhaman (HW),Bandel – Barddhaman (HW),"Suburban railway, Howrah section",2
+rail-howrah_bally_saktigarh,SUBURBAN,Bally – Saktigarh (HW),Bally – Saktigarh (HW),"Suburban railway, Howrah section",2
+rail-howrah_katwa_barddhaman,SUBURBAN,Katwa – Barddhaman (HW),Katwa – Barddhaman (HW),"Suburban railway, Howrah section",2
+rail-howrah_liluah_belur_math,SUBURBAN,Liluah – Belur Math (HW),Liluah – Belur Math (HW),"Suburban railway, Howrah section",2
+rail-south_eastern_howrah_haldia,SUBURBAN,Howrah – Haldia (SE),Howrah – Haldia (SE),"Suburban railway, South Eastern section",2
+rail-south_eastern_panskura_midnapore,SUBURBAN,Panskura – Midnapore (SE),Panskura – Midnapore (SE),"Suburban railway, South Eastern section",2
+rail-south_eastern_tamluk_digha,SUBURBAN,Tamluk – Digha (SE),Tamluk – Digha (SE),"Suburban railway, South Eastern section",2
+rail-south_eastern_amta_shalimar,SUBURBAN,Amta – Shalimar (SE),Amta – Shalimar (SE),"Suburban railway, South Eastern section",2
+rail-circular_dum_dum_dum_dum,SUBURBAN,Circular Railway,Circular Railway,"Suburban railway, Circular Railway section",2
+rail-chord_sealdah_dankuni,SUBURBAN,Sealdah – Dankuni (CH),Sealdah – Dankuni (CH),"Suburban railway, Sealdah–Dankuni Chord section",2
+rail-sealdah_east_lalgola_krishnanagar_city,SUBURBAN,Lalgola – Krishnanagar City (SN),Lalgola – Krishnanagar City (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_gede_sealdah,SUBURBAN,Gede – Sealdah (SN),Gede – Sealdah (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_hasnabad_barasat,SUBURBAN,Hasnabad – Barasat (SN),Hasnabad – Barasat (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_bangaon_dum_dum,SUBURBAN,Bangaon – Dum Dum (SN),Bangaon – Dum Dum (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_krishnanagar_city_kalinarayanpur,SUBURBAN,Krishnanagar City – Kalinarayanpur (SN),Krishnanagar City – Kalinarayanpur (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_bandel_naihati,SUBURBAN,Bandel – Naihati (SN),Bandel – Naihati (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_bangaon_ranaghat,SUBURBAN,Bangaon – Ranaghat (SN),Bangaon – Ranaghat (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_krishnanagar_city_ranaghat,SUBURBAN,Krishnanagar City – Ranaghat (SN),Krishnanagar City – Ranaghat (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_kalyani_simanta_kalyani_main,SUBURBAN,Kalyani Simanta – Kalyani Main (SN),Kalyani Simanta – Kalyani Main (SN),"Suburban railway, Sealdah North section",2
+metro-blue,METRO,Metro Blue Line,Metro Blue Line,Kolkata Metro Blue Line: Dakshineswar – Shahid Khudiram,1
+metro-green,METRO,Metro Green Line,Metro Green Line,Kolkata Metro Green Line: Howrah Maidan – Salt Lake Sector V,1
+metro-purple,METRO,Metro Purple Line,Metro Purple Line,Kolkata Metro Purple Line: Joka – Majerhat,1
+metro-orange,METRO,Metro Orange Line,Metro Orange Line,Kolkata Metro Orange Line: Kavi Subhash – Beleghata,1
+metro-yellow,METRO,Metro Yellow Line,Metro Yellow Line,Kolkata Metro Yellow Line: Noapara – Jai Hind,1

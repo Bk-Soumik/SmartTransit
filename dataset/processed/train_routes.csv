@@ -1,0 +1,26 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type
+rail-sealdah_south_sealdah_namkhana,SUBURBAN,Sealdah – Namkhana (SS),Sealdah – Namkhana (SS),"Suburban railway, Sealdah South section",2
+rail-sealdah_south_sonarpur_canning,SUBURBAN,Sonarpur – Canning (SS),Sonarpur – Canning (SS),"Suburban railway, Sealdah South section",2
+rail-sealdah_south_ballygunge_budge_budge,SUBURBAN,Ballygunge – Budge Budge (SS),Ballygunge – Budge Budge (SS),"Suburban railway, Sealdah South section",2
+rail-sealdah_south_baruipur_diamond_harbour,SUBURBAN,Baruipur – Diamond Harbour (SS),Baruipur – Diamond Harbour (SS),"Suburban railway, Sealdah South section",2
+rail-howrah_howrah_katwa,SUBURBAN,Howrah – Katwa (HW),Howrah – Katwa (HW),"Suburban railway, Howrah section",2
+rail-howrah_seoraphuli_goghat,SUBURBAN,Seoraphuli – Goghat (HW),Seoraphuli – Goghat (HW),"Suburban railway, Howrah section",2
+rail-howrah_bandel_barddhaman,SUBURBAN,Bandel – Barddhaman (HW),Bandel – Barddhaman (HW),"Suburban railway, Howrah section",2
+rail-howrah_bally_saktigarh,SUBURBAN,Bally – Saktigarh (HW),Bally – Saktigarh (HW),"Suburban railway, Howrah section",2
+rail-howrah_katwa_barddhaman,SUBURBAN,Katwa – Barddhaman (HW),Katwa – Barddhaman (HW),"Suburban railway, Howrah section",2
+rail-howrah_liluah_belur_math,SUBURBAN,Liluah – Belur Math (HW),Liluah – Belur Math (HW),"Suburban railway, Howrah section",2
+rail-south_eastern_howrah_haldia,SUBURBAN,Howrah – Haldia (SE),Howrah – Haldia (SE),"Suburban railway, South Eastern section",2
+rail-south_eastern_panskura_midnapore,SUBURBAN,Panskura – Midnapore (SE),Panskura – Midnapore (SE),"Suburban railway, South Eastern section",2
+rail-south_eastern_tamluk_digha,SUBURBAN,Tamluk – Digha (SE),Tamluk – Digha (SE),"Suburban railway, South Eastern section",2
+rail-south_eastern_amta_shalimar,SUBURBAN,Amta – Shalimar (SE),Amta – Shalimar (SE),"Suburban railway, South Eastern section",2
+rail-circular_dum_dum_dum_dum,SUBURBAN,Circular Railway,Circular Railway,"Suburban railway, Circular Railway section",2
+rail-chord_sealdah_dankuni,SUBURBAN,Sealdah – Dankuni (CH),Sealdah – Dankuni (CH),"Suburban railway, Sealdah–Dankuni Chord section",2
+rail-sealdah_east_lalgola_krishnanagar_city,SUBURBAN,Lalgola – Krishnanagar City (SN),Lalgola – Krishnanagar City (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_gede_sealdah,SUBURBAN,Gede – Sealdah (SN),Gede – Sealdah (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_hasnabad_barasat,SUBURBAN,Hasnabad – Barasat (SN),Hasnabad – Barasat (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_bangaon_dum_dum,SUBURBAN,Bangaon – Dum Dum (SN),Bangaon – Dum Dum (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_krishnanagar_city_kalinarayanpur,SUBURBAN,Krishnanagar City – Kalinarayanpur (SN),Krishnanagar City – Kalinarayanpur (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_bandel_naihati,SUBURBAN,Bandel – Naihati (SN),Bandel – Naihati (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_bangaon_ranaghat,SUBURBAN,Bangaon – Ranaghat (SN),Bangaon – Ranaghat (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_krishnanagar_city_ranaghat,SUBURBAN,Krishnanagar City – Ranaghat (SN),Krishnanagar City – Ranaghat (SN),"Suburban railway, Sealdah North section",2
+rail-sealdah_east_kalyani_simanta_kalyani_main,SUBURBAN,Kalyani Simanta – Kalyani Main (SN),Kalyani Simanta – Kalyani Main (SN),"Suburban railway, Sealdah North section",2

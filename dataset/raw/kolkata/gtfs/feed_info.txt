@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_url
+reclaim.city (India_GTFS),https://github.com/reclaimchennai/India_GTFS,en,20261101,20271031,20261120,https://github.com/reclaimchennai/India_GTFS/issues

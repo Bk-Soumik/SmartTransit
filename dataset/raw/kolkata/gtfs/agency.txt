@@ -1,0 +1,10 @@
+agency_id,agency_name,agency_url,agency_timezone
+WBTC,West Bengal Transport Corporation,https://wbtconline.in/wbtc-city-bus-routes,Asia/Kolkata
+PVT,Private route buses (Kolkata),https://kolkata-bus.vercel.app/,Asia/Kolkata
+MINI,Private minibuses (Kolkata),https://kolkata-bus.vercel.app/,Asia/Kolkata
+OTHER,Other bus operators (as named in the Chalo app),https://chalo.com/,Asia/Kolkata
+WBTC-TRAM,West Bengal Transport Corporation (Calcutta Tramways),https://www.calcuttatramways.com/tram-route-search/,Asia/Kolkata
+GOVT,"State transport routes (WBTC / SBSTC / NBSTC, community list)",https://kolkata-bus.vercel.app/,Asia/Kolkata
+FERRY,Hooghly river ferries,https://www.openstreetmap.org/,Asia/Kolkata
+SUBURBAN,Indian Railways suburban services (Eastern and South Eastern Railway),https://maps.reclaimchennai.city/suburban/,Asia/Kolkata
+METRO,"Metro Railway, Kolkata",https://mtp.indianrailways.gov.in/,Asia/Kolkata

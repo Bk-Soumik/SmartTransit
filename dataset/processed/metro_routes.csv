@@ -1,0 +1,6 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type
+metro-blue,METRO,Metro Blue Line,Metro Blue Line,Kolkata Metro Blue Line: Dakshineswar – Shahid Khudiram,1
+metro-green,METRO,Metro Green Line,Metro Green Line,Kolkata Metro Green Line: Howrah Maidan – Salt Lake Sector V,1
+metro-purple,METRO,Metro Purple Line,Metro Purple Line,Kolkata Metro Purple Line: Joka – Majerhat,1
+metro-orange,METRO,Metro Orange Line,Metro Orange Line,Kolkata Metro Orange Line: Kavi Subhash – Beleghata,1
+metro-yellow,METRO,Metro Yellow Line,Metro Yellow Line,Kolkata Metro Yellow Line: Noapara – Jai Hind,1
